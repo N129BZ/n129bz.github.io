@@ -9,10 +9,13 @@
     opacity: 1
 }); */
 
-var pinStyle = new ol.style.Style({
+const pinStyle = new ol.style.Style({
     image: new ol.style.Icon({
-        src: "img/pin.png",
-        scale: .5,
+        anchor: [0.5, 1], // Anchor point (bottom center)
+        anchorXUnits: 'fraction',
+        anchorYUnits: 'fraction',
+        src: 'img/pin.png', 
+        scale: 1.0                  
     })
 });
 
