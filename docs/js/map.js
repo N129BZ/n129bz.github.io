@@ -1,7 +1,10 @@
 
+const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><path d="M-995.72 1225.8c-.273-.78-1.645-6.027-3.049-11.662-4.441-17.823-12.122-36.988-22.546-56.255-5.984-11.061-7.067-12.824-24.551-40-28.252-43.911-33.217-56.241-32.173-79.89.957-21.672 8.272-37.909 24.149-53.61 13.179-13.032 27.807-20.549 45.601-23.432 44.097-7.145 86.878 21.883 95.546 64.828 2.02 10.012 1.572 27.243-.953 36.604-2.77 10.269-13.883 31.045-29.589 55.315-28.348 43.807-39.082 65.687-47.119 96.05-3.111 11.755-4.398 14.673-5.316 12.052z" style="stroke:#5a0000;stroke-width:5.7;fill:#f41922" transform="matrix(.18403 0 0 .17534 214.35 -157.87)"/><path d="M-962.86 1042.4c0 16.568-14.071 30-31.429 30s-31.429-13.432-31.429-30c0-16.569 14.071-30 31.429-30s31.429 13.431 31.429 30" style="stroke-width:0;fill:#0e232e" transform="matrix(.2016 0 0 .19208 231.816 -173.312)"/></svg>`;
+
 const pinStyle = new ol.style.Icon({
     crossOrigin: 'anonymous',
-    src: "img/red-blank.png",
+    src: 'data:image/svg+xml;utf8,' + encodeURIComponent(svg),
+    scale: .05,
     opacity: 1
 });
 
@@ -27,11 +30,10 @@ async function addMarkers() {
             const marker = new ol.Feature({
                 geometry: new ol.geom.Point(ol.proj.fromLonLat([lon, lat])),
                 name: item.address,
-                scale: .08,
+                style: new ol.style.Style({
+                    image: pinStyle
+                })
             });
-            marker.setStyle(new ol.style.Style({
-                image: pinStyle
-            }));
             vectorSource.addFeature(marker); 
         } 
         catch (error) {
