@@ -1,3 +1,10 @@
+
+const pinStyle = new ol.style.Icon({
+    crossOrigin: 'anonymous',
+    src: "img/red-blank.png",
+    opacity: 1
+});
+
 // 1. Initialize the Map
 const vectorSource = new ol.source.Vector();
 const map = new ol.Map({
@@ -21,6 +28,9 @@ async function addMarkers() {
                 geometry: new ol.geom.Point(ol.proj.fromLonLat([lon, lat])),
                 name: item.address
             });
+            marker.setStyle(new ol.style.Style({
+                image: pinStyle
+            }));
             vectorSource.addFeature(marker); 
         } 
         catch (error) {
