@@ -19,10 +19,7 @@
         const map = new ol.Map({
             target: 'map',
             layers: [
-                new ol.layer.Tile({ source: new ol.source.OSM({
-                        referrerPolicy: 'no-referrer-when-downgrade'
-                    }) 
-                }),
+                new ol.layer.Tile({ source: new ol.source.OSM()}),
                 new ol.layer.Vector({ source: vectorSource })
             ],
             view: new ol.View({ center: [0, 0], zoom: 2 })
