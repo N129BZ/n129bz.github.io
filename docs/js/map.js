@@ -4,9 +4,6 @@ const container = document.getElementById('popup');
 const content = document.getElementById('popup-content');
 const closer = document.getElementById('popup-closer');
 
-/**
- * Create an overlay to anchor a popup to the map.
- */
 const overlay = new ol.Overlay({
     element: container,
     autoPan: {
@@ -45,7 +42,7 @@ map.on('singleclick', function (evt) {
     const feature = map.forEachFeatureAtPixel(evt.pixel, (feat) => feat);
 
     if (feature) {
-        const name = feature.get('name'); // Retrieve the 'name' property
+        const name = feature.get('name'); 
         const coordinates = feature.getGeometry().getCoordinates();
         content.innerHTML = `<code>${name}</code>`;
         overlay.setPosition(coordinates);
@@ -60,9 +57,9 @@ map.on('singleclick', function (evt) {
  * @return {boolean} Don't follow the href.
  */
 closer.onclick = function () {
-  overlay.setPosition(undefined);
-  closer.blur();
-  return false;
+    overlay.setPosition(undefined);
+    closer.blur();
+    return false;
 };
 
 /**
