@@ -4,6 +4,18 @@ const container = document.getElementById('popup');
 const content = document.getElementById('popup-content');
 const closer = document.getElementById('popup-closer');
 
+/**
+ * Create an overlay to anchor a popup to the map.
+ */
+const overlay = new Overlay({
+    element: container,
+    autoPan: {
+        animation: {
+            duration: 250,
+        },
+    },
+});
+
 const pinStyle = new ol.style.Style({
     image: new ol.style.Icon({
         anchor: [0.5, 1], // Anchor point (bottom center)
@@ -16,6 +28,7 @@ const pinStyle = new ol.style.Style({
 
 // Initialize the Map
 const vectorSource = new ol.source.Vector();
+
 const map = new ol.Map({
     target: 'map',
     layers: [
@@ -34,7 +47,7 @@ map.on('singleclick', function (evt) {
     if (feature) {
         const name = feature.get('name'); // Retrieve the 'name' property
         const coordinates = feature.getGeometry().getCoordinates();
-        content.innerHTML = `<p>Feature Name:</p><code>${name}</code>`;
+        content.innerHTML = `<code>${name}</code>`;
         overlay.setPosition(coordinates);
     } 
     else {
