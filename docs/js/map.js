@@ -26,7 +26,8 @@ async function addMarkers() {
             // Create Marker Feature
             const marker = new ol.Feature({
                 geometry: new ol.geom.Point(ol.proj.fromLonLat([lon, lat])),
-                name: item.address
+                name: item.address,
+                scale: .08,
             });
             marker.setStyle(new ol.style.Style({
                 image: pinStyle
