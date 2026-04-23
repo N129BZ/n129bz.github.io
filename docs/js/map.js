@@ -31,7 +31,8 @@ async function addMarkers() {
                 geometry: new ol.geom.Point(ol.proj.fromLonLat([lon, lat])),
                 name: item.address,
                 style: new ol.style.Style({
-                    image: pinStyle
+                    image: pinStyle,
+                    scale: .01
                 })
             });
             vectorSource.addFeature(marker); 
