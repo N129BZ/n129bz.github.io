@@ -12,7 +12,7 @@ const svg = 'data:image/svg+xml;charset=utf-8,' + encodeURIComponent(rawsvg);
 var pinStyle = new ol.style.Style({
     image: new ol.style.Icon({
         src: svg,
-        scale: .01
+        scale: .1
     })
 });
 
