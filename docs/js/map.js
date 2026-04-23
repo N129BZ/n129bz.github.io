@@ -7,7 +7,7 @@ const closer = document.getElementById('popup-closer');
 /**
  * Create an overlay to anchor a popup to the map.
  */
-const overlay = new Overlay({
+const overlay = new ol.Overlay({
     element: container,
     autoPan: {
         animation: {
