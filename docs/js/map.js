@@ -8,6 +8,19 @@ const closer = document.getElementById('popup-closer');
 const isMobile = window.innerWidth <= 768; 
 const markerScale = isMobile ? 1.5 : 0.5; // Larger icons for mobile fingers
 
+document.addEventListener('click', function (event) {
+    // Check if the clicked element is the email link
+    if (event.target.matches('.email-word')) {
+        const divText = document.getElementById("lon-lat-box").textContent;
+        const email = "n129bz@outlook.com";
+        const subject = "Request Save Burnet Map Address Removal";
+        const body = `Please remove the following address from the Save Burnet map:\n\n` + divText;
+        window.location.href = `mailto: ${email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+        document.body.classList.remove('waiting');
+    }
+});
+
+
 const overlay = new ol.Overlay({
     element: container,
     autoPan: {
@@ -21,7 +34,6 @@ const titleOverlay = new ol.Overlay({
     element: document.getElementById('title'),
     positioning: 'top-center',
     visible: true
-    // Set a coordinate or leave undefined to position via CSS
 });
 
 
@@ -48,18 +60,32 @@ const vectorLayer = new ol.layer.Vector({
 });
 
 // Initialize the Map
+const scaleLine = new ol.control.ScaleLine({
+    units: 'imperial',
+    bar: true,
+    steps: 4,
+    minWidth: 140
+});
+const maptilelayer = new ol.source.OSM({
+    attributions: [
+          '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+          'Map by Brian A. Manlove <a href="https://github.com/n129bz">https://github.com/n129bz</a>' // Add your line here
+        ].join('<br>'), 
+});
 const map = new ol.Map({
     target: 'map',
     layers: [
-        new ol.layer.Tile({ source: new ol.source.OSM()}),
+        new ol.layer.Tile({ 
+            source: maptilelayer,
+            
+        }),
         vectorLayer
     ],
     title: "Save Burnet County Affected Addresses",
-    view: new ol.View({ center: [-10943627.55904307, 3595051.022827225], zoom: 12 })
+    view: new ol.View({ center: [-10943627.55904307, 3595051.022827225], zoom: 12 }),
+    controls: ol.control.defaults().extend([scaleLine]),
+    overlays: [titleOverlay, overlay]
 });
-
-map.addOverlay(overlay);
-map.addOverlay(titleOverlay);
 
 /**
  * Add a click handler to the map to render the popup.
@@ -80,13 +106,11 @@ map.on('singleclick', function (evt) {
                                     `registered property owner as listed\n`+
                                     `in Burnet County public records, and\n` +
                                     `not the physical property location.\n\n` +
-                                    `To request a marker be removed, send\n` + 
-                                    `an email to <a href="n129bz:name@outlook.com">n129bz@outlook.com</a> with\n` +
-                                    `the address as shown in this record.\n` +
+                                    `To request a marker be removed from this\n` +  
+                                    `map click the email link below:\n\n<div class="email-word" id="email-word">n129bz@outlook.com</div>\n` +
                                 `</div>\n\n` +
-                                `<div class="lonlatbox">${name}\nLon/Lat: ${coords}` +
-                            `</div>\n` +
-                            `</code></pre>`;
+                                `<div class="lon-lat-box" id="lon-lat-box">${name}\nLon/Lat: ${coords}</div>\n` +
+                            `</code></pre>\n`;
         overlay.setPosition(coordinates);
     } 
     else {

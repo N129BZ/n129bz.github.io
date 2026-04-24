@@ -2,13 +2,21 @@
 #map {
   width: 100%;
   height: 100vh; 
-  /*background-color: #eee; */
 }
 
 html, body {
   height: 100%;
   width: 100%;
   margin: 0;
+}
+
+.email-word {
+  color: darkblue;
+  text-decoration: underline;
+  cursor: default;
+}
+.email-word:hover {
+  font-weight: bold;
 }
 
 .popup-box {
@@ -23,7 +31,7 @@ html, body {
   text-align: center;
 }
 
-.lonlatbox {
+.lon-lat-box {
   border: 1px solid #000000;
   font-size: 14px;
   text-align: center;
