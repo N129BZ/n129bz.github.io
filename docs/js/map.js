@@ -66,7 +66,7 @@ map.on('singleclick', function (evt) {
     if (feature) {
         const name = feature.get('name'); 
         const coordinates = feature.getGeometry().getCoordinates();
-        content.innerHTML = `<code>${name} Coordinates:${feature.coords}</code>`;
+        content.innerHTML = `<code>${name}\nCoordinates:${feature.get('coords')}</code>`;
         overlay.setPosition(coordinates);
     } 
     else {
