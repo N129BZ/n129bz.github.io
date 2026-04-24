@@ -13,6 +13,14 @@ const overlay = new ol.Overlay({
     },
 });
 
+const titleOverlay = new ol.Overlay({
+    element: document.getElementById('title'),
+    positioning: 'top-center',
+    visible: true
+    // Set a coordinate or leave undefined to position via CSS
+});
+
+
 const pinStyle = new ol.style.Style({
     image: new ol.style.Icon({
         anchor: [0.5, 1], // Anchor point (bottom center)
@@ -24,7 +32,7 @@ const pinStyle = new ol.style.Style({
 });
 
 const viewextent = [-180, -85, 180, 85];
-const viewposition = ol.proj.fromLonLat([-10943627.55904307, 3595051.022827225]);
+//const viewposition = ol.proj.fromLonLat([-10943627.55904307, 3595051.022827225]);
 const extent = ol.proj.transformExtent(viewextent, 'EPSG:4326', 'EPSG:3857')
 
 const vectorSource = new ol.source.Vector();
@@ -43,10 +51,12 @@ const map = new ol.Map({
         new ol.layer.Tile({ source: new ol.source.OSM()}),
         vectorLayer
     ],
+    title: "Save Burnet County Affected Addresses",
     view: new ol.View({ center: [-10943627.55904307, 3595051.022827225], zoom: 12 })
 });
 
 map.addOverlay(overlay);
+map.addOverlay(titleOverlay);
 
 /**
  * Add a click handler to the map to render the popup.
