@@ -96,7 +96,7 @@ function addMarkers() {
 
             // Create address feature
             const addressFeature = new ol.Feature({
-                geometry: new ol.geom.Point(ol.proj.fromLonLat([lon, lat])),
+                geometry: new ol.geom.Point(ol.proj.fromLonLat([lon.toFixed(5), lat.toFixed(5)])),
                 address: item.address,
                 coords: [lon, lat]
             });
