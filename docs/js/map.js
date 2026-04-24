@@ -32,7 +32,6 @@ const pinStyle = new ol.style.Style({
 });
 
 const viewextent = [-180, -85, 180, 85];
-//const viewposition = ol.proj.fromLonLat([-10943627.55904307, 3595051.022827225]);
 const extent = ol.proj.transformExtent(viewextent, 'EPSG:4326', 'EPSG:3857')
 
 const vectorSource = new ol.source.Vector();
