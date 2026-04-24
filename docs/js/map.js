@@ -78,7 +78,8 @@ map.on('singleclick', function (evt) {
                                 `</div>\n` +
                                     `NOTE: Location may be that of the\n` +
                                     `registered property owner as listed\n`+
-                                    `in Burnet County public records.\n\n` +
+                                    `in Burnet County public records, and\n` +
+                                    `not the physical property location.\n\n` +
                                     `To request a marker be removed, send\n` + 
                                     `an email to <a href="n129bz:name@outlook.com">n129bz@outlook.com</a> with\n` +
                                     `the address as shown in this record.\n` +
