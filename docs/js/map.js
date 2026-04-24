@@ -64,9 +64,10 @@ map.on('singleclick', function (evt) {
     const feature = map.forEachFeatureAtPixel(evt.pixel, (feat) => feat);
     
     if (feature) {
-        const name = feature.get('name'); 
+        const name = feature.get('address'); 
+        const coords = feature.get('coords');
         const coordinates = feature.getGeometry().getCoordinates();
-        content.innerHTML = `<code>${name}\nCoordinates:${feature.get('coords')}</code>`;
+        content.innerHTML = `<pre><code>Address: ${name}\nLon/Lat: [${coords}]</code></pre>`;
         overlay.setPosition(coordinates);
     } 
     else {
@@ -96,8 +97,8 @@ function addMarkers() {
             // Create address feature
             const addressFeature = new ol.Feature({
                 geometry: new ol.geom.Point(ol.proj.fromLonLat([lon, lat])),
-                name: item.address,
-                coords: `[${lon}, ${lat}]`
+                address: item.address,
+                coords: [lon, lat]
             });
 
             addressFeature.setStyle(pinStyle);
