@@ -4,6 +4,10 @@ const container = document.getElementById('popup');
 const content = document.getElementById('popup-content');
 const closer = document.getElementById('popup-closer');
 
+// Detect if the device is mobile based on screen width
+const isMobile = window.innerWidth <= 768; 
+const markerScale = isMobile ? 1.5 : 0.5; // Larger icons for mobile fingers
+
 const overlay = new ol.Overlay({
     element: container,
     autoPan: {
@@ -27,7 +31,7 @@ const pinStyle = new ol.style.Style({
         anchorXUnits: 'fraction',
         anchorYUnits: 'fraction',
         src: 'img/pin.png', 
-        scale: 0.5                  
+        scale: markerScale                  
     })
 });
 
