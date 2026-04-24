@@ -67,7 +67,7 @@ map.on('singleclick', function (evt) {
         const name = feature.get('address'); 
         const coords = feature.get('coords');
         const coordinates = feature.getGeometry().getCoordinates();
-        content.innerHTML = `<pre><code><b>Save Burnet Affected Address</b>\n${name}\nLon/Lat: [${coords}]</code></pre>`;
+        content.innerHTML = `<pre><code><b>Save Burnet Affected Address</b>\n${name}\nLongitude/Latitude: [${coords}]</code></pre>`;
         overlay.setPosition(coordinates);
     } 
     else {
@@ -91,12 +91,12 @@ closer.onclick = function () {
 function addMarkers() {
     for (const item of data) {
         try {
-            const lon = parseFloat(item.lon);
-            const lat = parseFloat(item.lat);
+            const lon = parseFloat(item.lon).toFixed(5);
+            const lat = parseFloat(item.lat).toFixed(5);
 
             // Create address feature
             const addressFeature = new ol.Feature({
-                geometry: new ol.geom.Point(ol.proj.fromLonLat([lon.toFixed(5), lat.toFixed(5)])),
+                geometry: new ol.geom.Point(ol.proj.fromLonLat([lon, lat])),
                 address: item.address,
                 coords: [lon, lat]
             });
