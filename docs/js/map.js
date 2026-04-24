@@ -67,7 +67,7 @@ map.on('singleclick', function (evt) {
         const name = feature.get('address'); 
         const coords = feature.get('coords');
         const coordinates = feature.getGeometry().getCoordinates();
-        content.innerHTML = `<pre><code>Address: ${name}\nLon/Lat: [${coords}]</code></pre>`;
+        content.innerHTML = `<pre><code><b>Save Burnet Affected Address</b>\nAddress: ${name}\nLon/Lat: [${coords}]</code></pre>`;
         overlay.setPosition(coordinates);
     } 
     else {
