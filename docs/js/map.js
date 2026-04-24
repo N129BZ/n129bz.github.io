@@ -42,7 +42,7 @@ const pinStyle = new ol.style.Style({
         anchor: [0.5, 1], // Anchor point (bottom center)
         anchorXUnits: 'fraction',
         anchorYUnits: 'fraction',
-        src: 'img/pin.png', 
+        src: isMobile ? '/img/large-pin.png' : 'img/pin.png', 
         scale: markerScale                  
     })
 });
