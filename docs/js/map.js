@@ -67,7 +67,15 @@ map.on('singleclick', function (evt) {
         const name = feature.get('address'); 
         const coords = feature.get('coords');
         const coordinates = feature.getGeometry().getCoordinates();
-        content.innerHTML = `<pre><code><b><u>Save Burnet Affected Address</u></b>\n${name}\nLon/Lat: ${coords}</code></pre>`;
+        content.innerHTML = `<pre><code>` +
+                            `<div class="popup-box">` +
+                            `<div class="popup-title">` +
+                            `Save Burnet Affected Address</div>` +
+                            `\nNOTE: Location may be that of the\n` +
+                            `registered property owner as listed\n`+
+                            `in Burnet County public records.\n</div>\n\n` +
+                            `<div class="lonlatbox">${name}\n`+ 
+                            `Lon/Lat: ${coords}</div>\n</code></pre>`;
         overlay.setPosition(coordinates);
     } 
     else {
