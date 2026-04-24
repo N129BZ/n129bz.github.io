@@ -6,7 +6,7 @@ const closer = document.getElementById('popup-closer');
 
 // Detect if the device is mobile based on screen width
 const isMobile = window.innerWidth <= 768; 
-const markerScale = isMobile ? 2.0 : 0.5; // Larger icons for mobile fingers
+const markerScale = isMobile ? 5.0 : 0.5; // Larger icons for mobile fingers
 
 document.addEventListener('click', function (event) {
     // Check if the clicked element is the email link
