@@ -1,3 +1,4 @@
+import { disclaimerClause } from './disclaimer.js';
 import { data } from './saveburnet.js';
 //import { fulldata } from './saveburnetx.js';
 
@@ -5,6 +6,9 @@ import { data } from './saveburnet.js';
 const container = document.getElementById('popup');
 const content = document.getElementById('popup-content');
 const closer = document.getElementById('popup-closer');
+const disclaimer = document.getElementById('disclaimer');
+
+disclaimer.innerHTML = disclaimerClause;
 
 // Add a document click event handler to detect clicked email link
 document.addEventListener('click', function (event) {
@@ -90,6 +94,8 @@ const map = new ol.Map({
     overlays: [overlay]
 });
 
+addMarkers();
+
 // Add a click handler to the map to render the popup.
 map.on('singleclick', function (evt) {
     const feature = map.forEachFeatureAtPixel(evt.pixel, (feat) => feat);
@@ -103,10 +109,10 @@ map.on('singleclick', function (evt) {
                                 `<div class='popup-title'>` +
                                     `Save Burnet Affected Address\n` +
                                 `</div>\n` +
-                                    `NOTE: Location may be that of the\n` +
+                                    /* `NOTE: Location may be that of the\n` +
                                     `registered property owner as listed\n`+
                                     `in Burnet County public records, and\n` +
-                                    `not the physical property location.\n\n` +
+                                    `not the physical property location.\n\n` + */
                                     `To request a marker be removed from this\n` +  
                                     `map click the email link below:\n\n<div class="email-word" id="email-word">n129bz@outlook.com</div>\n` +
                                 `</div>\n\n` +
@@ -149,4 +155,3 @@ function addMarkers() {
     }
 }
 
-addMarkers();

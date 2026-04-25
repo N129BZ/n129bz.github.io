@@ -10,6 +10,18 @@ html, body {
   margin: 0;
 }
 
+.disclaimer {
+  position:absolute;
+  right: 10px;
+  top: 10px;
+  border: 1px solid #000000;
+  background-color: lightblue;
+  color: black;
+  font-size: 14px;
+  text-align: center;
+  z-index: 100;
+}
+
 .email-word {
   color: darkblue;
   text-decoration: underline;
