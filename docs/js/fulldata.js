@@ -1,1349 +1,1349 @@
 export const fulldata = [
-	{"name":"BUCKNER INTERNATIONAL","address":"3833 FM 2342","city":"BURNET","state":"TX","zip":"78611","lon":-98.381677,"lat":30.690932}
-	{"name":"BURNET COUNTY OF","address":"900 COUNTY LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.253048,"lat":30.741522}
-	{"name":"WORTHAM MICHAEL D","address":"118 MOUNTAIN VIEW CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.38312903708484,"lat":30.75030835364432}
-	{"name":"YOUNG FAMILY IRREVOCABLE TRUST","address":"7400 S PARK RD 4","city":"BURNET","state":"TX","zip":"78611-5493","lon":-98.364799,"lat":30.702179}
-	{"name":"COTNER CHERYL","address":"114 BLUEBONNET CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.381266,"lat":30.753234}
-	{"name":"BURNET CITY OF","address":"600 DELAWARE SPRINGS BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.257946415221,"lat":30.715243596191772}
-	{"name":"STASNEY MARK AND PAMELA","address":"401 CR 139","city":"BURNET","state":"TX","zip":"78611","lon":-98.380263,"lat":30.754461}
-	{"name":"BV LLC","address":"108 MOUNTAIN VIEW","city":"BURNET","state":"TX","zip":"78611","lon":-98.2725317,"lat":30.7744919}
-	{"name":"THE STOTTS FAMILY PARTNERSHIP LTD","address":"104 BLUEBONNET CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.38088835118829,"lat":30.753874137760658}
-	{"name":"OBORNY EDMUND L & CHIMENE W LIVING TRUST","address":"326 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27521479562482,"lat":30.77152689171102}
-	{"name":"FAIRLAND INVESTMENTS LLC SERIES 8","address":"5409 S US 281","city":"BURNET","state":"TX","zip":"78611","lon":-98.2522957,"lat":30.6988838}
-	{"name":"ADAMS L MONEY JR","address":"130 MOUNTAIN VIEW CIR","city":"BURNET","state":"TX","zip":"78611-2908","lon":-98.38432768970108,"lat":30.749476736903244}
-	{"name":"FISCO YVONNE VIDRINE REVOCABLE TRUST","address":"108 BLUEBONNET","city":"BURNET","state":"TX","zip":"78611","lon":-98.39822620396107,"lat":30.857727251476902}
-	{"name":"GAMMILL SHAUN LEE  NON-EXEMPT TRUST","address":"110 CR 120B","city":"MARBLE FALLS","state":"TX","zip":"78654-8021","lon":-98.345048,"lat":30.670446}
-	{"name":"RISING STAR CAPITAL INVESTMENTS LP","address":"325 CR 120B","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.339127,"lat":30.672065}
-	{"name":"BELL BILL W & DEIDRE D","address":"630 SCENIC VIEW LOOP","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.328272,"lat":30.669834}
-	{"name":"GIMARC A DENISE & BRIAN A GIMARC TRUSTEES","address":"314 CLEAR CREEK","city":"BURNET","state":"TX","zip":"78611","lon":-98.37798111365895,"lat":30.755299883382637}
-	{"name":"ROMERO LORENZO G ETUX ELIZABETH A","address":"670 PARK RD 4 SOUTH","city":"BURNET","state":"TX","zip":"78611-0485","lon":-98.262779,"lat":30.69398}
-	{"name":"GILLAM CLIFTON G & VANESSA D","address":"530 SCENIC VIEW DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.33336469158498,"lat":30.66884312105015}
-	{"name":"YANDA MICHAEL & CAITLYN","address":"1430 CR 120A","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.342377,"lat":30.666175}
-	{"name":"BAUMAN MANAGEMENT TRUST AGREEMENT","address":"475 CR 120B","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.337493,"lat":30.673057}
-	{"name":"DODGE LLOYD W & LUANNE SMITH DODGE","address":"222 CLEAR CREEK DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.37860715674503,"lat":30.756001759328676}
-	{"name":"TREWHELLA ROSS","address":"485 CROWN TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.349239943293,"lat":30.71534137538675}
-	{"name":"WREYFORD LARRY D - RONNIE WREYFORD (DEC'D) - RANDY WREYFORD - DEBORAH","address":"1900 CR 120A","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.344647,"lat":30.666095}
-	{"name":"PEARCE ANDY L & TERI DORSEY","address":"181 SANDSTONE RIDGE DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.32374622381633,"lat":30.66609260607446}
-	{"name":"FIRST BAPTIST CHURCH BURNET","address":"8320 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.377014,"lat":30.716596}
-	{"name":"ROGERS PAUL M AND C MORRIS DAVIS III","address":"850 STONE MOUNTAIN DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.31821793968719,"lat":30.66754732813579}
-	{"name":"DISEBASTIANO JOE","address":"4037 PARK RD 4 S","city":"BURNET","state":"TX","zip":"78611-5489","lon":-98.312707,"lat":30.675142}
-	{"name":"LOT NO TWO LLC-SERIES 100","address":"5396 S HWY 281","city":"BURNET","state":"TX","zip":"78611","lon":-98.2550299,"lat":30.6910223}
-	{"name":"STEWART DANIEL & LINDA","address":"236 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27275300000001,"lat":30.774200575757575}
-	{"name":"ROCKING R & R RANCH LLC","address":"400 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.29702787275377,"lat":30.744952821613744}
-	{"name":"HABERER RYAN M & KACY","address":"200 HANSFORD RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.34561831911651,"lat":30.728173283835932}
-	{"name":"AVERY GRAHAM & MARY JANE","address":"121 HANSFORD RD (VALLEY VIEW)","city":"BURNET","state":"TX","zip":"78611","lon":-98.345232,"lat":30.729976}
-	{"name":"MURPHY GEOFFREY R & CYNTHIA LITTLE MURPHY","address":"131 MOUNTAIN LAUREL DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.3157673592235,"lat":30.669048486891256}
-	{"name":"LUCKSINGER SALLY","address":"6233 CR 116","city":"BURNET","state":"TX","zip":"78611-5831","lon":-98.350389,"lat":30.723469}
-	{"name":"LANGLEY NICOLE KRISTINE","address":"825 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25185135227272,"lat":30.736099977272726}
-	{"name":"190 CLEAR CREEK LLC","address":"190 CLEAR CREEK DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.378653,"lat":30.756389}
-	{"name":"CWKW LIVING TRUST","address":"112 BIG SKY","city":"BURNET","state":"TX","zip":"78611","lon":-98.27041918367347,"lat":30.769740081632655}
-	{"name":"SIEGFRIED TOMMY AND SANDY REVOCABLE TRUST","address":"1405 CR 120A","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.338996,"lat":30.664935}
-	{"name":"EASTMAN THOMAS FREDERICK & PATRICIA JEAN TRUSTEES","address":"101 E BACKBONE CREEK DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.289516,"lat":30.684785}
-	{"name":"HOOVER STEVE EARL & LAUREL ANN","address":"108 LOST MOUNTAIN RANCH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.29145874198953,"lat":30.68614156284534}
-	{"name":"CHRISTENSEN CIPP & YOLANDA ARREY","address":"3370 FM 3509","city":"BURNET","state":"TX","zip":"78611-5987","lon":-98.304576,"lat":30.739222}
-	{"name":"PERISSOS WINE GROUP LLC","address":"7214 PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.38396,"lat":30.711906}
-	{"name":"OCKER H MARK & CINDY","address":"111 MOUNTAIN LAUREL DR","city":"MARBLE FALLS","state":"TX","zip":"78654-7925","lon":-98.31635026801193,"lat":30.66899943299702}
-	{"name":"FELKNER RUSSELL A & GLENDA K","address":"171 SANDSTONE RIDGE DR","city":"MARBLE FALLS","state":"TX","zip":"78654-7927","lon":-98.32318753384487,"lat":30.666728810421247}
-	{"name":"KEMNITZ DWIGHT A & KAREN","address":"102 BLUEBONNET","city":"BURNET","state":"TX","zip":"78611","lon":-98.39822517199444,"lat":30.85773989306813}
-	{"name":"WILLIAMS CODY & EMILEE TIPPIE","address":"150 WANDERING OAKS CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.253365,"lat":30.732223}
-	{"name":"NOBLES LYNNARD J & SHERALYN","address":"330 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.274889,"lat":30.771908}
-	{"name":"PARSONS JERRY G & CAROLYN S","address":"170 SANDSTONE RIDGE","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.3233834498986,"lat":30.66679225684983}
-	{"name":"DODDS DARRELL DELOSS & MARY ANN","address":"320 SCENIC VIEW DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.33742226852297,"lat":30.669148660799056}
-	{"name":"HOUY MICHAEL T AND STACY M HOUY","address":"830 SCENIC VIEW DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.33211466719469,"lat":30.66787834604351}
-	{"name":"KUHNS JERRY A","address":"230 HANSFORD ROAD","city":"BURNET","state":"TX","zip":"78611","lon":-98.3457181031959,"lat":30.728369376927265}
-	{"name":"BERNHARDT FREDRICK W JR & SHEILA H","address":"1600 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.263281,"lat":30.73324}
-	{"name":"SOLORZANO-ALDAVA JOSE ULISES &","address":"203 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.28188260973538,"lat":30.684873254326646}
-	{"name":"ARMOUR J MICHAEL & PAMELA","address":"147 SANDSTONE RIDGE DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.32166460649752,"lat":30.668065722350363}
-	{"name":"SIEGMUND MICHAEL L & REBECCA S","address":"121 SANDSTONE RIDGE DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.31959516741789,"lat":30.6688084273076}
-	{"name":"SHIELDS RICHARD","address":"112 MOUNTAIN VIEW CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.38281837242124,"lat":30.75100206799217}
-	{"name":"ALLEN DONALD L (DEC'D) & LENITA HARMON ALLEN","address":"316 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27575447698166,"lat":30.77040895961533}
-	{"name":"DEPEW FAMILY REVOCABLE TRUST","address":"1000 STONE MOUNTAIN DR","city":"MARBLE FALLS","state":"TX","zip":"78654-7918","lon":-98.31693,"lat":30.66908}
-	{"name":"MONTANDON JAMES ETUX PAULA A","address":"525 SCENIC DR","city":"MARBLE FALLS","state":"TX","zip":"78654-7907","lon":-98.33321141720289,"lat":30.668691733672773}
-	{"name":"BIRD JUDITH & CAMERON BIRD","address":"111 SANDSTONE RIDGE DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.3188056140151,"lat":30.669108804857228}
-	{"name":"ALLEN GLENN R & SUSAN T","address":"244 SCENIC VIEW DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.33868856824118,"lat":30.668202741708555}
-	{"name":"HILLTOP OAKS LLC","address":"401 HILLTOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.250726,"lat":30.758475}
-	{"name":"MCGINNIS DIXIE L","address":"120 SANDSTONE RIDGE DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.31978499302399,"lat":30.668923776509782}
-	{"name":"SILVA 2002 REVOCABLE TRUST","address":"1001 STONE MOUNTAIN DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.316752,"lat":30.669139}
-	{"name":"OLSON DANIEL & MARGARET LIFE ESTATE","address":"101 MOUNTAIN LAUREL DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.316634,"lat":30.668932}
-	{"name":"EPPES LINDA K TRUSTEE (50% UDI)","address":"400 COWGIRL CROSSING","city":"MARBLE FALLS","state":"TX","zip":"78654-7849","lon":-98.33035,"lat":30.656604}
-	{"name":"HENDRIX WADE","address":"220 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.272761,"lat":30.77404227272727}
-	{"name":"OSMUN MARY ELAINE LIVING TRUST","address":"800 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.28027342386903,"lat":30.676331874844365}
-	{"name":"MILLER DOTTIE L","address":"710 SCENIC VIEW DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.33164318709784,"lat":30.66881421747883}
-	{"name":"HARRIS WILLIAM COLE & KYLIE MORGAN","address":"200 CLEAR CREEK DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.37863867398282,"lat":30.75626798729021}
-	{"name":"FIRST TODD & LISA G","address":"110 BLUEBONNET CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.38088761605573,"lat":30.75330932915346}
-	{"name":"BUTLER DAVID LEE & ELIZABETH WEYRAUCH-BUTLER","address":"1151 STONE MOUNTAIN DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.31938730044001,"lat":30.67072816799607}
-	{"name":"KCA 2023 LIFETIME REVOCABLE TRUST","address":"100 HANSFORD RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.345293,"lat":30.727516}
-	{"name":"GREENWELL DAVID P & JENNIFER A","address":"935 SCENIC VIEW DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.33320156374955,"lat":30.667567871344332}
-	{"name":"HILL HARRIET G","address":"125 CLEAR CREEK","city":"BURNET","state":"TX","zip":"78611","lon":-98.378463,"lat":30.756408}
-	{"name":"DOREMUS TROY & DANNA LAINE","address":"112 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.259455,"lat":30.737638}
-	{"name":"INKS 122MVC LLC","address":"122 MOUNTAINVIEW CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.382697,"lat":30.749713}
-	{"name":"MCMURRY THOMAS ALEXANDER & JESSICA RAE","address":"1101 STONE MOUNTAIN DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.318275,"lat":30.669964}
-	{"name":"MOONEY JAMES & DANIELLE","address":"839 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25128514772727,"lat":30.73621102272727}
-	{"name":"WEST JAMES CHANDLER & JORDAN LANGFORD WEST","address":"1295 PARK RD 4 S","city":"BURNET","state":"TX","zip":"78611","lon":-98.274265,"lat":30.688122}
-	{"name":"HOLMES DAVID L & MARGERY A NEIS-HOLMES","address":"131 SANDSTONE RIDGE DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.32040301334109,"lat":30.668550875908732}
-	{"name":"DONNELLY JO ANN","address":"112 BLUEBONNET CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.3810630072854,"lat":30.753245513019635}
-	{"name":"GILLENWATERS JAMES & KAREN","address":"161 SANDSTONE RIDGE DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.32253027166453,"lat":30.667262151314876}
-	{"name":"POLLARD SCOTT M ETUX DARLENE","address":"216 VISTA HERMOSA","city":"BURNET","state":"TX","zip":"78611","lon":-98.34204095959596,"lat":30.727832161616163}
-	{"name":"GARRETT GRADY J","address":"265 CROWN LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.35573917531104,"lat":30.69887828224086}
-	{"name":"ARREDONDO ALONSO JR & ALMA ROSA ORTIZ ARREDONDO","address":"6412 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.350627,"lat":30.725796}
-	{"name":"HOUTZ DON S & RUTHEY J","address":"208 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2460049,"lat":30.7200879}
-	{"name":"DRAIN MICHAEL R","address":"300 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611-3690","lon":-98.275887,"lat":30.768294}
-	{"name":"STRINGER GEORGE T ETUX CONNIE","address":"149 SCENIC VIEW DR","city":"MARBLE FALLS","state":"TX","zip":"78654-7904","lon":-98.33868001025728,"lat":30.668004317123092}
-	{"name":"BARFIELD DONALD R","address":"121 MOUNTAIN LAUREL DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.3160600360906,"lat":30.669045378856612}
-	{"name":"SCOGGINS ROBERT R & CHERYL K","address":"400 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27601487566041,"lat":30.773338464442897}
-	{"name":"CLARK JOHN H III","address":"600 CR 120B","city":"MARBLE FALLS","state":"TX","zip":"78654-0443","lon":-98.336089,"lat":30.678567}
-	{"name":"INSKEEP RICHARD E & MELISSA R JACOB","address":"224 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27275900000001,"lat":30.774081848484848}
-	{"name":"DAVLIN TERRENCE R II & ANGELA MARIE","address":"5315 PARK RD 4 S","city":"BURNET","state":"TX","zip":"78611","lon":-98.333386,"lat":30.680439}
-	{"name":"HAAS DONNA E & DONALD E LACKEY","address":"750 PAINTED HORSE TRAIL","city":"BURNET","state":"TX","zip":"78611-5904","lon":-98.27347241081544,"lat":30.696940097453}
-	{"name":"CHEATHAM EDNA H","address":"8456 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.379948,"lat":30.71691}
-	{"name":"KISH JOHN PAUL SR & BETTE ANN","address":"504 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27752327667329,"lat":30.77587583569353}
-	{"name":"COMONTOFSKI COY & LOREN","address":"100 PAINTED HORSE TRL","city":"BURNET","state":"TX","zip":"78611-5899","lon":-98.272199,"lat":30.689172}
-	{"name":"SRS BURNETT PROPERTY LLC","address":"2751 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.26343,"lat":30.760009}
-	{"name":"CRAFT-LOPEZ MELISSA LEANN & CARLA ANN CRAFT","address":"310 CLEAR CREEK","city":"BURNET","state":"TX","zip":"78611","lon":-98.37802985020966,"lat":30.75529908442279}
-	{"name":"EUERING FRED L & EDRIAN D","address":"345 LOST MOUNTAIN RANCH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.297387,"lat":30.692785}
-	{"name":"MILLIGAN DENNIS OR BRENDA","address":"240 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.272751,"lat":30.77424015151515}
-	{"name":"LEE DANIEL & MARY","address":"116 BIG SKY","city":"BURNET","state":"TX","zip":"78611","lon":-98.27050624489796,"lat":30.769772775510205}
-	{"name":"BERGGREN KENDALL W & LINDA L","address":"512 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.2777603108085,"lat":30.775912811340845}
-	{"name":"TOGNETTY TIM ETUX CARLEANNE","address":"100 BLUEBONNET CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.381213,"lat":30.754119}
-	{"name":"SCHAUB LONNIE R & VALERIE HAYS-SCHAUB","address":"101 VISTA HERMOSA","city":"BURNET","state":"TX","zip":"78611","lon":-98.341409,"lat":30.726023}
-	{"name":"WARDEN ESTHER","address":"304 CLEAR CREEK DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.37810295597022,"lat":30.755298}
-	{"name":"LENZ MICHAEL D ETUX JANICE","address":"1310 CR 120A","city":"MARBLE FALLS","state":"TX","zip":"78654-8007","lon":-98.345458,"lat":30.664057}
-	{"name":"PERRY HAROLD C (DEC'D) ETUX BARBARA","address":"308 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611-3690","lon":-98.27583245292017,"lat":30.769330837237934}
-	{"name":"BALLARD STEVE A & BARBARA O","address":"1500 CROWN LN","city":"BURNET","state":"TX","zip":"78611-5991","lon":-98.352637,"lat":30.713054}
-	{"name":"ROBERTSON BENJAMIN & JESSICA","address":"650 STONE MOUNTAIN DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.32271950890001,"lat":30.6608220062991}
-	{"name":"GAY KATHY &","address":"189 WANDERING OAKS CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.252965,"lat":30.730732}
-	{"name":"YOUNG SPENCER BURL ETUX CINDY","address":"124 MOUNTAIN VIEW CIR","city":"BURNET","state":"TX","zip":"78611-2908","lon":-98.38363439532353,"lat":30.74974267788454}
-	{"name":"COLVIN JOHN A JR ETUX SUSAN B","address":"320 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27577123024784,"lat":30.77095159449955}
-	{"name":"RICHTER RODNEY J & JANICE D","address":"500 PAINTED HORSE TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.27251616071763,"lat":30.694128338042493}
-	{"name":"WESTPHALEN ELEANOR MORGAN & THOMAS JERALD SMITH","address":"650 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.28094817450379,"lat":30.6777513400041}
-	{"name":"CALDWELL PRISCILLA","address":"120 SUNSET SUMMIT","city":"BURNET","state":"TX","zip":"78611-3740","lon":-98.281141,"lat":30.777357}
-	{"name":"FOWLER DON III","address":"305 BILLY JOE FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25941166160595,"lat":30.732956102276763}
-	{"name":"HENRY LEE AND LURENDA","address":"600 CR 119","city":"BURNET","state":"TX","zip":"78611","lon":-98.38902,"lat":30.711079}
-	{"name":"GALLAGHER SUSAN LEIGH LIVING TRUST","address":"101 BARONS VIEW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.288832,"lat":30.675115}
-	{"name":"SMITH MARK ALLEN & SARAH PETERMAN","address":"501 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.28095491523047,"lat":30.679696316188135}
-	{"name":"WALDRON GREGORY B & SUSAN JS WALDRON","address":"700 STONE MOUNTAIN DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.3215707019554,"lat":30.662529026566933}
-	{"name":"LEGAULT MARILYN & DAVID OWENS","address":"4342 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.316523,"lat":30.73285}
-	{"name":"5388 US HWY 281 LLC - SERIES 104 OF PINKY AND THE BRAIN LLC","address":"5388 S HWY 281","city":"BURNET","state":"TX","zip":"78611-4516","lon":-98.2531185,"lat":30.6966653}
-	{"name":"CARTA JAMES KELLY","address":"5900 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.344561,"lat":30.726112}
-	{"name":"KUCHERA ROY L & ALICE F","address":"1708 CR 120A","city":"MARBLE FALLS","state":"TX","zip":"78654-8000","lon":-98.341973,"lat":30.667524}
-	{"name":"BOKA BRUCE A ETUX KAY L","address":"301 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611-3690","lon":-98.275794,"lat":30.768768}
-	{"name":"DAVIS JASON ROBERT & KRISTIN MARIE","address":"722 N OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25869422342656,"lat":30.744451472467663}
-	{"name":"LARY LOUISE K","address":"114 LOUISE LN","city":"BURNET","state":"TX","zip":"78611-0456","lon":-98.24826074285343,"lat":30.73398886904748}
-	{"name":"BAILEY GARY & BRENDA","address":"801 STONE MOUNTAIN","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.325172,"lat":30.651058}
-	{"name":"CONFIDENTIAL","address":"539 OAK VISTA DR","city":null,"state":"TX","zip":"78611","lon":-98.25940007462074,"lat":30.742737865678652}
-	{"name":"HOLLOWAY DAVID DUDLEY &","address":"7425 W PARK ROAD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.375276,"lat":30.705502}
-	{"name":"BROWNE KEVIN & CARIBE BROWNE","address":"450 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611-5887","lon":-98.28122430253951,"lat":30.680233609187784}
-	{"name":"WILLIAMSON FRED & FAYE","address":"105 WILLIAMS RD","city":"BURNET","state":"TX","zip":"78611-5659","lon":-98.32203695805771,"lat":30.72946155379323}
-	{"name":"GUENTER ALLEN BRENT & CAITLYN","address":"143 WANDERING OAKS CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.252629,"lat":30.7328}
-	{"name":"COWART SUSAN H","address":"570 THRILL HILL TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.30297653831431,"lat":30.686636839089672}
-	{"name":"HALFMANN ROBERT W & VIRGINIA","address":"120 MOUNTAIN VIEW","city":"BURNET","state":"TX","zip":"78611-0236","lon":-98.38327800381471,"lat":30.75010265110791}
-	{"name":"SHULL FAMILY TRUST","address":"5403 PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.335402,"lat":30.680016}
-	{"name":"GUNN LANCE & TRACEY","address":"718 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2473897,"lat":30.7338302}
-	{"name":"WOOD D MARION & MARCELLA","address":"170 GREAT VIEW LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.346092,"lat":30.731757}
-	{"name":"SHANNON JAMES S & LAURIE J","address":"600 STONE MOUNTAIN DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.32370908827954,"lat":30.659019208206825}
-	{"name":"CARRELL LEX II & SHAWNA RENE","address":"2051 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.254501,"lat":30.735861}
-	{"name":"CLEMENTS ALAN J & ANGELA H","address":"416 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27628898319638,"lat":30.773716636038937}
-	{"name":"MCGEE RODNEY R ETUX ROSEMARY","address":"104 SUNSET SUMMIT","city":"BURNET","state":"TX","zip":"78611-3740","lon":-98.281692,"lat":30.775853}
-	{"name":"STEITLE DALE R & RITA P","address":"111 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.264014,"lat":30.728329897959185}
-	{"name":"GARDNER FAMILY TRUST","address":"313 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27554724990571,"lat":30.770833317734603}
-	{"name":"GILMORE SHONDA M & BRIAN K GILMORE","address":"335 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2468473,"lat":30.7294285}
-	{"name":"KONOPKA JOSEPH JOHN & SHIRLIE MARIE","address":"232 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.272755,"lat":30.774161}
-	{"name":"MCBRIDE FAMILY TRUST","address":"136 SPANISH OAKS","city":"BURNET","state":"TX","zip":"78611-4508","lon":-98.26036936585366,"lat":30.72137606829268}
-	{"name":"SADEMAN RICHARD N ETUX ERIKA","address":"3514 FM 3509","city":"BURNET","state":"TX","zip":"78611-5406","lon":-98.306958,"lat":30.737938}
-	{"name":"SCHWARZ JAMES E","address":"134 MOUNTAIN VIEW","city":"BURNET","state":"TX","zip":"78611","lon":-98.384791,"lat":30.749647}
-	{"name":"RILEY AMANDA","address":"103 BIG SKY","city":"BURNET","state":"TX","zip":"78611","lon":-98.27012453061225,"lat":30.769809346938775}
-	{"name":"SCHULZE WELDON E","address":"128 MOUNTAIN VIEW CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.3840749635914,"lat":30.749496509456513}
-	{"name":"BERTRAND DAVID & GALE","address":"1690 CR 116B","city":"BURNET","state":"TX","zip":"78611-0704","lon":-98.279241,"lat":30.74632}
-	{"name":"BOERNER DAVID A & CHERI RENE BOERNER","address":"135 VALLEY VIEW WEST","city":"BURNET","state":"TX","zip":"78611","lon":-98.342303,"lat":30.731905}
-	{"name":"KALEB AND DONNA SHAW REVOCABLE TRUST","address":"101 LOST MOUNTAIN RANCH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.291111,"lat":30.685787}
-	{"name":"MARTINEZ MARIO R","address":"389 CR 139","city":"BURNET","state":"TX","zip":"78611","lon":-98.380595,"lat":30.754688}
-	{"name":"GOLIGHTLY CLINTON A & CHARLI R","address":"244 WANDERING OAKS CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.255518,"lat":30.732576}
-	{"name":"KAISER STUART L & CAROL L","address":"550 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.28106591563714,"lat":30.678992997588733}
-	{"name":"WALSH PHILIP & JANNA","address":"2078 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.25336355555557,"lat":30.73563406060606}
-	{"name":"MCCOMAS BRUCE C & STACIE M TRUST","address":"1301 ROCKY HOLLOW DR","city":"BRIGGS","state":"TX","zip":"78608","lon":-97.92502,"lat":30.88963}
-	{"name":"BRUTON FAMILY REVOCABLE LIVING TRUST","address":"108 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2409563,"lat":30.7282711}
-	{"name":"DOYAL CASSANDRA GENE","address":"701 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.322629,"lat":30.772503}
-	{"name":"LANGLEY RICKY A & ANN K","address":"840 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25124470454546,"lat":30.736218954545453}
-	{"name":"BINGHAM DUANE B","address":"2720 CR 120A","city":"MARBLE FALLS","state":"TX","zip":"78654-7696","lon":-98.361809,"lat":30.669941}
-	{"name":"BOCK CHARLES & PATRICIA","address":"206 VISTA HERMOSA","city":"BURNET","state":"TX","zip":"78611-5425","lon":-98.3420351010101,"lat":30.727810595959596}
-	{"name":"CONFIDENTIAL","address":"420 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.2763139828122,"lat":30.77383366162795}
-	{"name":"GAUT AVERY LIVING TRUST","address":"113 CANYON VIEW","city":"BURNET","state":"TX","zip":"78611","lon":-98.2712008,"lat":30.76802}
-	{"name":"MCCARTNEY WILLIAM H & CHRISTINE M MCCARTNEY TRUSTEES","address":"801 LAS VISTAS","city":"BURNET","state":"TX","zip":"78611","lon":-98.2675081010101,"lat":30.69541019191919}
-	{"name":"SCHUBERT MARK & SUSAN M","address":"600 CR 143","city":"BURNET","state":"TX","zip":"78611-5834","lon":-98.340216,"lat":30.73143}
-	{"name":"DEWITT GEORGE G & RAQUEL G 2013 LIVING TRUST","address":"1420 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.265015,"lat":30.732857}
-	{"name":"TORRES ANDREW & AMANDA","address":"208 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.248672,"lat":30.729734}
-	{"name":"TSF TRUST","address":"115 SCENIC DR","city":"MARBLE FALLS","state":"TX","zip":"78654-7904","lon":-98.336757,"lat":30.666328}
-	{"name":"LEVENS ANITA","address":"550 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.246674,"lat":30.7318487}
-	{"name":"GATTON PHILLIP AND REBECCA LEE","address":"609 CR 120B","city":"MARBLE FALLS","state":"TX","zip":"78654-5006","lon":-98.331059,"lat":30.676195}
-	{"name":"SNOOK RICHARD & REBECCA","address":"318 CLEAR CREEK DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.37793645447343,"lat":30.755317979547936}
-	{"name":"ROCKING R & R RANCH LLC","address":"400 THOMAS RIDGE ROAD","city":"BURNET","state":"TX","zip":"78611","lon":-98.29702787275377,"lat":30.744952821613744}
-	{"name":"ITSCHNER ROY W AND DEBORAH A","address":"111 AMBER CREEK","city":"BURNET","state":"TX","zip":"78611-5952","lon":-98.28087164963556,"lat":30.682117949314648}
-	{"name":"EIKENBARY JOHN E & KIM","address":"1908 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.25570577777778,"lat":30.735175575757577}
-	{"name":"EVANS J C & PHYLIS A","address":"625 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611-3557","lon":-98.2493704,"lat":30.7324123}
-	{"name":"KENDRICK JUDY JEANNE REVOCABLE LIVING TRUST","address":"110 AMBER CREEK","city":"BURNET","state":"TX","zip":"78611","lon":-98.28093430515796,"lat":30.68227436019695}
-	{"name":"HUCKABAY BOBBY & ALITA","address":"211 VALLEY VIEW EAST","city":"BURNET","state":"TX","zip":"78611","lon":-98.337564,"lat":30.729635}
-	{"name":"KING LOUISE LIFE ESTATE","address":"136 PATTON TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.267012,"lat":30.725407}
-	{"name":"JONES TERRY D & ELIZABETH A","address":"1201 STONE MOUNTAIN DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.32072038878992,"lat":30.670991538878994}
-	{"name":"REYES JUAN GERARDO & JULIE JEANENE","address":"110 SANDSTONE RIDGE DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.31898171158525,"lat":30.669212617227156}
-	{"name":"MILLER BOBBY & MARY REVOCABLE TRUST","address":"235 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.272563,"lat":30.774173787878787}
-	{"name":"CLEMENTS EVERETT & LORI","address":"1059 CR 100","city":"BURNET","state":"TX","zip":"78611-3535","lon":-98.264958,"lat":30.727538}
-	{"name":"SCHEWE BRYAN M & PAULA Y","address":"135 RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.30218966131409,"lat":30.76637837604457}
-	{"name":"TEAGUE GLEN RAY JR & JILLIAN HANNAH","address":"100 BIG SKY","city":"BURNET","state":"TX","zip":"78611","lon":-98.270158,"lat":30.769642}
-	{"name":"ROBERTS MARSHA A","address":"120 AMBER CREEK","city":"BURNET","state":"TX","zip":"78611-5952","lon":-98.2805990281731,"lat":30.682347660590114}
-	{"name":"BURNSTAD ROBERT J & DALANA D","address":"508 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27764155334658,"lat":30.77589767138706}
-	{"name":"WALLIN DONALD T ETUX RUTH M","address":"229 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.272566,"lat":30.774114424242423}
-	{"name":"BAILEY MORRIS & KRISTINA","address":"102 LAS VISTAS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.26719589555648,"lat":30.695250559382867}
-	{"name":"DONAHUE DAVID T ETUX ELIZABETH B","address":"750 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611-4104","lon":-98.32358756538532,"lat":30.77221656195169}
-	{"name":"DANIELS JIMMY D & SANDI","address":"202 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.24901902634059,"lat":30.729361528929573}
-	{"name":"SMITH WILLIAM ARDIS","address":"212 HONEY ROCK BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.2558022614153,"lat":30.714001125628663}
-	{"name":"HILL NICK & MISTI","address":"325 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611-5428","lon":-98.29260427599542,"lat":30.743050093710348}
-	{"name":"JENKINS GREG & KELLY","address":"615 CR 100","city":"BURNET","state":"TX","zip":"78611-3539","lon":-98.256812,"lat":30.727224}
-	{"name":"BARKSDALE RUSSELL W & MARY JANE","address":"125 LOST MOUNTAIN RANCH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.29162941241687,"lat":30.686934516792036}
-	{"name":"BATES JOHN F & PATRICIA D","address":"150 TERRY LN","city":"BURNET","state":"TX","zip":"78611-5426","lon":-98.34072054230829,"lat":30.73414254365891}
-	{"name":"PRESLEY ROYCE K & VICTORIA B","address":"200 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611-5892","lon":-98.282071,"lat":30.684825}
-	{"name":"MCGUIRE STACI","address":"103 BARONS VIEW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.286679,"lat":30.675477}
-	{"name":"HILTON CRAIG L & KATHERINE G","address":"850 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611-4105","lon":-98.32552212541208,"lat":30.77184130818255}
-	{"name":"STEWART DAVID A & BARBARA A","address":"100 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611-3551","lon":-98.264114,"lat":30.728494}
-	{"name":"BEUTELMAN PETER H & DARLA V","address":"106 BIG SKY","city":"BURNET","state":"TX","zip":"78611","lon":-98.27028859183673,"lat":30.769691040816326}
-	{"name":"GINDRUP JACK D","address":"7401 W HWY 29","city":"BURNET","state":"TX","zip":"78611-4046","lon":-98.344619,"lat":30.766587}
-	{"name":"WRIGHT CHARLES E AND KRISTIN B","address":"304 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.2505464,"lat":30.7161758}
-	{"name":"VAZQUEZ KIM N REVOCABLE TRUST & SAMUEL VAZQUEZ REVOCABLE TRUS","address":"134 WANDERING OAKS CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.253653,"lat":30.733404}
-	{"name":"MORGAN DAVID LESLIE & CYNTHIA STEWART MORGAN","address":"100 COLLIER LN","city":"BURNET","state":"TX","zip":"78611-5642","lon":-98.342193,"lat":30.728192}
-	{"name":"HEILIGMANN CHADD RYAN & BLAIR NICOLE CANADY","address":"243 WANDERING OAKS CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.255877,"lat":30.731828}
-	{"name":"BOWMAN JEFFREY A & MELANIE J","address":"1901 CR 100","city":"BURNET","state":"TX","zip":"78611-3515","lon":-98.259445,"lat":30.735149}
-	{"name":"HERNANDEZ JOSEF K","address":"345 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.252712,"lat":30.728153}
-	{"name":"LAWRENCE LARRY & BETH","address":"108 BIG SKY","city":"BURNET","state":"TX","zip":"78611-3692","lon":-98.27033212244898,"lat":30.7697073877551}
-	{"name":"LUEDKE RONALD EDWARD & REBECCA LEE MITCHELL","address":"130 GREAT VIEW LN","city":"BURNET","state":"TX","zip":"78611-5837","lon":-98.344377,"lat":30.731032}
-	{"name":"PERSYN HARVEY 0 AND AMBER L LIVING TRUST","address":"601 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611-4103","lon":-98.321491,"lat":30.772387}
-	{"name":"COLEMAN STEVEN MITCHELL","address":"810 N OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25751065306123,"lat":30.744670959183672}
-	{"name":"ENGLERT TAMMIE LEA & STEPHEN G ENGLERT","address":"401 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.281121,"lat":30.680872}
-	{"name":"MAGEE JOE & PATRICIA LIVING TRUST","address":"110 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2520641,"lat":30.7208055}
-	{"name":"HARRELL WILLIAM & TRACI","address":"106 CAMM LARY CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.26024902040817,"lat":30.732651591836735}
-	{"name":"KRIZAN DAVID W & LORI A","address":"582 OAK VIST DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.246755,"lat":30.732319}
-	{"name":"KRUDWIG HAROLD R JR & SUSAN M REVOCABLE TRUST","address":"260 CROWN LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.3557474363862,"lat":30.69857508845275}
-	{"name":"COHRS CYNTHIA & ALLEN","address":"114 BIG SKY","city":"BURNET","state":"TX","zip":"78611-3692","lon":-98.27046271428571,"lat":30.76975642857143}
-	{"name":"HICKERNELL PAUL LIVING TRUST","address":"420 LAS VISTAS ROAD","city":"BURNET","state":"TX","zip":"78611","lon":-98.26953411056692,"lat":30.690539160343047}
-	{"name":"BAKER DEREK SHANE AND DIANA LYNNE","address":"575 THRILL HILL TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.30318807877897,"lat":30.68696930244728}
-	{"name":"GOWIN OLIVIA DOREEN","address":"216 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611-3583","lon":-98.26119880243908,"lat":30.730743124251575}
-	{"name":"MASSEY ROY E JR AND KAREN G","address":"4621 PARK RD 4 S","city":"BURNET","state":"TX","zip":"78611","lon":-98.327497,"lat":30.677539}
-	{"name":"RUBIO GUALBERTO P","address":"2730 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.297822,"lat":30.741712}
-	{"name":"LABHART GLENN K & APRIL M","address":"102 MOUNTAIN VIEW","city":"BURNET","state":"TX","zip":"78611","lon":-98.2725872,"lat":30.7706479}
-	{"name":"DELACRUZ MICHAEL THOMAS & KIMBERLEA ROBERTS DELACRUZ","address":"1400 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611-4127","lon":-98.33197142204118,"lat":30.775017766843145}
-	{"name":"BOORMAN BENJAMIN & DIANNA","address":"2020 CR 100","city":"BURNET","state":"TX","zip":"78611-3548","lon":-98.254704,"lat":30.734464}
-	{"name":"SCHUBERT KEITH & MEREDITH","address":"219 VALLEY VIEW EAST","city":"BURNET","state":"TX","zip":"78611-5639","lon":-98.336264,"lat":30.729827}
-	{"name":"ANDERSON KEITH H & BARBARA L","address":"251 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611-4098","lon":-98.31765825521548,"lat":30.769697162133802}
-	{"name":"BUTLER DAVID SCOTT & MARIANINA FOWLER BUTLER","address":"132 MOUNTAIN VIEW","city":"BURNET","state":"TX","zip":"78611","lon":-98.38457722999169,"lat":30.749510723085127}
-	{"name":"CHILDERS MICHAEL A & SHARON V","address":"115 BILLY JOE FOX DR","city":"BURNET","state":"TX","zip":"78611-3579","lon":-98.25854131818181,"lat":30.729653272727273}
-	{"name":"COOK WAYNE DOUGLAS","address":"235 CR 118","city":"BURNET","state":"TX","zip":"78611","lon":-98.384544,"lat":30.713351}
-	{"name":"CARNEY LEE NOLAN & LAUREN RAE","address":"634 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2470325,"lat":30.7327586}
-	{"name":"MEREDITH JASON G & KRISTIN N","address":"2731 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.29773,"lat":30.739334}
-	{"name":"WILLIAMS CALIB PATRICK","address":"245 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2495122,"lat":30.7164386}
-	{"name":"GRACZYK ANDREW & KATHRYN","address":"1843 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.254126,"lat":30.73598}
-	{"name":"CORBELL DANIEL & CRYSTAL","address":"120 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28131480076455,"lat":30.767727162202736}
-	{"name":"HARGETT ARTHUR DAVID JR & FRANCES DARLENE","address":"118 BIG SKY","city":"BURNET","state":"TX","zip":"78611","lon":-98.2705497755102,"lat":30.76978912244898}
-	{"name":"DEVANEY MICHAEL S & MICHELLE L","address":"1700 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.262111,"lat":30.733454}
-	{"name":"CRAIG EDGAR LEE JR & DEBRA RENE","address":"306 CARDINAL LN","city":"BURNET","state":"TX","zip":"78611-0035","lon":-98.26162874867413,"lat":30.757503866943786}
-	{"name":"SYPHRETT KENNETH AARON & SHANNA JO","address":"448 THRILL HILL TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.29674356500396,"lat":30.689106110502337}
-	{"name":"CARRION MARC & LAKYN","address":"101 BIG SKY","city":"BURNET","state":"TX","zip":"78611","lon":-98.270081,"lat":30.769793}
-	{"name":"HEUSS ROY A & NANCY L","address":"1401 CR 100","city":"BURNET","state":"TX","zip":"78611-3512","lon":-98.266734,"lat":30.732342}
-	{"name":"MOON BRIAN JAY AND CAROL MARIE","address":"811 N OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25746765306123,"lat":30.744509959183674}
-	{"name":"HORN MARY ANN","address":"107 N OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611-3587","lon":-98.2589355,"lat":30.7443008}
-	{"name":"WILKINSON PAUL & DENISE TRUST","address":"502 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2579435,"lat":30.7155478}
-	{"name":"HARRISS ROBERT P & SHARON R","address":"139 PATTON TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.267489,"lat":30.724862}
-	{"name":"GATES GLEN A & PAMELA G","address":"228 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2477539,"lat":30.7183363}
-	{"name":"MAISANO DINO A","address":"120 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611-3551","lon":-98.263914,"lat":30.728493795918368}
-	{"name":"BORAWSKI KATHERINE L & JAMES E","address":"1100 STONE MOUNTAIN DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.318357,"lat":30.669815}
-	{"name":"HORTON THOMAS DOYLE JR & LA DONNA ANN","address":"1921 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.258214,"lat":30.735371}
-	{"name":"HUBBY C MEADE & VIRGINIA SUE","address":"317 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27511896269687,"lat":30.77136160126028}
-	{"name":"PK 4 SERIES OF RIVENDELL LLC","address":"3251 PARK RD 4 S","city":"BURNET","state":"TX","zip":"78611","lon":-98.308879,"lat":30.680851}
-	{"name":"TAYLOR TERESA & SCOTT","address":"201 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611-5526","lon":-98.296098,"lat":30.7449}
-	{"name":"SHEPPARD DENNIS RICHARD & KAREN SUE","address":"408 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27619242078073,"lat":30.773501493295516}
-	{"name":"COSGROVE TERESA & CHARLES COSGROVE","address":"200 COLLIER LN","city":"BURNET","state":"TX","zip":"78611-0969","lon":-98.34343820094678,"lat":30.727877740432685}
-	{"name":"RUBIO ARTURO","address":"1540 WILLIAMS RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.315058,"lat":30.750015}
-	{"name":"SMITH CADE & HALEY","address":"166 REED RANCH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.358221,"lat":30.753336}
-	{"name":"CRYER ALLEN L LIFE ESTATE","address":"2675 CR 120A","city":"MARBLE FALLS","state":"TX","zip":"78654-8004","lon":-98.355761,"lat":30.673351}
-	{"name":"K BAR CABIN LLC","address":"8141 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.374457,"lat":30.71623}
-	{"name":"SCHWAUSCH KEVIN B & ANGELA J","address":"101 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611-3551","lon":-98.264114,"lat":30.72833}
-	{"name":"BRIGGS CHRISTINA & BRANDON T","address":"375 THRILL HILL TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.299909,"lat":30.687445}
-	{"name":"MAKINS BRIAN & BELINDA","address":"244 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.248768,"lat":30.7165166}
-	{"name":"STEPHENS JAMES & NANETTE","address":"101 HONEY ROCK BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.253732,"lat":30.712584}
-	{"name":"WRIGHT GENE D & ALTA J","address":"200 VISTA HERMOSA","city":"BURNET","state":"TX","zip":"78611-5425","lon":-98.34203158585858,"lat":30.727797656565656}
-	{"name":"FARMER BENJAMIN & AARIS","address":"313 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611-4545","lon":-98.2512517,"lat":30.7146228}
-	{"name":"MCMURRAY MICHAEL A & DEBORAH L","address":"104 BIG SKY","city":"BURNET","state":"TX","zip":"78611","lon":-98.27024506122449,"lat":30.76967469387755}
-	{"name":"CAVA JOSEPH & KIRSTEN BRENNA","address":"123 PATTON TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.264911,"lat":30.725434}
-	{"name":"WURSTER DALE A & CYNTHIA","address":"112 BILLY JOE FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25863943863853,"lat":30.729244227934842}
-	{"name":"MONTGOMERY HAROLD & ROSE","address":"201 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.247789,"lat":30.728739}
-	{"name":"EVANS MICHAEL TROY & APRIL","address":"302 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.24938202611062,"lat":30.716174102317552}
-	{"name":"COZBY TRAVIS H","address":"204 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611-0367","lon":-98.26142245060977,"lat":30.730721281062895}
-	{"name":"KINSEY MARCUS & KINSEY NICOLE","address":"130 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611-3551","lon":-98.263814,"lat":30.728493693877553}
-	{"name":"BROWDER PAUL W","address":"1820 CR 116B","city":"BURNET","state":"TX","zip":"78611","lon":-98.279966,"lat":30.746141}
-	{"name":"TORR NA LOCHS RANCH LLC","address":"7055 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.341657,"lat":30.760552}
-	{"name":"MANLOVE BRIAN AZOR AND CECELIA RUTH","address":"201 HONEY ROCK BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.25538710230653,"lat":30.7141158002285}
-	{"name":"WENGER KRISTOPHER & SANDY","address":"124 LOST MOUNTAIN RANCH RD","city":"BURNET","state":"TX","zip":"78611-6017","lon":-98.29183196809073,"lat":30.686876473704107}
-	{"name":"BUSH JOE BAILEY & EVELYN JANE","address":"249 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611-4546","lon":-98.2496457,"lat":30.7158242}
-	{"name":"HART JAMES P & RHONDA A","address":"104 BARONS VIEW DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.287203,"lat":30.677222}
-	{"name":"DENTON CHRIS & SUNYA","address":"116 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28245179777873,"lat":30.767525374027723}
-	{"name":"PEAVY GLENN L ETUX PAT (DEC'D)","address":"1140 SCENIC LOOP (CR 100)","city":"BURNET","state":"TX","zip":"78611-3543","lon":-98.2239954,"lat":30.7608552}
-	{"name":"SHAW JENIFER","address":"216 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611-5427","lon":-98.29616820875927,"lat":30.744911542796014}
-	{"name":"BISEL KENT","address":"510 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.255405,"lat":30.728558}
-	{"name":"FIRESTONE LARRY C ETUX MARTHA","address":"105 SECRET CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25448116326531,"lat":30.713893673469386}
-	{"name":"NICHOLSON JOHN C IV & PAMELA S","address":"103 PATTON TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.264022,"lat":30.726378}
-	{"name":"JUHNKE MERLE R (DEC'D) TRUSTEE","address":"121 CR 143","city":"BURNET","state":"TX","zip":"78611-5838","lon":-98.340811,"lat":30.728527}
-	{"name":"KRIENKE KAY & CHRISTOPHER HALL","address":"1800 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.261265,"lat":30.73376}
-	{"name":"SMITH DANE LAMAR JR & DEBORAH FITCH","address":"1443 WEST PK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.27608648297947,"lat":30.68838648779714}
-	{"name":"VAUGHN STEPHEN & VICKI","address":"457 OAK VISTA DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.2473212,"lat":30.7308328}
-	{"name":"CHUMNEY DONNA L  & DORN GERALD J","address":"209 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2464341,"lat":30.7207583}
-	{"name":"POLING LANCE & MANDEE","address":"6336 PARK RD 4 S","city":"BURNET","state":"TX","zip":"78611","lon":-98.352069,"lat":30.690025}
-	{"name":"MONAHAN GABRIELA ISUANI & MICHAEL WAYNE OATES","address":"342 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2462197,"lat":30.7296134}
-	{"name":"GUTHRIE NATHAN & DESIREE","address":"123 WANDERING OAKS CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.25206,"lat":30.734279}
-	{"name":"STRONG B J LIFE ESTATE","address":"171 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611-5658","lon":-98.29490755931415,"lat":30.744699731045152}
-	{"name":"FULLER JO ANN KLORES","address":"212 VISTA HERMOSA","city":"BURNET","state":"TX","zip":"78611","lon":-98.34203861616162,"lat":30.727823535353536}
-	{"name":"WARD JAMES MONROE & GERI LEE","address":"4400 FM 3509","city":"BURNET","state":"TX","zip":"78611-0707","lon":-98.31918,"lat":30.731942}
-	{"name":"CARLILE JUDY","address":"209 HONEY ROCK BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.25562060567582,"lat":30.714148463158907}
-	{"name":"MENDOZA STEVEN MICHAEL AND EMILY","address":"102 SECRET CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.254646,"lat":30.713976}
-	{"name":"CRAVEN PAUL &  WENDY","address":"324 LOST MOUNTAIN RANCH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.297743,"lat":30.691252}
-	{"name":"BROWN ERIN & KARA LYNN MUESSIG","address":"2104 CR 120A","city":"MARBLE FALLS","state":"TX","zip":"78654-8031","lon":-98.348546,"lat":30.667832}
-	{"name":"MUELLER JAMES M & KATHERINE E","address":"201 BILLY JOE FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.258967,"lat":30.731346}
-	{"name":"SCHULTZE ROBIN JAN & WILLIAM RESIDENCE TRUST","address":"325 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27465929729335,"lat":30.7719484216293}
-	{"name":"BROWN JANSEN & ANNA","address":"103 ROUND UP CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27969587755102,"lat":30.76945614285714}
-	{"name":"COX RICHARD D & DONNA K","address":"700 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.28102312299154,"lat":30.677166705749535}
-	{"name":"HESSLER GEORGE W & CATHERINE B","address":"309 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27556044437142,"lat":30.770134388885314}
-	{"name":"BANDY NANCY OWEN","address":"203 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.261478,"lat":30.73055}
-	{"name":"WOODUL JAMES E & LIDA C","address":"600 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.28101075674864,"lat":30.678370172021122}
-	{"name":"OBERMILLER TERRY L AND CAROLYN L","address":"650 THRILL HILL TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.30140700306134,"lat":30.686548968421054}
-	{"name":"TAYLOR LYNETTE","address":"300 LOST MOUNTAIN RANCH RD","city":"BURNET","state":"TX","zip":"78611-6002","lon":-98.29745173602669,"lat":30.691698648605612}
-	{"name":"TURRUBIARTES ANTONIA GALVAN","address":"5650 FM 3509","city":"BURNET","state":"TX","zip":"78611-7063","lon":-98.338852,"lat":30.727076}
-	{"name":"MITCHELL MICHAEL P (DEDC'D)  AND DEBORAH M","address":"103 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2516952,"lat":30.7197008}
-	{"name":"JACOBSON CATHY C & DOUGLAS M","address":"200 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.320505,"lat":30.769407}
-	{"name":"BOES DAVID H & JOY E","address":"301 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.250589,"lat":30.727878}
-	{"name":"FOTENOT MICHAEL ANDREW","address":"1300 PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.275684,"lat":30.690075}
-	{"name":"BAUM KEVIN L & GWEN D","address":"110 BARONS VIEW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.284762,"lat":30.678079}
-	{"name":"COOK CADDEN LIVING TRUST","address":"102 CAMM LARY CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.26019967346939,"lat":30.732664530612244}
-	{"name":"WAGNER JOHN R & LORI A","address":"111 CANYON VIEW","city":"BURNET","state":"TX","zip":"78611","lon":-98.271757,"lat":30.7680891}
-	{"name":"HALL KEVIN RANDALL & JODIE NOEL","address":"207 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611-4546","lon":-98.2460871,"lat":30.7206082}
-	{"name":"KEH TRUST","address":"851 STONE MOUNTAIN DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.32242886343009,"lat":30.660934756101582}
-	{"name":"PHILLIPS LARRY","address":"850 FM 2341","city":"BURNET","state":"TX","zip":"78611-5816","lon":-98.28949396614541,"lat":30.775381664565884}
-	{"name":"WEBB DAVID R & DIANA C","address":"105 CAMM LARY CIR","city":"BURNET","state":"TX","zip":"78611-3576","lon":-98.26016834693878,"lat":30.732500061224492}
-	{"name":"GOBLE JOHN C & BRENDA","address":"326 CLEAR CREEK DR","city":"BURNET","state":"TX","zip":"78611-7001","lon":-98.3778485298059,"lat":30.755360084318305}
-	{"name":"WILLSON SAMUEL A ETUX ROBIN","address":"111 LOUISE LN","city":"BURNET","state":"TX","zip":"78611-3556","lon":-98.24827680288021,"lat":30.73381024468841}
-	{"name":"ANDERSON ROGER E","address":"732 PARK RD 4 SOUTH","city":"BURNET","state":"TX","zip":"78611-5468","lon":-98.265335,"lat":30.691983}
-	{"name":"VALLAD GARY & CYNTHIA","address":"830 OAK VISTA","city":"BURNET","state":"TX","zip":"78611","lon":-98.25164913636364,"lat":30.736139636363635}
-	{"name":"HUTSON HAROLD E & CHERYL D","address":"357 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.2922833629697,"lat":30.74249538837228}
-	{"name":"WILLIAMS GLORIA","address":"109 CAMM LARY CIR","city":"BURNET","state":"TX","zip":"78611-3576","lon":-98.26021769387755,"lat":30.73248712244898}
-	{"name":"GASTINGER DAVID & CAROL","address":"316 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611-4545","lon":-98.2515745,"lat":30.715196}
-	{"name":"CHAMBLESS LEO BRYAN & VICKIE NEWCOMB CHAMBLESS","address":"137 SHOALS PKWY","city":"BURNET","state":"TX","zip":"78611","lon":-98.38972766759463,"lat":30.71730571101268}
-	{"name":"AXLEY DAVID AND TARA REVOCABLE TRUST","address":"329 VALLEY VIEW EAST","city":"BURNET","state":"TX","zip":"78611","lon":-98.331399,"lat":30.728027}
-	{"name":"BLEWSTER MANAGEMENT TRUST","address":"875 STEFFEY LN","city":"BURNET","state":"TX","zip":"78611-5668","lon":-98.28834954220798,"lat":30.726570240908828}
-	{"name":"MCLAUGHLIN JAMES T & SANDLYN H","address":"115 GREAT VIEW LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.343711,"lat":30.731709}
-	{"name":"VILLARREAL JAMES & BRITTNEY","address":"451 N OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25838778380643,"lat":30.744344997655197}
-	{"name":"CURRENT DUSTIN & CASSANDRA","address":"270 THRILL HILL TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.29666,"lat":30.686576}
-	{"name":"MONTGOMERY JAMES D","address":"1250 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.333647910889,"lat":30.773698257443527}
-	{"name":"REYNOLDS LIVING TRUST","address":"6110 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.314597,"lat":30.77164}
-	{"name":"LESTER WILLIAM ROBERT","address":"6640 W PARK ROAD 4","city":"BURNET","state":"TX","zip":"78611-5474","lon":-98.382692,"lat":30.717722}
-	{"name":"BOYD JOHN O SR","address":"1150 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.33071675727021,"lat":30.772066253266477}
-	{"name":"TOMLINSON STEVEN PAUL & SHIRLEY ELAINE","address":"212 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.24928013011255,"lat":30.72930794942701}
-	{"name":"WEBSTER MARK J & REBECCA A","address":"686 OAK VIST DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.247181,"lat":30.733279}
-	{"name":"STEFFEK DARRELL & KATHERINE","address":"101 SECRET CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.254487,"lat":30.713886}
-	{"name":"SPINKS DARREL D & BETHANY L","address":"121 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611-3551","lon":-98.263914,"lat":30.728329795918366}
-	{"name":"MILLER RICHARD","address":"208 VISTA HERMOSA","city":"BURNET","state":"TX","zip":"78611-5425","lon":-98.34203627272727,"lat":30.72781490909091}
-	{"name":"BARCLAY JOHN & LAUREN C","address":"309 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611-4545","lon":-98.2507314,"lat":30.7150737}
-	{"name":"PETTY ROBERT B & STACEY ANN","address":"310 VALLEY VIEW","city":"BURNET","state":"TX","zip":"78611-0081","lon":-98.33351888470008,"lat":30.731138907617655}
-	{"name":"SPINA FRANK J LIVING TRUST","address":"101 COBBLESTONE","city":"BURNET","state":"TX","zip":"78611","lon":-98.257899,"lat":30.713203}
-	{"name":"BARRETT THOMAS L ETUX VALERIE T","address":"183 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.29529882821367,"lat":30.744767652519307}
-	{"name":"BIRKELAND BRYAN C & DOROTHY L","address":"7320 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.342501,"lat":30.776347}
-	{"name":"SCHAEFER ED AND MARILYN REVOCABLE TRUST","address":"150 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.283009,"lat":30.68582}
-	{"name":"LEGGETT W MICHAEL & RANA C SHIELDS","address":"335 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611-5428","lon":-98.29247121037236,"lat":30.74289885086136}
-	{"name":"MILLER DAN W ETUX KAREN B","address":"100 AMBER CREEK","city":"BURNET","state":"TX","zip":"78611-5952","lon":-98.28127,"lat":30.682203}
-	{"name":"MONTGOMERY VOL H SIBLINGS TRUST","address":"305 FAWN HILL","city":"BURNET","state":"TX","zip":"78611","lon":-98.26080308313519,"lat":30.753922184342198}
-	{"name":"SCHREIBER WENDY JOSETTE","address":"120 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.247313,"lat":30.729965}
-	{"name":"WITTEKIEND STEWART H & JILL H","address":"200 BILLY JOE FOX DR","city":"BURNET","state":"TX","zip":"78611-3580","lon":-98.259153,"lat":30.731308}
-	{"name":"HERTER RALPH E ETUX JEFFIE L","address":"765 CR 100","city":"BURNET","state":"TX","zip":"78611-0413","lon":-98.259512,"lat":30.726008}
-	{"name":"TIPPS DAWN & BOBBY","address":"212 TERRY LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.34184165711065,"lat":30.73388017765767}
-	{"name":"BAILEY DAN L & REBECCA F","address":"225 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611-5526","lon":-98.29621033401482,"lat":30.744918468473625}
-	{"name":"GREEN COLE A","address":"100 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.317738,"lat":30.767282}
-	{"name":"SCOTT TONYA & DENNIS SCOTT","address":"217 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2473523,"lat":30.7199954}
-	{"name":"GOMEZ ELAINE & REYNALDO","address":"200 HONEY ROCK BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.25547185700879,"lat":30.71395714238964}
-	{"name":"DAWES MARCUS DON & AMBER DAWN","address":"104 DOUBLE CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.2464306,"lat":30.7192651}
-	{"name":"COX GEORGE W SR & KATHY SUSAN STUTZ COX","address":"211 CR 143","city":"BURNET","state":"TX","zip":"78611","lon":-98.337906,"lat":30.734032}
-	{"name":"OTT GARY & BARBIE","address":"400 CR 100","city":"BURNET","state":"TX","zip":"78611-3594","lon":-98.253973,"lat":30.728735}
-	{"name":"JORDAN BONNIE G & JERRY M (DEC'D)","address":"217 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611-3583","lon":-98.261206244496,"lat":30.7305719717216}
-	{"name":"THORNLEY BRYAN & LORI","address":"100 THRILL HILL TRAIL","city":"BURNET","state":"TX","zip":"78611-0216","lon":-98.295849,"lat":30.690289}
-	{"name":"DENNY KAREN JANE & DALE EDWARD DENNY","address":"108 LOUISE LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.2481817400295,"lat":30.733984370014745}
-	{"name":"BELAJ ERALD & CHRISTINA","address":"350 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.2814055,"lat":30.6815305}
-	{"name":"WILLIAMS BRENT A & CYNTHIA E","address":"342 THRILL HILL TR","city":"BURNET","state":"TX","zip":"78611","lon":-98.299512,"lat":30.686363}
-	{"name":"CARLTON DAVID B & CELESTE C","address":"1401 PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.276047,"lat":30.686241}
-	{"name":"MEYER JAMES B","address":"214 VALLEY VIEW EAST","city":"BURNET","state":"TX","zip":"78611","lon":-98.336991,"lat":30.732337}
-	{"name":"KINGSBURY PATRICK & ANNETTE LADAWN","address":"527 WILLIAMS RD","city":"BURNET","state":"TX","zip":"78611-0339","lon":-98.322054,"lat":30.738085}
-	{"name":"EPLEY JERI L","address":"701 LAS VISTAS","city":"BURNET","state":"TX","zip":"78611","lon":-98.267348,"lat":30.695141}
-	{"name":"INGRAM BRANDON L & CHRISTINE","address":"3751 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.278171,"lat":30.761162}
-	{"name":"YOUNG COURTNEY C","address":"126 MOUNTAIN VIEW CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.38384285239752,"lat":30.74959723985306}
-	{"name":"LANGFORD RONALD & PATRICIA","address":"110 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611-3551","lon":-98.264014,"lat":30.728493897959186}
-	{"name":"BENT JOHN AND RITA REVOCABLE LIVING TRUST","address":"302 CR 100","city":"BURNET","state":"TX","zip":"78611-3540","lon":-98.251229,"lat":30.729627}
-	{"name":"BUNDY WILLIAM B & LINDA W","address":"950 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32747813126063,"lat":30.771973108847686}
-	{"name":"HUBBELL JACOB MICHAEL & HUBBELL REBECCA ANN","address":"121 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28086910399111,"lat":30.76765079480536}
-	{"name":"LANGFORD CAROL FRANCES","address":"7814 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.370813,"lat":30.719406}
-	{"name":"BRYCE JUDSON & TARA","address":"100 ROUND UP CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.279721,"lat":30.76962}
-	{"name":"STEFFAN JASON & SARA JOY","address":"100 HONEY ROCK BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.253769,"lat":30.712422}
-	{"name":"KRAUS ROLF D & JANICE M AND BRANDON L INGRAM & CHRISTINE M","address":"3747 W SH 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.276907,"lat":30.760802}
-	{"name":"CRANE ANITA WARD","address":"131 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611-3551","lon":-98.263814,"lat":30.72832969387755}
-	{"name":"KLOTZ RICHARD L & WANDA L","address":"215 HONEY ROCK BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.25579598398238,"lat":30.714171233875362}
-	{"name":"CAMPBELL JAMES GREGORY","address":"108 CAMM LARY CIR","city":"BURNET","state":"TX","zip":"78611-3576","lon":-98.26027369387755,"lat":30.73264512244898}
-	{"name":"PHILLIPS MARK L & BEVERLY M","address":"103 CAMM LARY CIR","city":"BURNET","state":"TX","zip":"78611-3576","lon":-98.26014367346939,"lat":30.732506530612245}
-	{"name":"PRINTZIPAL LLC","address":"3610 CR  116","city":"BURNET","state":"TX","zip":"78611","lon":-98.2810042,"lat":30.7447453}
-	{"name":"COLLINS JAMES L & ROSEANNE L","address":"7000 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.360158,"lat":30.72642}
-	{"name":"COLLIE MOLLY ALICE","address":"110 BILLY JOE FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25861287727706,"lat":30.729124455869684}
-	{"name":"KENNEDY ANGELA DOWDLE","address":"701 CR 100","city":"BURNET","state":"TX","zip":"78611-3590","lon":-98.247313,"lat":30.729965}
-	{"name":"WITTEKIEND STEVEN R & RUBY M","address":"307 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611-4545","lon":-98.2504921,"lat":30.7151626}
-	{"name":"MINTER JOHN W & LHIZEL M","address":"201 LOST MOUNTAIN RANCH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.294154,"lat":30.689488}
-	{"name":"MCELREATH DAYNA D AND CALVIN","address":"239 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2489778541059,"lat":30.717265450297617}
-	{"name":"PALMER BRADLEY & MARY","address":"401 THRILL HILL TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.297345,"lat":30.688174}
-	{"name":"MCANELLY ALAN ETUX SHERRYE","address":"210 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611-5427","lon":-98.29614012525556,"lat":30.74490692567761}
-	{"name":"FRANCIS COLIN R & PATTI M","address":"100 MOUNTAIN VIEW","city":"BURNET","state":"TX","zip":"78611","lon":-98.273013,"lat":30.7697488}
-	{"name":"RILEY GINGER G WILCOX","address":"770 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.259864,"lat":30.729269}
-	{"name":"DIXON SHENA","address":"4510 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.320179,"lat":30.731134}
-	{"name":"MICHALEWICZ THOMAS ERNEST & MARY DEE","address":"131 PATTON TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.266355,"lat":30.725031}
-	{"name":"RABY MATT W & JULIE M","address":"133 LONE OAK DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.384463,"lat":30.698444}
-	{"name":"HALLMARK CLAY ETUX KAREN","address":"112 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611-5001","lon":-98.2518803,"lat":30.7210482}
-	{"name":"MIDDLEBROOKS EDWARD L ETUX NANCY","address":"1911 CR 100","city":"BURNET","state":"TX","zip":"78611-3515","lon":-98.258969,"lat":30.735098}
-	{"name":"SCOTT CLIFFORD M","address":"103 N OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611-3587","lon":-98.2589845,"lat":30.7442909}
-	{"name":"CALHOUN JOHNATHAN","address":"110 STEFFEY LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.28380318565218,"lat":30.74331649807265}
-	{"name":"WELCH BOB BAILEY & TERRI JO","address":"312 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.251676,"lat":30.72926}
-	{"name":"THORNLEY MICHAEL","address":"600 THRILL HILL TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.303297,"lat":30.68899}
-	{"name":"OBETS GREGORY A & CYNTHIA D","address":"218 LOST MOUNTAIN RANCH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.29504114285714,"lat":30.689703476190477}
-	{"name":"POWELL KENNETH & NATALIE","address":"2250 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.251216,"lat":30.7359}
-	{"name":"POLLOCK LAURIE E","address":"339 CR 118","city":"BURNET","state":"TX","zip":"78611","lon":-98.385646,"lat":30.713581}
-	{"name":"HAINES DAVID W AND RYCHIE LYNN","address":"436 PARK ROAD 4 SOUTH","city":"BURNET","state":"TX","zip":"78611","lon":-98.259764,"lat":30.691967}
-	{"name":"WHITIS LORA SUE","address":"311 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611-4545","lon":-98.2510351,"lat":30.7148132}
-	{"name":"KELLEY NORMAN G & RITA M","address":"114 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28298448794979,"lat":30.767614434659805}
-	{"name":"WELLS MICHAEL LAWRENCE JR & BROOKLYNN MICHELE GILMORE","address":"227 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2480295291589,"lat":30.718637988017484}
-	{"name":"CONFIDENTIAL","address":"101 LAVONNA FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.265959,"lat":30.733798}
-	{"name":"SMITH CLAYTON H","address":"315 THOMAS RIDGE","city":"BURNET","state":"TX","zip":"78611-5428","lon":-98.29277389648426,"lat":30.74315951720467}
-	{"name":"KATES DANNY C & PAMELA G","address":"104 SECRET CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.25464302083333,"lat":30.713979916666666}
-	{"name":"HARDY GAIL T","address":"1839 CR 100","city":"BURNET","state":"TX","zip":"78611-3536","lon":-98.261562,"lat":30.734755}
-	{"name":"CASON W SCOTT & SUZANNE M PATTON","address":"1600 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32876691407077,"lat":30.77458779964938}
-	{"name":"SCOTT JACOB","address":"1900 116B","city":"BURNET","state":"TX","zip":"78611","lon":-98.280609,"lat":30.745512}
-	{"name":"JACKSON PERRI LEE AND BOBBY W JACKSON","address":"201 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.261649,"lat":30.729963}
-	{"name":"REDICK JAMES RUE & DORISLEE","address":"101 AMBER CREEK","city":"BURNET","state":"TX","zip":"78611","lon":-98.281227,"lat":30.682043}
-	{"name":"BROWN DAVID D C & CYNTHIA M BROWN","address":"320 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.252055,"lat":30.729227}
-	{"name":"BRIANT BRETT H & RACHAEL A","address":"313 CR 100","city":"BURNET","state":"TX","zip":"78611-3549","lon":-98.251574,"lat":30.72796}
-	{"name":"GAYLE STEVEN CLARK - JOE PAULETTE SMITH -  DANIEL WAYNE GAYLE","address":"230 SANDY","city":"BURNET","state":"TX","zip":"78611","lon":-98.31100285714285,"lat":30.768119040816327}
-	{"name":"DEBERRY REVOCABLE TRUST","address":"7625 W HWY 29 ","city":"BURNET","state":"TX","zip":"78611","lon":-98.34793,"lat":30.7663}
-	{"name":"BECKHAM DAVID MICHAEL & NICOLE SCANTLEN BECKHAM","address":"307 DELAWARE SPRINGS","city":"BURNET","state":"TX","zip":"78611-3525","lon":-98.2489348,"lat":30.7187016}
-	{"name":"COCKRELL ERVIN ETUX DENISE","address":"178 THOMAS RIDGE","city":"BURNET","state":"TX","zip":"78611-5657","lon":-98.29383130956847,"lat":30.743624443811257}
-	{"name":"HONEYCUTT LEE MASON ET AL JANE A","address":"1601 PARK RD 4","city":"BURNET","state":"TX","zip":"78611-5898","lon":-98.279683,"lat":30.687009}
-	{"name":"YATES FAMILY TRUST","address":"105 HONEY ROCK BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.25383258002971,"lat":30.71259974022374}
-	{"name":"PERRY JEFFREY S AND MELADY A","address":"814 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.29977346785238,"lat":30.769019965391262}
-	{"name":"MOD RANCH LTD","address":"155 PATTON TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.270712,"lat":30.723604}
-	{"name":"SAMSON ALLAN LEE AND DOLENE SUE","address":"1700 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.326772,"lat":30.773657}
-	{"name":"COFFMAN JAMES H ETUX LYDIA A","address":"1675 CR 100","city":"BURNET","state":"TX","zip":"78611-3541","lon":-98.262537,"lat":30.735134}
-	{"name":"KELLEY MICHAEL J & PAULA P","address":"109 BILLY JOE FOX DR","city":"BURNET","state":"TX","zip":"78611-3579","lon":-98.25859959659631,"lat":30.729064569837107}
-	{"name":"CONFIDENTIAL","address":"107 CAMM LARY CIR","city":"BURNET","state":"TX","zip":"78611-3576","lon":-98.26019302040817,"lat":30.732493591836736}
-	{"name":"THOMPSON THOMAS & TERESA","address":"442 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2465519,"lat":30.7303691}
-	{"name":"BLUE TRUCK RANCH LLC","address":"6395 PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.381456,"lat":30.720221}
-	{"name":"CHRISTIAN MELISSA D & MARK ESCAMILLA","address":"113 COBBLESTONE LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.257283,"lat":30.712282}
-	{"name":"SWINGLER MARK & TAMERA","address":"350 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.31832336308061,"lat":30.770235047463924}
-	{"name":"SAVOY STEPHEN B AND PATRICIA G","address":"105 N OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611-3587","lon":-98.25896,"lat":30.7442959}
-	{"name":"BUSTER DANIEL J ETUX KARA R","address":"106 SPANISH OAKS DR","city":"BURNET","state":"TX","zip":"78611-3667","lon":-98.26040156097561,"lat":30.72148267804878}
-	{"name":"IRVING JOHN W & NANCY A","address":"2079 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.253716,"lat":30.736005}
-	{"name":"TURNER JAMES A & DYANNE C","address":"140 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611-3551","lon":-98.26371400000001,"lat":30.728493591836735}
-	{"name":"GOVAARS HELEN SCOTT & MARYLINDA GOVAARS","address":"658 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.258544,"lat":30.728064}
-	{"name":"POE WILLIAM C & ELIZABETH S","address":"201 CROWN LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.355713,"lat":30.695113}
-	{"name":"SAMFORD PATSY","address":"107 WALLACE RIDDELL DR","city":"BURNET","state":"TX","zip":"78611-4703","lon":-98.2491297,"lat":30.7226891}
-	{"name":"BRINEGAR BY REVOCABLE TRUST","address":"223 SHOAL PKWY","city":"BURNET","state":"TX","zip":"78611-5439","lon":-98.390771,"lat":30.719155}
-	{"name":"GUNTER KEVIN & COLLEEN MARY","address":"105 COBBLESTONE","city":"BURNET","state":"TX","zip":"78611","lon":-98.257692,"lat":30.712903}
-	{"name":"SANE ROBERT P AND NANCY G","address":"630 CR 100","city":"BURNET","state":"TX","zip":"78611-3514","lon":-98.25809,"lat":30.728103}
-	{"name":"JACOBS ANDREA KAY & HOWARD LYNN JACOBS","address":"1151 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611-4120","lon":-98.33068573190837,"lat":30.77206529925151}
-	{"name":"MERRILL CHRISTIAN AND COLLEEN","address":"236 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2483743,"lat":30.7175059}
-	{"name":"SNEJ ENTERPRISES LLC","address":"1750 PARK RD 4","city":"BURNET","state":"TX","zip":"78611-5939","lon":-98.277053,"lat":30.690731}
-	{"name":"THOMAS GLENDA G & PATSY A STARR","address":"101 DOUBLE CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.2473416,"lat":30.7190924}
-	{"name":"DOYLE DEREK","address":"2270 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.250014,"lat":30.736039}
-	{"name":"MILLER LARRY GLENN & LESLIE MARIE","address":"312 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.2512461,"lat":30.7154986}
-	{"name":"OWENS SAM W & JOYCE A","address":"305 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611-7459","lon":-98.2503111,"lat":30.7155226}
-	{"name":"SMITH DUSTIN ROBERT & BRANDY GAIL","address":"975 CROWN LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.35468842899337,"lat":30.70668427377573}
-	{"name":"CONFIDENTIAL","address":"107 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28457947193687,"lat":30.767727914685292}
-	{"name":"THOMAS DEANA","address":"107 LOUISE LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.24823143358164,"lat":30.73380176369441}
-	{"name":"GRAY BOYD & CARESSA GRAY","address":"211 HONEY ROCK BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.25567906511134,"lat":30.714156053397726}
-	{"name":"CUNHA JOHN A & BRIDGET L","address":"400 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.281311,"lat":30.680853}
-	{"name":"COURTRIGHT ELLIOTT G JR & MEGHAN H","address":"186 THRILL HILL TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.294773,"lat":30.6926}
-	{"name":"NEWELL TRACY L & MICHAEL P NEWELL","address":"202 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.26145972530489,"lat":30.730717640531445}
-	{"name":"LANDRY HARRY RAY & LISA ANEESE","address":"104 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28555249962048,"lat":30.767369023319567}
-	{"name":"ULMER JOHN T","address":"1850 PARK RD 4 SOUTH","city":"BURNET","state":"TX","zip":"78611-5811","lon":-98.281879,"lat":30.689884}
-	{"name":"HYNUM AARON & HEATHER","address":"109 COBBLESTONE","city":"BURNET","state":"TX","zip":"78611","lon":-98.257531,"lat":30.712584}
-	{"name":"FRANCIS ROBERT J ETUX PATRICIA","address":"215 CR 100","city":"BURNET","state":"TX","zip":"78611-3547","lon":-98.249515,"lat":30.728438}
-	{"name":"HOWELL BRENDA S","address":"238 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2485072,"lat":30.7172887}
-	{"name":"COLLINS JAMES TRUSTEE","address":"164 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611-5657","lon":-98.2943055977379,"lat":30.74403657654121}
-	{"name":"FREEMAN ALLEN ET UX JOHANNA","address":"120 BILLY JOE FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.258857,"lat":30.73014}
-	{"name":"LONG SALLYE","address":"5505 PR 4 S","city":"BURNET","state":"TX","zip":"78611-0781","lon":-98.338449,"lat":30.683704}
-	{"name":"TURNER JOHN & GERALDINE","address":"107 DOUBLE CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2464826,"lat":30.718716}
-	{"name":"BROAD ALFRED T ETUX LAVERNE REVOCABLE TRUST","address":"7817 CR 116","city":"BURNET","state":"TX","zip":"78611-5633","lon":-98.364123,"lat":30.71534}
-	{"name":"WHITMAN JOHN E & MAXINE REVOCABLE LIVING TRUST","address":"2065 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.254126,"lat":30.73598}
-	{"name":"FLORES WESLEY","address":"233 WANDERING OAKS CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.255059,"lat":30.731389}
-	{"name":"WALTMON MICHAEL WAYNE","address":"151 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.316898,"lat":30.766572}
-	{"name":"EMMA J LP","address":"7650 PR 4 W","city":"BURNET","state":"TX","zip":"78611","lon":-98.382262,"lat":30.702822}
-	{"name":"BLANTON WILLIAM R & JENNIFER","address":"204 HONEY ROCK BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.25558182037054,"lat":30.713972871502765}
-	{"name":"MILLS RAY E ETUX CAROL","address":"1243 CR 100","city":"BURNET","state":"TX","zip":"78611-3510","lon":-98.265551,"lat":30.729613}
-	{"name":"HARDIN DWIGHT","address":"5244 FM 3509","city":"BURNET","state":"TX","zip":"78611-5649","lon":-98.33228,"lat":30.727625}
-	{"name":"WOOTTON JOE L ETUX EDITH M","address":"1551 CR 100","city":"BURNET","state":"TX","zip":"78611-3513","lon":-98.264548,"lat":30.734647}
-	{"name":"POHLMEIER VIRGINIA L","address":"100 WALLACE RIDDELL DR","city":"BURNET","state":"TX","zip":"78611-3532","lon":-98.2476033,"lat":30.7233223}
-	{"name":"WELLS FRED GENE & LOU ADAH WILLIAMS","address":"7235 PR 4 W","city":"BURNET","state":"TX","zip":"78611-5457","lon":-98.368491,"lat":30.711991}
-	{"name":"BAKER KEVIN R","address":"1350 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.33276604133978,"lat":30.77492694057009}
-	{"name":"SAVAGE ROBERT E & LINDA K","address":"6802 W PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.383009,"lat":30.71554}
-	{"name":"MURDOCH ROBERT CHARLES & SHARON","address":"219 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.29618225051112,"lat":30.744913851355218}
-	{"name":"PIGG DONALD E & LANITA J","address":"1390 CR 100","city":"BURNET","state":"TX","zip":"78611-3511","lon":-98.264838,"lat":30.732404}
-	{"name":"JONES LOUISE B","address":"101 N OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.259009,"lat":30.744286}
-	{"name":"SPILLER GORDON C & SOLANYELA R","address":"1311 CR 100","city":"BURNET","state":"TX","zip":"78611-3511","lon":-98.265363,"lat":30.730894}
-	{"name":"WILCOX JK TRUST","address":"109 WALLACE RIDDELL DR","city":"BURNET","state":"TX","zip":"78611-0223","lon":-98.2494658,"lat":30.7226764}
-	{"name":"PULLIN ROBERT SCOTT & ASHLEY D","address":"2400 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.289818,"lat":30.745853}
-	{"name":"DIETER FREDERICK W JR & JO EVELYN TRUSTEES","address":"1345 CR 100","city":"BURNET","state":"TX","zip":"78611-3511","lon":-98.266346,"lat":30.731549}
-	{"name":"HASKIN KATHLEEN S & GLEN DEWEY HASKIN","address":"2091 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.253305,"lat":30.736031}
-	{"name":"MILLER KIM A","address":"114 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611-5001","lon":-98.2517964,"lat":30.7212819}
-	{"name":"ARREDONDO HECTOR","address":"219 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.322819,"lat":30.763759}
-	{"name":"LIVINGSTON BRADLEY & DEBRA K","address":"211 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.2961448058395,"lat":30.744907695197345}
-	{"name":"LILES RYAN MATTHEW & JULIE","address":"801 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611-5890","lon":-98.28021235460838,"lat":30.67650929333307}
-	{"name":"GILMORE GLEN ETUX HOLLY","address":"2701 FM 3509","city":"BURNET","state":"TX","zip":"78611-7128","lon":-98.296128,"lat":30.739689}
-	{"name":"WESSEL BARBARA J TRUSTEE","address":"109 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28402885035578,"lat":30.767793329445226}
-	{"name":"MALFER RICHARD JOSEPH & MEGAN","address":"1300 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.33338868752043,"lat":30.774452242798077}
-	{"name":"LANGE LYNNE V & TRAVIS D LANGE JR","address":"213 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.26128388892572,"lat":30.730565694086856}
-	{"name":"GUTIERREZ REGGIE &","address":"700 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.267392,"lat":30.754811}
-	{"name":"PATTON DAVID L & CARRIE BECKHAM","address":"4850 FM 3509","city":"BURNET","state":"TX","zip":"78611-5020","lon":-98.326498,"lat":30.730523}
-	{"name":"ZIPPIERE WILLIAM J & JUDITH W","address":"102 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.285944,"lat":30.766966}
-	{"name":"HUIE JOHN EDDIE JR & SARAH SHAW","address":"111 TRIOPS TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.285617,"lat":30.679718}
-	{"name":"RICKABY KEITH ETUX BRENDA","address":"700 N OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611-3597","lon":-98.258898,"lat":30.744399}
-	{"name":"POWALS DARLENE L","address":"326 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.252659,"lat":30.729126}
-	{"name":"CALLAWAY REMINGTON FAMILY TRUST","address":"522 LAS VISTAS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.2601536015094,"lat":30.697117358961012}
-	{"name":"SULLIVAN ROSALIE MATTHEWS","address":"105 LAVONNA FOX DR","city":"BURNET","state":"TX","zip":"78611-0201","lon":-98.266552,"lat":30.734111}
-	{"name":"YEAKEL THOMAS BARRY & PAULINE JUNE (DECSD)","address":"3615 PARK RD 4 S","city":"BURNET","state":"TX","zip":"78611-0444","lon":-98.310728,"lat":30.679411}
-	{"name":"BURNET RANCH INVESTMENTS LLC","address":"3221 FM 3509","city":"BERTRAM","state":"TX","zip":"78605","lon":-98.308279,"lat":30.709281}
-	{"name":"HEARNSTEAD TRUST","address":"912 PK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.267154,"lat":30.691533}
-	{"name":"ROBINSON JOHN & MACIE","address":"219 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611-4546","lon":-98.2475101,"lat":30.719745}
-	{"name":"HAYS SUZANNE & BILLY HAYS","address":"108 LAVONNA FOX DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.266529,"lat":30.734741}
-	{"name":"MCBURNETT KEITH R & PATRICIA J","address":"315 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.2514984,"lat":30.7144073}
-	{"name":"STRAIN ROBERT C & KORI JOHNS","address":"231 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.24835339744544,"lat":30.71818417865549}
-	{"name":"CONFIDENTIAL","address":"232 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2480726,"lat":30.7179101}
-	{"name":"FREEMAN JON & CONNIE","address":"205 BILLY JOE FOX DR","city":"BURNET","state":"TX","zip":"78611-3580","lon":-98.25898095918367,"lat":30.731396897959183}
-	{"name":"PACHLHOFER JAMES L","address":"801 CROWN LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.355677,"lat":30.701187}
-	{"name":"GOSSETT MIKE & KAREN ELIZABETH","address":"105 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.2850996198448,"lat":30.767554452254377}
-	{"name":"SMITH FLOYD & CHEREE","address":"204 BILLY JOE FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25916695918367,"lat":30.731358897959183}
-	{"name":"GONZALES JOSEPH R & DIAMANTINA GONZALES","address":"212 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2466876,"lat":30.7198514}
-	{"name":"ERCHINGER ROBERT C","address":"99 BIG SKY","city":"BURNET","state":"TX","zip":"78611","lon":-98.2689303,"lat":30.7664999}
-	{"name":"WERCHAN MARY E","address":"7505 W PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.379162,"lat":30.704577}
-	{"name":"BRYANT SANDRA K","address":"104 HONEY ROCK BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.25387345567084,"lat":30.712440944101512}
-	{"name":"LEHRMANN JAMES A ETUX LUCRETIA A","address":"2460 CR 120A","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.355267,"lat":30.666909}
-	{"name":"STRATA TRUST CO CUSTODIAN JAY P OTTO IRA #200801007","address":"242 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2488995836374,"lat":30.716791353837646}
-	{"name":"KNAPE DAVID L & JUDY Y","address":"150 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611-0925","lon":-98.263614,"lat":30.72849348979592}
-	{"name":"CARPENTER BRIAN & AMANDA L","address":"210 LEVON LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.324796,"lat":30.731127}
-	{"name":"THOMPSON RICHARD L & CAROL J REVOCABLE TRUST","address":"114 WALLACE RIDDELL DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2497302,"lat":30.7232697}
-	{"name":"HARRIS RICK & LORRAINE ROBERTS","address":"602 CR 118","city":"BURNET","state":"TX","zip":"78611-5447","lon":-98.388326,"lat":30.71694}
-	{"name":"TODD STANFORD C","address":"236 CR 100","city":"BURNET","state":"TX","zip":"78611-0091","lon":-98.250429,"lat":30.72985}
-	{"name":"BACKA CAROL ANN","address":"1301 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.265919,"lat":30.730369}
-	{"name":"SEAVER CHARLES R III & KAREN A SEAVER REVOC LIVING TRUST","address":"311 DELAWARE SPRNGS BLVD","city":"BURNET","state":"TX","zip":"78611-3525","lon":-98.249523,"lat":30.71862}
-	{"name":"CANALES MAYRA L & JASON","address":"111 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28348157795176,"lat":30.76772844417189}
-	{"name":"CHERVENKA MATTHEW T & TAMMY","address":"300 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.281533,"lat":30.682174}
-	{"name":"TERRELL RYE C & EILEEN","address":"2000 CR 116B","city":"BURNET","state":"TX","zip":"78611","lon":-98.281695,"lat":30.744936}
-	{"name":"CHURCHILL BRAD LEE & GRETCHEN G","address":"310 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.2509852,"lat":30.7156731}
-	{"name":"HUGHES SCOTT A ETUX CHRISTINA M","address":"311 SUNSET DR","city":"BURNET","state":"TX","zip":"78611-9737","lon":-98.25811541572818,"lat":30.75627230528102}
-	{"name":"MOHTASHAMI SANA & VAJIHEH","address":"605 CR 120B","city":"MARBLE FALLS","state":"TX","zip":"78654-8015","lon":-98.332975,"lat":30.67348}
-	{"name":"BROOKS THOMAS K & CYNTHIA D","address":"834 OAK VISTA DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.25148736363637,"lat":30.736171363636362}
-	{"name":"WOMACK MIKE AND JANICE FAMILY TRUST","address":"235 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.24867726573197,"lat":30.717730369293502}
-	{"name":"CLARK JAMES E & DIANE M","address":"308 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.24952621792644,"lat":30.716174292179264}
-	{"name":"GEUTHER GREG","address":"115 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.248139904611,"lat":30.72495720455759}
-	{"name":"JESUCRISTO LA ROCA VIVA INC","address":"618 PARK RD 4 SOUTH","city":"BURNET","state":"TX","zip":"78611-5467","lon":-98.261054,"lat":30.69216}
-	{"name":"PAYNE DANIEL SCOTT ETUX LESLEY A","address":"2500 CR 120A","city":"MARBLE FALLS","state":"TX","zip":"78654-8014","lon":-98.35657,"lat":30.667417}
-	{"name":"TINDELL JAMES & KARMAN","address":"2661 FM 3509","city":"BURNET","state":"TX","zip":"78611-7441","lon":-98.294678,"lat":30.73883}
-	{"name":"BECKWITH DANA L","address":"111 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611-5002","lon":-98.2512699,"lat":30.720636}
-	{"name":"WARD COREY AND CHELSIE","address":"112 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28345148334198,"lat":30.767916965626622}
-	{"name":"HAGEN KENNETH & RENEE","address":"104 LAVONNA FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.265735,"lat":30.734693}
-	{"name":"LEONETTI LINDA","address":"109 NORTH OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.257706,"lat":30.73731}
-	{"name":"BORCHARDT JOHN R ETUX LINDA","address":"1145 PR 4 S","city":"BURNET","state":"TX","zip":"78611-5984","lon":-98.272352,"lat":30.68754}
-	{"name":"DERRICK LEON E & SALLY","address":"404 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2557066,"lat":30.7155247}
-	{"name":"MEREDITH LEONARD","address":"536 STONE MOUNTAIN DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.32466948604713,"lat":30.65656633136072}
-	{"name":"LERMA CHARLES & IRMA","address":"506 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3558","lon":-98.2583103,"lat":30.7159937}
-	{"name":"COLLINSWORTH JACK AND","address":"121 AVERY SPUR","city":"BURNET","state":"TX","zip":"78611","lon":-98.24997256117494,"lat":30.72553083344178}
-	{"name":"OVER THE MOON HIGHLANDS LLC","address":"1604 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.2810042,"lat":30.7447453}
-	{"name":"BARKER DOYLE & DONNA","address":"102 ROUND UP CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27973987755101,"lat":30.769616142857142}
-	{"name":"CARLEY ALFRED W & JANICE K LIVING TRUST","address":"1838 CR 100","city":"BURNET","state":"TX","zip":"78611-3536","lon":-98.260887,"lat":30.733885}
-	{"name":"NORRED WILLIAM E JR ETUX REBECCA","address":"1601 CR 100","city":"BURNET","state":"TX","zip":"78611-3541","lon":-98.263536,"lat":30.734471}
-	{"name":"RUSHING CHRISTINE","address":"318 DELAWARE SPRINGS","city":"BURNET","state":"TX","zip":"78611-3516","lon":-98.2498792,"lat":30.7191845}
-	{"name":"HOWARD DENNIS CLAYTON & JERRI","address":"308 DELAWARE SPRINGS BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.2491442,"lat":30.7202494}
-	{"name":"BROWN SARAH MENDELL","address":"106 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611-7429","lon":-98.2522785,"lat":30.7203081}
-	{"name":"ALLEN JACK & AMBER","address":"901 CROWN LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.35561474964352,"lat":30.704519395794524}
-	{"name":"BOPRECK SAO","address":"250 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2490148,"lat":30.7157596}
-	{"name":"BULLARD LEE THOMAS & CATHERINE ANNE","address":"411 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.29707788689224,"lat":30.744937952545552}
-	{"name":"ROMERO GABRIEL ETUX JENNIFER E","address":"606 PR 4 S","city":"BURNET","state":"TX","zip":"78611-5467","lon":-98.260724,"lat":30.691917}
-	{"name":"COMPTON RUPERT D","address":"223 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2478336,"lat":30.7192824}
-	{"name":"JERNEJCIC THOMAS M SR & GRACIELA","address":"222 VALLEY VIEW EAST","city":"BURNET","state":"TX","zip":"78611-5638","lon":-98.336003,"lat":30.731811}
-	{"name":"OTTO JAY P","address":"240 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.24883577818319,"lat":30.71700480511686}
-	{"name":"BEHRENS MARK","address":"110 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.284022680543,"lat":30.76797045728655}
-	{"name":"BURKHALTER DANNY & ERIN","address":"314 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.2513892,"lat":30.7153163}
-	{"name":"ROMERO LORENZO","address":"700 PR 4 S","city":"BURNET","state":"TX","zip":"78611","lon":-98.264002,"lat":30.69195}
-	{"name":"RIEGER BARBARA","address":"304 LEVON LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.324652,"lat":30.733022}
-	{"name":"ORR IRA R","address":"233 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611-4546","lon":-98.2487172,"lat":30.7181567}
-	{"name":"BOURKE JACK & MARY","address":"214 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.249605,"lat":30.729642}
-	{"name":"FIPPS DOUGLAS & MICHELE","address":"317 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.2517065,"lat":30.7142522}
-	{"name":"CLARK DOROTHY MARIE KENYON","address":"322 DELAWARE BLVD","city":"BURNET","state":"TX","zip":"78611-3516","lon":-98.2503443,"lat":30.7186626}
-	{"name":"GREGG GUY ADAM & SAVANNA","address":"109 LAVONNA FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.267329,"lat":30.734405}
-	{"name":"WOESSNER JOHN","address":"192 TOM KITE DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.246109,"lat":30.723685}
-	{"name":"COX CAROL & MARK COX TRUSTEES","address":"607 CR 120B","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.331014,"lat":30.674232}
-	{"name":"KING MYRTH KODY & STEPHANIE P","address":"104 CAMM LARY CIR","city":"BURNET","state":"TX","zip":"78611-7411","lon":-98.26022434693878,"lat":30.73265806122449}
-	{"name":"RODGERS HEIDY ELLISOR","address":"116 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2515903,"lat":30.7215579}
-	{"name":"DUNHAM HERMAN & PATRICIA","address":"133 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.279434,"lat":30.769467}
-	{"name":"FRANKLIN IRENE EMMA","address":"105 BRUCE COVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.2526591,"lat":30.7149827}
-	{"name":"GATLIN RICHARD & ALLYSSA GATLIN","address":"208 STEFFEY LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.28321835957577,"lat":30.74101460247511}
-	{"name":"RYE JEROD A & STEPHANIE M","address":"214 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2470278,"lat":30.7195133}
-	{"name":"CLARK KEVIN JAMES & KASSANDRA E HEARN","address":"401 QUAIL TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.26131416161616,"lat":30.75484406060606}
-	{"name":"BOONE THOMAS DALE & GAYLENE","address":"1480 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.33068251478969,"lat":30.774995843669924}
-	{"name":"PRICE MARTIN RICHARD & MARTHA ANN","address":"125 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.27977911088408,"lat":30.76787457126149}
-	{"name":"COSGROVE ALICEN L & RICHARD G TATE","address":"115 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28250998591115,"lat":30.76734610134591}
-	{"name":"HOUSSIAN JONATHAN & JENNIFER","address":"226 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.24802176914486,"lat":30.71832173513908}
-	{"name":"NELSON NATALIE ANNE","address":"303 DELAWARE SPRINGS BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.2481776,"lat":30.7202938}
-	{"name":"HERRERA BEN & BLYSS","address":"101 WALLACE RIDDELL DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.248265,"lat":30.7227267}
-	{"name":"HARTIG LINDA KAY","address":"100 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611-5001","lon":-98.2525191,"lat":30.719667}
-	{"name":"LOUGH WILLIAM J & GLENDA LANETTE","address":"116 BILLY JOE FOX DR","city":"BURNET","state":"TX","zip":"78611-3579","lon":-98.258725,"lat":30.729606}
-	{"name":"MADERE JEFFREY & ANGELIQUE L","address":"600 PAINTED HORSE","city":"BURNET","state":"TX","zip":"78611-5944","lon":-98.27330719735966,"lat":30.69512483092293}
-	{"name":"HOGAN DONALD WAYNE & JANET SUE","address":"208 DELAWARE SPRINGS BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.2516841292024,"lat":30.716358224540766}
-	{"name":"WOOLSEY ROSE M & MICHAEL D BRASUEL JR","address":"5304 S HWY 281","city":"BURNET","state":"TX","zip":"78611","lon":-98.2519783,"lat":30.6996723}
-	{"name":"SIERRA RAUL S","address":"360 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.253531,"lat":30.728838}
-	{"name":"WHISENANT LOVING TRUST","address":"407 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2559862,"lat":30.7149207}
-	{"name":"COLLIER KENDALL LEE & CYNTHIA DAVIS COLLIER","address":"241 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.29628522335804,"lat":30.744930780789375}
-	{"name":"MANN ROBERT A & ELIZABETH A MCPHERSON MANN","address":"101 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2518497,"lat":30.719418}
-	{"name":"LEWIS RICHARD & CAMILLE","address":"416 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2573418,"lat":30.7152866}
-	{"name":"FAIRCHILD WILLIAM W & RUBY L AND MARK W FAIRCHILD","address":"116 AVERY SPUR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25007729972131,"lat":30.72567959322029}
-	{"name":"HEESCH KAREN E","address":"243 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2493054,"lat":30.7168258}
-	{"name":"COKER CARLOS D ETUX DONNA A","address":"104 DENNY FOX","city":"BURNET","state":"TX","zip":"78611-5001","lon":-98.2524455,"lat":30.7200988}
-	{"name":"BIRKHEAD WILLIAM R & DONA","address":"300 PAINTED HORSE TRL","city":"BURNET","state":"TX","zip":"78611-5931","lon":-98.27227592139633,"lat":30.691684769488596}
-	{"name":"OLDAKER MICHAEL R (DEC'D) & CYNTHIA","address":"340 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.253147,"lat":30.72894}
-	{"name":"SUMMERS MICHAEL Z","address":"310 DELAWARE SPRINGS","city":"BURNET","state":"TX","zip":"78611","lon":-98.249243,"lat":30.7200363}
-	{"name":"BALL CLAYBOURN H & PATRICIA","address":"221 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2476362,"lat":30.7195058}
-	{"name":"LONGACRE WARREN R ETUX MARILYN S","address":"119 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611-5002","lon":-98.2508224,"lat":30.7218166}
-	{"name":"BANNISTER JOSEPH A & SHAYNAH NESHAMA BANNISTER TRUSTEES","address":"7300 PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.383058,"lat":30.708662}
-	{"name":"RYCHCIK DARA WINN","address":"129 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.27915588638758,"lat":30.768389589356715}
-	{"name":"BUSS DONALD H","address":"315 CR 118A","city":"BURNET","state":"TX","zip":"78611-9670","lon":-98.386476,"lat":30.713142}
-	{"name":"CORLEY RONALD & BEVERLY","address":"105 WALLACE RIDDELL DR","city":"BURNET","state":"TX","zip":"78611-3532","lon":-98.2488624,"lat":30.7226839}
-	{"name":"BIRD ALICE J","address":"1449 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.266867,"lat":30.733746}
-	{"name":"KELLEY REBECCA, DOYLE DUNN & GLENDA DUNN","address":"111 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.24801335459708,"lat":30.724933769369827}
-	{"name":"SYPGLTXI LLC A SERIES OF SYPGLTX LLC","address":"106 IROQUOIS DR.","city":"BURNET","state":"TX","zip":"78611","lon":-98.39032395302013,"lat":30.715189926174496}
-	{"name":"FAULKENBERRY RONALD G ETUX SHERRYE","address":"177 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.29509972578413,"lat":30.744750533431905}
-	{"name":"MILLER JEREMY & JENNIFER","address":"101 WILCOX DR","city":"BURNET","state":"TX","zip":"78611-3527","lon":-98.2480485,"lat":30.7208786}
-	{"name":"CASTRO ALFREDO LOPEZ","address":"103 DOUBLE CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2470629,"lat":30.7189547}
-	{"name":"HOLZ DANIEL & CHAREA","address":"111 WALLACE RIDDELL DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2496967,"lat":30.7229173}
-	{"name":"WOODWARD CRAIG & NONA","address":"105 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2516114,"lat":30.7198914}
-	{"name":"ARELLANO MARGARITO","address":"1610 CR 116B","city":"BURNET","state":"TX","zip":"78611","lon":-98.278682,"lat":30.747308}
-	{"name":"GRAHAM KENNETH P & BEVERLY F","address":"112 WALLACE RIDDELL DR","city":"BURNET","state":"TX","zip":"78611-3532","lon":-98.2499898,"lat":30.7235047}
-	{"name":"COURTNEY KENNETH EUGENE & HEATHER","address":"2938 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.269722,"lat":30.761674}
-	{"name":"TANGORRA FRANK & TERESA","address":"898 NORTH OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.255818,"lat":30.745005}
-	{"name":"GEORGE MARVIN JACOB & RACHAEL NACOLE","address":"3524 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.308288,"lat":30.737161}
-	{"name":"SAVAGE SARAH & NOLAN APARICIO","address":"432 PAINTED HORSE TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.2721589162224,"lat":30.69335582047658}
-	{"name":"BRUDNICKI RANDALL & SUSAN","address":"1819 CR 116B","city":"BURNET","state":"TX","zip":"78611","lon":-98.278973,"lat":30.745617}
-	{"name":"MATEJOWSKY BETTY A","address":"301 BACKBONE CREEK DRIVE EAST","city":"BURNET","state":"TX","zip":"78611","lon":-98.287762,"lat":30.67894}
-	{"name":"MATTOX NATHAN J & JENNIFER E","address":"234 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2483282,"lat":30.7177098}
-	{"name":"FRIEDRICH DENNIS & GLORIA","address":"127 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.27923411433058,"lat":30.767986459489556}
-	{"name":"HORTON DEAN R & DEBORAH M","address":"1150 PR 4 S","city":"BURNET","state":"TX","zip":"78611","lon":-98.273242,"lat":30.69066}
-	{"name":"KERBY WILLIAM D & BONNIE J","address":"204 STEFFEY LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.2832346797879,"lat":30.741068301237558}
-	{"name":"BIGGS DOYLE D & JULIE A","address":"131 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.27929494319379,"lat":30.768928294678357}
-	{"name":"SEWARD LAWRENCE RAY & SIDONEE KAY","address":"300 DELAWARE SPRINGS DR","city":"BURNET","state":"TX","zip":"78611-3516","lon":-98.2487713,"lat":30.721188}
-	{"name":"ARRIAGA ALBERTO","address":"6188 W HWY 29 ","city":"BURNET","state":"TX","zip":"78611","lon":-98.320277,"lat":30.76667}
-	{"name":"CASTANEDA DAVID & GUADALUPE RODRIGUEZ","address":"106 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28514801075751,"lat":30.767767009866304}
-	{"name":"STRATA TRUST CO CUSTODIAN JAY P OTTO IRA #200801007","address":"106 DOUBLE CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.24708491688902,"lat":30.719358106808972}
-	{"name":"SPEER CHARLES I","address":"103 WILCOX","city":"BURNET","state":"TX","zip":"78611-0955","lon":-98.2476907,"lat":30.721117}
-	{"name":"THOMPSON CORY P & RACHEL L","address":"119 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28141410054461,"lat":30.767538906577293}
-	{"name":"TORRES JUSTIN AND BREANNE","address":"1229 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.264767,"lat":30.759664}
-	{"name":"WARDIN MICHAEL P ETUX JOANNA M","address":"701 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.28074135804664,"lat":30.67734946001488}
-	{"name":"KING R&D LIVING TRUST","address":"204 DELAWARE SPRINGS BLVD DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.25152033080501,"lat":30.71659784461147}
-	{"name":"JOHNSON WILLIAM JACK & VICKIE LOU","address":"124 AVERY SPUR","city":"BURNET","state":"TX","zip":"78611","lon":-98.24995794958198,"lat":30.725705389830434}
-	{"name":"REYNOLDS LARRY LELAND","address":"2655 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.294836,"lat":30.739773}
-	{"name":"TIPTON FRANK J (DEC'D) & ANGELA M","address":"108 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28459564180116,"lat":30.767913396692858}
-	{"name":"DONOVAN ROBERT & HELEN MCCLURE","address":"100 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.279662,"lat":30.770039}
-	{"name":"GATTIS EDWARD L ETUX BARBARA","address":"203 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611-5526","lon":-98.2961073611679,"lat":30.74490153903947}
-	{"name":"FELDT DOUGLAS L & JULIE E","address":"320 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.2515483908453,"lat":30.714558434739317}
-	{"name":"BASS MARY MARGARET MUNSON","address":"5310 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.333281,"lat":30.727549}
-	{"name":"VALENTINE SCOTT R","address":"408 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2562099,"lat":30.7154715}
-	{"name":"YOW LINDSEY M & TAMMY RATLIFF","address":"300 BILLY JOE FOX DR","city":"BURNET","state":"TX","zip":"78611-3575","lon":-98.259393,"lat":30.732878}
-	{"name":"SMITH NATHAN J & ANGELA L","address":"102 WILCOX DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.2478429,"lat":30.7202199}
-	{"name":"HAIR MARK W","address":"305 CARDINAL LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.26163656897704,"lat":30.757332593412425}
-	{"name":"FRERKING SCOTT & WINTER R","address":"120 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.2489422,"lat":30.7252217}
-	{"name":"MCBRIDE JONDAN P & DESIREE L","address":"1540 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32954147713338,"lat":30.77512771637823}
-	{"name":"PHILLIPS KATELYN & PRESTON","address":"241 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.249221,"lat":30.7171081}
-	{"name":"BOSTIC CALEN & JODI","address":"302 DELAWARE SPRINGS BLVD","city":"BURNET","state":"TX","zip":"78611-3516","lon":-98.2489278,"lat":30.7210073}
-	{"name":"JARRETT MICHAEL LEON & DIANNA KAY","address":"225 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2479856,"lat":30.719082}
-	{"name":"RATLIFF WILLIAM D JR ETUX CANDACE","address":"2700 CR 120A","city":"MARBLE FALLS","state":"TX","zip":"78654-8006","lon":-98.358062,"lat":30.672437}
-	{"name":"FITZSIMMON JASON M & HALEY","address":"116 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.292565,"lat":30.742334}
-	{"name":"WILKINS TOMMY & JANEEN","address":"248 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2489494,"lat":30.7160283}
-	{"name":"MICHIE SHAWN D","address":"221 HANSFORD","city":"BURNET","state":"TX","zip":"78611","lon":-98.346632,"lat":30.729682}
-	{"name":"HEFFERIN ANTHONY III & CHARLENE","address":"155 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.2505954,"lat":30.725157}
-	{"name":"CIPOLLONE BRIAN AND PAULA WOOD","address":"301 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.31833060222347,"lat":30.771127680804177}
-	{"name":"HOLLEY ANGELIA","address":"8216 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.375917,"lat":30.716619}
-	{"name":"CLAY REDA F AND VICKI BATES","address":"128 CR 118","city":"BURNET","state":"TX","zip":"78611-5417","lon":-98.381703,"lat":30.714553}
-	{"name":"HALLMARK JUSTIN & KASEY","address":"123 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.2803241074376,"lat":30.767762683033425}
-	{"name":"DUARTE GABRIEL EVAN AND GENESIS LORENA","address":"252 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2490319,"lat":30.715444}
-	{"name":"FLYNN FAMILY TRUST","address":"102 WALLACE RIDDELL DR","city":"BURNET","state":"TX","zip":"78611-3532","lon":-98.2480941,"lat":30.7234991}
-	{"name":"VAN ZANT SANDRA","address":"135 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.24877361712501,"lat":30.724903581101582}
-	{"name":"SMITH WILLIS LEE JR","address":"1359 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.264767,"lat":30.759664}
-	{"name":"LEWIS MICHAEL E ETUX JUDY C","address":"103 J B MCDUFF CV","city":"BURNET","state":"TX","zip":"78611-3523","lon":-98.24824,"lat":30.7194859}
-	{"name":"MUSSELMAN ROBERT M & MARY A","address":"107 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611-5002","lon":-98.2515342,"lat":30.7201801}
-	{"name":"HOSKINS LAURA ANN","address":"119 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.24826690163061,"lat":30.72497785106856}
-	{"name":"MORAN MICHAEL F & ALICE M","address":"304 DELAWARE SPRINGS BLVD","city":"BURNET","state":"TX","zip":"78611-0692","lon":-98.2489842,"lat":30.7207622}
-	{"name":"ZAK JEFFREY & ROBBIN","address":"207 SHOALS PARKWAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.3905636676317,"lat":30.718199038553944}
-	{"name":"HARTMAN JOSHUA","address":"125 LONE OAK DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.4373733877551,"lat":30.656918265306125}
-	{"name":"FOSTER MATTHEW","address":"301 QUAIL TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.261498,"lat":30.755538}
-	{"name":"RODRIGUEZ STEPHEN","address":"117 DENNY FOX","city":"BURNET","state":"TX","zip":"78611-5002","lon":-98.2507339,"lat":30.7214384}
-	{"name":"CONFIDENTIAL","address":"200 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.25024389887892,"lat":30.72540573851202}
-	{"name":"MCNIEL LARRY W & SHIRLEY L","address":"504 LEVON LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.326165,"lat":30.737584}
-	{"name":"BOLIN DAVID & DEBORAH","address":"183 TOM KITE DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.24586,"lat":30.72443}
-	{"name":"MCCUBBIN LINDA KAY INGRAM","address":"102 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2524948,"lat":30.7198828}
-	{"name":"CLARK JOSEPH L & DAWN M","address":"228 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.25124924976555,"lat":30.726440693518967}
-	{"name":"RENDON DIEGO & ELIZABETH","address":"301 CR 118A","city":"BURNET","state":"TX","zip":"78611","lon":-98.38653,"lat":30.713709}
-	{"name":"WIESNER COLTIN RAY & MAEGAN DAYLE CARPENTER","address":"209 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.2961354446716,"lat":30.744906156157874}
-	{"name":"HOLMES RICHMOND A & DONNA MARIE","address":"103 WALLACE RIDDELL DR","city":"BURNET","state":"TX","zip":"78611-3532","lon":-98.2485703,"lat":30.7226598}
-	{"name":"DEDEAR FAMILY TRUST","address":"113 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611-5002","lon":-98.2511377,"lat":30.7208832}
-	{"name":"KUKER REBECCA","address":"104 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.2508293,"lat":30.7265556}
-	{"name":"BIZZELL ROWDI DUDE & BIZZELL SHANDA NICOLE","address":"2019 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.2553569387755,"lat":30.735413081632654}
-	{"name":"MONTGOMERY GIZELE SWIFT","address":"110 WALLACE RIDDELL DR","city":"BURNET","state":"TX","zip":"78611-3532","lon":-98.249213,"lat":30.7235837}
-	{"name":"PHAIR MILTON W & IRIS","address":"108 WALLACE RIDDELL DR","city":"BURNET","state":"TX","zip":"78611-3532","lon":-98.2489617,"lat":30.7234325}
-	{"name":"CHRISTIAN LYNN","address":"659 CR 100","city":"BURNET","state":"TX","zip":"78611-0818","lon":-98.25824,"lat":30.726977}
-	{"name":"OTTO JAY P","address":"210 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.24692245874085,"lat":30.719826497694324}
-	{"name":"GALYON BOBBY RAY & SANDRA ROBLEDO GALYON","address":"400 PARK RD 4","city":"BURNET","state":"TX","zip":"78611-5466","lon":-98.258789,"lat":30.692404}
-	{"name":"WASHBURN WALTER D ETUX JUDITH","address":"100 J B MCDUFF CV","city":"BURNET","state":"TX","zip":"78611-3524","lon":-98.2487681,"lat":30.719211}
-	{"name":"CHERRY CAROLYN ANN","address":"2333 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.287594,"lat":30.741812}
-	{"name":"VITEYCHUK HECTOR J & BILLIE J","address":"136 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.2499214,"lat":30.7250736}
-	{"name":"CAMPBELL DAVID L & DEBRA L","address":"151 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.250541,"lat":30.7249639}
-	{"name":"HOLMES RUSSELL E JR","address":"200 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611-5427","lon":-98.297714,"lat":30.744604}
-	{"name":"MILLIORN LYNITA","address":"3759 W HWY 29 ","city":"BURNET","state":"TX","zip":"78611-0422","lon":-98.279522,"lat":30.760962}
-	{"name":"JOHNSON WILLIAM FRANKLIN & CHRISTI ANN","address":"110 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.24801616818503,"lat":30.72511204632543}
-	{"name":"THURMAN PHILIP","address":"104 WALLACE RIDDELL DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2483907,"lat":30.723559}
-	{"name":"TOMANEK CARL J & JANET A","address":"670 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.259069,"lat":30.728186}
-	{"name":"DARINGTON GERYL & JUDITH","address":"118 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2512348,"lat":30.7216504}
-	{"name":"VAUGHN TERRY L","address":"6260 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.325564,"lat":30.769527}
-	{"name":"RAMON DAVID RAM & MEGAN KATHLEEN","address":"221 WANDERING OAKS CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.254612,"lat":30.730977}
-	{"name":"BERGMAN DARRYL GENE & JULIA ANN KOHLMAN","address":"200 CR 119","city":"BURNET","state":"TX","zip":"78611-5594","lon":-98.383892,"lat":30.704989}
-	{"name":"CLARK JEAN ANN","address":"306 DELAWARE SPRINGS","city":"BURNET","state":"TX","zip":"78611","lon":-98.2491047,"lat":30.7205059}
-	{"name":"CAPERTON MARILYN A","address":"415 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2571354,"lat":30.7149921}
-	{"name":"BRIGHT THOMAS & LYNN L","address":"220 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.251229,"lat":30.72639}
-	{"name":"COLE GLENN C","address":"5540 W HWY 29","city":"BURNET","state":"TX","zip":"78611-4069","lon":-98.307235,"lat":30.762961}
-	{"name":"SPIVEY JUANITA HERRING","address":"2229 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.286339,"lat":30.742528}
-	{"name":"SCOTT GREGORY LEE","address":"139 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.2499509,"lat":30.7245058}
-	{"name":"CAULEY STEVEN DABNEY & ANNE ELIZABETH","address":"305 DELAWARE SPRINGS BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.2481527,"lat":30.7197559}
-	{"name":"GILES GRANT & KERRI","address":"100 AVERY SPUR","city":"BURNET","state":"TX","zip":"78611","lon":-98.250316,"lat":30.725628}
-	{"name":"SHIPLEY WILMA S","address":"410 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2565676,"lat":30.7154087}
-	{"name":"BARRY ORION M & JOANNA S","address":"216 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.25088180640991,"lat":30.726048508449825}
-	{"name":"KING NICHOLAS DAVID AND JAMIE PIPPENGER KING","address":"105 REED RANCH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.3598,"lat":30.758618}
-	{"name":"GIBSON CYNTHIA WAGENFUHR","address":"4111 PARK RD 4 S","city":"BURNET","state":"TX","zip":"78611","lon":-98.318793,"lat":30.675486}
-	{"name":"BOATRIGHT J & M  PROTECTION TRUST","address":"204 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.250381,"lat":30.725596}
-	{"name":"JOHNSON JAMES W & ELDA G","address":"5380 S HWY 281 ","city":"BURNET","state":"TX","zip":"78611-4516","lon":-98.2538459,"lat":30.6946029}
-	{"name":"MCCLANAHAN MARK A & ELIZABETH A","address":"504 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2581392,"lat":30.7157316}
-	{"name":"LONG DEE K & JOANN","address":"2836 W HWY 29","city":"BURNET","state":"TX","zip":"78611-7396","lon":-98.26636,"lat":30.761203}
-	{"name":"LOWRANCE MARSHALL & MONTANA JARRELL","address":"117 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.2497287,"lat":30.7263139}
-	{"name":"DUDA GEORGE T JR & WANDA L","address":"131 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.24864705252413,"lat":30.72492693738239}
-	{"name":"HANCOCK ALLAN L & CLAIRE E NYBRO","address":"410 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.254591,"lat":30.728648}
-	{"name":"KAPPELMANN CHRISTOPHER DOUGLAS & CAMRYN MAE","address":"208 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.25039766666667,"lat":30.725614666666665}
-	{"name":"PALL PHILLIP K","address":"200 PAINTED HORSE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27225578896095,"lat":30.690431104812358}
-	{"name":"ENGELKE KEITH KARLTON","address":"115 DENNY FOX","city":"BURNET","state":"TX","zip":"78611-5002","lon":-98.2508768,"lat":30.7211932}
-	{"name":"FAULKNER G W","address":"1000 PARK RD 4 SOUTH","city":"BURNET","state":"TX","zip":"78611-5470","lon":-98.268074,"lat":30.690174}
-	{"name":"KOCUREK KATHRYN LOUISE","address":"120 AVERY SPUR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25001762465165,"lat":30.72569249152536}
-	{"name":"FRENCH JOHN C SR AND GAIL","address":"134 THOMAS RIDGE ROAD","city":"BURNET","state":"TX","zip":"78611-5657","lon":-98.29550296294607,"lat":30.74460631875853}
-	{"name":"SLOAN DENNIS WILLIAM &","address":"201 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3522","lon":-98.2511169,"lat":30.7166516}
-	{"name":"HAMMONS DORIS","address":"106 WILCOX","city":"BURNET","state":"TX","zip":"78611-3526","lon":-98.2470792,"lat":30.7209405}
-	{"name":"BALL TOMAS GUILLERMO","address":"113 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.2500616,"lat":30.7262524}
-	{"name":"ARMENTROUT CHRISTOPHER LANCE & JOZIE LOVE","address":"112 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.2501612,"lat":30.7266546}
-	{"name":"HOPKINS JERRY E","address":"117 AVERY SPUR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25003204893996,"lat":30.725518266753426}
-	{"name":"DURAN CHRISTOPHER & AMANDA N","address":"187 TOM KITE DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.246154,"lat":30.724298}
-	{"name":"BIZZAK KAREN A","address":"105 DOUBLE CIR","city":"BURNET","state":"TX","zip":"78611-4547","lon":-98.2467435,"lat":30.7187784}
-	{"name":"WIMBERLY PERRY L","address":"121 AMBER CREEK","city":"BURNET","state":"TX","zip":"78611-5952","lon":-98.28051684773325,"lat":30.6821954683173}
-	{"name":"MURFIN ROBERT A ETUX ANN WAYNENE","address":"113 FOX CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2537597,"lat":30.7169138}
-	{"name":"ROBINETT KEVIN & SUZANNE","address":"870 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611-3586","lon":-98.25003140909091,"lat":30.736456909090908}
-	{"name":"EUBANKS ETHAN EWELL & SONYA JEANNE","address":"250 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.28178323502601,"lat":30.683482081787176}
-	{"name":"TOMERLIN ANDREA H","address":"1006 FM 3509","city":"BURNET","state":"TX","zip":"78611-7403","lon":-98.270072,"lat":30.753422}
-	{"name":"HORTON ROBERT W & NANCY R","address":"112 AVERY SPUR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25013697479099,"lat":30.725666694915216}
-	{"name":"CASAREZ SAMUEL","address":"142 CR 118","city":"BURNET","state":"TX","zip":"78611","lon":-98.383091,"lat":30.714599}
-	{"name":"CONFIDENTIAL","address":"453 CR 143","city":"BURNET","state":"TX","zip":"78611","lon":-98.340824,"lat":30.729971}
-	{"name":"BAILEY ERIC MICHAEL & CRYSTAL","address":"107 BRUCE CV","city":"BURNET","state":"TX","zip":"78611-3546","lon":-98.2528268,"lat":30.7148276}
-	{"name":"BEARDEN STEVEN B & BEARDEN PATRICIA D","address":"147 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.2504496,"lat":30.7247932}
-	{"name":"BRENT PAUL","address":"232 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.251260650382,"lat":30.726465536653286}
-	{"name":"SOLORZANO JOSE & ALDAVA ADRIANA","address":"437 CR 118","city":"BURNET","state":"TX","zip":"78611","lon":-98.381703,"lat":30.714553}
-	{"name":"SPRINGS ROBERT L & KATHERINE M","address":"311 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-0007","lon":-98.2543499,"lat":30.7152181}
-	{"name":"FORTIN HERVE DEREK","address":"115 FOX CIR","city":"BURNET","state":"TX","zip":"78611-0885","lon":-98.2539047,"lat":30.7167687}
-	{"name":"CATLIN KELLEN","address":"202 LAKEVIEW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32096116941584,"lat":30.75167738789212}
-	{"name":"5388 US HWY 281 LLC - SERIES 104 OF PINKY AND THE BRAIN LLC","address":"5376 S HWY 281","city":"BURNET","state":"TX","zip":"78611","lon":-98.255091,"lat":30.691534}
-	{"name":"BALLARD DANIEL LLOYD & LEANN CHRISTINE","address":"129 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.2487737,"lat":30.72654}
-	{"name":"COURTNEY  CORY DON & JANNA KAY","address":"312 DELAWARE SPRINGS BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.2494338,"lat":30.7198414}
-	{"name":"DISEBASTIANO JOE & SHERRY K DISEBASTIANO","address":"5030 CR 120","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.316759,"lat":30.658061}
-	{"name":"SPARKS LARRY & LESLIE","address":"320 DELAWARE SPRINGS","city":"BURNET","state":"TX","zip":"78611-3516","lon":-98.2500452,"lat":30.7188894}
-	{"name":"KIZER GILBERT L & DEBRA K","address":"315 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3542","lon":-98.2547864,"lat":30.7151783}
-	{"name":"ARMSTRONG DONNAL","address":"401 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2550999,"lat":30.7151236}
-	{"name":"MELVIN ERIC & SAMANTHA","address":"4801 PARK RD 4","city":"BURNET","state":"TX","zip":"78611-4529","lon":-98.33004,"lat":30.678074}
-	{"name":"MINTON JEFFREY DEAN & DENISE LYNN","address":"500 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2576473,"lat":30.7154007}
-	{"name":"SHANNON CHRISTINA & GAYLON","address":"104 AVERY SPUR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25025632493033,"lat":30.725640898305073}
-	{"name":"LILLARD GEORGE & DIANE","address":"508 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2583636,"lat":30.71629}
-	{"name":"SWINNEY LINDA","address":"111 FOX CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.253484,"lat":30.7166003}
-	{"name":"TUTTLE TRAVIS","address":"128 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.2488504,"lat":30.7268277}
-	{"name":"PLUMLEY WILLIAM LEE & MARY ANN","address":"116 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.24818435537918,"lat":30.7251368486976}
-	{"name":"TIDWELL JOE R & WANDA S","address":"303 FAWN HILL","city":"BURNET","state":"TX","zip":"78611-9756","lon":-98.26086840475261,"lat":30.75390894478934}
-	{"name":"WHITE JUDY","address":"224 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.25123784914912,"lat":30.726415850384644}
-	{"name":"REYES WILLIAM T & MELISSA A","address":"2140 CR 116B","city":"BURNET","state":"TX","zip":"78611","lon":-98.285026,"lat":30.744167}
-	{"name":"LLS COMMERCIAL LLC","address":"2791 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.265216,"lat":30.760368}
-	{"name":"SHAVER RACHELLE (DEC'D)","address":"307 CARDINAL LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.26158435346555,"lat":30.75734339011864}
-	{"name":"GRIFFIN CRAIG ALAN & JUDITH MISCHELLE","address":"108 AVERY SPUR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25019664986065,"lat":30.725653796610146}
-	{"name":"FORCE RICHARD A & HEIDI K","address":"5525 S PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.341325,"lat":30.682649}
-	{"name":"FRANCIS JULIA","address":"102 JB MCDUFF CV","city":"BURNET","state":"TX","zip":"78611","lon":-98.248396,"lat":30.719241}
-	{"name":"CONFIDENTIAL","address":"105 AVERY SPUR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25021051223499,"lat":30.725480566688354}
-	{"name":"DICKMANN EWALD & JUDY M (DEC'D)","address":"109 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25212482991736,"lat":30.719252636180286}
-	{"name":"MERCIER GREGG L & LIZA B","address":"500 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.28113760507902,"lat":30.67961421837557}
-	{"name":"CULLIFER TIFFANY SHAVONNE","address":"312 CARDINAL LN","city":"BURNET","state":"TX","zip":"78611-9734","lon":-98.26147149734824,"lat":30.757536733887573}
-	{"name":"SPARKS ROBERT P & ALISON GAYLE","address":"1147 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.265282,"lat":30.728665}
-	{"name":"SHAFER JAMES WESLEY AND MELISSA R","address":"306 FAWN HILL","city":"BURNET","state":"TX","zip":"78611","lon":-98.26067475218237,"lat":30.754115399881723}
-	{"name":"BOWEN CARSON","address":"128 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.2492679,"lat":30.7251705}
-	{"name":"SCUDDER TRACY GARLAND","address":"405 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2556746,"lat":30.7150494}
-	{"name":"MOORE JOHN WESLEY & RHONDA R","address":"132 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.2496157,"lat":30.7251101}
-	{"name":"DALLO GARRY EDWARD & KATHLEEN A","address":"212 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.250534,"lat":30.725748}
-	{"name":"MCBRIDE HESTON S JR","address":"4557 PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.325021,"lat":30.67959}
-	{"name":"FROMMHOLD SEBASTIAN","address":"200 DELAWARE SPRINGS BLVD DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.251403,"lat":30.716864}
-	{"name":"STAYT KIM A","address":"121 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.2494004,"lat":30.7263659}
-	{"name":"CLAYTON ELIZABETH A","address":"125 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.249035,"lat":30.7263437}
-	{"name":"BLOOM BRENDAN","address":"436 CR 118","city":"BURNET","state":"TX","zip":"78611","lon":-98.381703,"lat":30.714553}
-	{"name":"COX JASON C & MINDY R","address":"710 CR 143","city":"BURNET","state":"TX","zip":"78611-5835","lon":-98.340709,"lat":30.733301}
-	{"name":"STEVENS CHRISTOPHER & DEBRA","address":"109 AVERY SPUR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25015102446999,"lat":30.725493133376713}
-	{"name":"TERWAY BARBARA LYNN","address":"7761 W PARK RD 4","city":"BURNET","state":"TX","zip":"78611-5521","lon":-98.380043,"lat":30.700592}
-	{"name":"ROBERSTON RYAN S","address":"108 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.2504994,"lat":30.7266028}
-	{"name":"EVERETT DON NEAL ETUX SANDRA P","address":"305 SUNSET DR","city":"BURNET","state":"TX","zip":"78611-0666","lon":-98.25817679696313,"lat":30.756260958129648}
-	{"name":"RAVEN ROSS C & CAITLIN E","address":"127 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.24852048792324,"lat":30.72495029366319}
-	{"name":"HAIRE BRENDA G","address":"313 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3542","lon":-98.2545485,"lat":30.7151987}
-	{"name":"PEARSON MITCHELL J & TERESA A","address":"123 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.24839392332237,"lat":30.724973649943994}
-	{"name":"CREAGER LINDA","address":"309 STAGE COACH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.259972,"lat":30.758707}
-	{"name":"TUTTLE ALTON D & RENEE","address":"108 DENNY FOX","city":"BURNET","state":"TX","zip":"78611-5001","lon":-98.2521966,"lat":30.720576}
-	{"name":"WINN JIM R & KATHLEEN C","address":"310 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.292863,"lat":30.743208}
-	{"name":"MITCHEL JEFFREY S SR & DIANNA","address":"109 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.2503944,"lat":30.7261948}
-	{"name":"PLANT CALLIE J","address":"101 AVERY SPUR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25027,"lat":30.725468}
-	{"name":"OTTO JAY P","address":"237 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.24883919987525,"lat":30.717503464612506}
-	{"name":"LBM LEGACY INVESTMENTS LLC","address":"2846 W HWY 29 NORTH SIDE","city":"BURNET","state":"TX","zip":"78611","lon":-98.267423,"lat":30.762233}
-	{"name":"COLBERT MARK JOSEPH","address":"108 VANDEVENTER DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2508219,"lat":30.7172395}
-	{"name":"BOORMAN JAMES A III & BONNIE N (DEC'D)","address":"124 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.2491724,"lat":30.7268867}
-	{"name":"COSTANZO CHRISTOPHER PATRICK & BRITTANY LYNN","address":"219 SHOALS PKWY","city":"BURNET","state":"TX","zip":"78611-3690","lon":-98.39075160930781,"lat":30.718324980673373}
-	{"name":"LANDEROS MICHAEL","address":"113 AVERY SPUR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25009153670497,"lat":30.725505700065067}
-	{"name":"ANDERSON JOY JANE","address":"350 STEFFEY LN","city":"BURNET","state":"TX","zip":"78611-5598","lon":-98.28276388631446,"lat":30.73907586437628}
-	{"name":"LEON SCOTT J ETUX NEESHA","address":"316 DELAWARE SPRINGS BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.2497713,"lat":30.7194346}
-	{"name":"KIMBREL PAMELA SUE & DANE KELLY KIMBREL","address":"707 PAINTED HORSE TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.27377252261056,"lat":30.695632161303475}
-	{"name":"DORAN TERENCE I & MARY S","address":"540 WILLIAMS RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.32224306020066,"lat":30.738679578595317}
-	{"name":"MCKINLAY ELI & LAURA HYDEN","address":"308 CARDINAL LN","city":"BURNET","state":"TX","zip":"78611-9734","lon":-98.2615763315655,"lat":30.757514822591716}
-	{"name":"BONJORNO FAMILY TRUST","address":"121 FOX CIR","city":"BURNET","state":"TX","zip":"78611-3578","lon":-98.2543046,"lat":30.7164552}
-	{"name":"SHIPLEY STEPHEN F & ASHLEY D","address":"412 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.256782,"lat":30.7153537}
-	{"name":"LAWRENCE JASON OLIVER & CHRISTI","address":"311 CARDINAL LN","city":"BURNET","state":"TX","zip":"78611-9735","lon":-98.26147992244258,"lat":30.757364983531062}
-	{"name":"SPARKS ROBERT W","address":"314 DELAWARE SPRINGS","city":"BURNET","state":"TX","zip":"78611-3516","lon":-98.2497122,"lat":30.7197226}
-	{"name":"HUCEY MAUREEN","address":"207 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2514192,"lat":30.7161325}
-	{"name":"AVILES EFRAIN VENCES","address":"428 CR 118","city":"BURNET","state":"TX","zip":"78611-0487","lon":-98.385393,"lat":30.717007}
-	{"name":"CALDWELL ROBERT L ETUX JUDITH A","address":"5370 S HWY 281 ","city":"BURNET","state":"TX","zip":"78611-4516","lon":-98.2547551,"lat":30.692025}
-	{"name":"BAKER FRANCES LOUISE","address":"105 WILCOX","city":"BURNET","state":"TX","zip":"78611-3527","lon":-98.2474662,"lat":30.7210465}
-	{"name":"YORK FRED MICHAEL","address":"305 STAGE COACH RD","city":"BURNET","state":"TX","zip":"78611-9733","lon":-98.260918,"lat":30.758561}
-	{"name":"BRIZENDINE PHILLIP & AMY","address":"106 WALLACE RIDDELL DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.248676,"lat":30.7235483}
-	{"name":"GOWIN EZEKIEL D ","address":"106 VANDEVENTER DR","city":"BURNET","state":"TX","zip":"78611-3521","lon":-98.2505692,"lat":30.7173854}
-	{"name":"WILLS KENNETH L","address":"100 YUCCA","city":"BURNET","state":"TX","zip":"78611-4066","lon":-98.312179,"lat":30.765195}
-	{"name":"MONTGOMERY JILL REITAN","address":"450 CR 143","city":"BURNET","state":"TX","zip":"78611","lon":-98.341472,"lat":30.730654}
-	{"name":"PEARSON KENNETH R ETUX JENNIFER L","address":"4491 PARK RD 4","city":"BURNET","state":"TX","zip":"78611-5806","lon":-98.321513,"lat":30.673438}
-	{"name":"HENNIGH SHERRY","address":"300 CR 119","city":"BURNET","state":"TX","zip":"78611-5301","lon":-98.385346,"lat":30.7067}
-	{"name":"KINMAN MITCHELL B & R MARIE","address":"315 HAPPY HOLLOW RD","city":"MARBLE FALLS","state":"TX","zip":"78654-7811","lon":-98.301525,"lat":30.662143}
-	{"name":"MENSE MICHAEL","address":"414 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3545","lon":-98.2570483,"lat":30.7152848}
-	{"name":"ATER PAT","address":"104 WILCOX","city":"BURNET","state":"TX","zip":"78611","lon":-98.2475636,"lat":30.7204026}
-	{"name":"ROBERIE JOHN E ETUX JENNIFER M","address":"113 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611-2921","lon":-98.279477324088,"lat":30.770121932511362}
-	{"name":"DAVIS JAMES R ETUX JEAN E","address":"5445 PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.337137,"lat":30.681271}
-	{"name":"COATS DONNITA S","address":"133 FOX CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2549909,"lat":30.7157442}
-	{"name":"TULE RIVER HOMEBUYER EARNED EQUITY AGENCY","address":"109 VANDEVENTER DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2496651,"lat":30.7176878}
-	{"name":"HAILE PAMELA G","address":"810 YUCCA DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.29980690377093,"lat":30.769013071387437}
-	{"name":"NOWELL SANDRA K","address":"123 FOX CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2544449,"lat":30.7163581}
-	{"name":"DEINLEIN PAMELA","address":"131 FOX CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2549319,"lat":30.7158945}
-	{"name":"ROMERO LORENZO & SANJUANA G","address":"628 PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.261188,"lat":30.692787}
-	{"name":"HARMON GAIL ARLENE & JANIE ELIZABETH RODDY","address":"104 VANDEVENTER DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.250138,"lat":30.7178131}
-	{"name":"SHELTON CHARLOTTE A","address":"100 VANDEVENTER DR","city":"BURNET","state":"TX","zip":"78611-3521","lon":-98.2502223,"lat":30.7181489}
-	{"name":"HELMS DONNA","address":"120 HELMS CIRCLE","city":"BURNET","state":"TX","zip":"78611-2903","lon":-98.27063951840603,"lat":30.760564370985886}
-	{"name":"BLAYLOCK MELISSA REES & WILSON TRUETT","address":"2440 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.291882,"lat":30.744862}
-	{"name":"STEWART CALLIE & PAUL ESTATE","address":"218 WAYWARD DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.30007283886808,"lat":30.762045586407602}
-	{"name":"SMITH ROBIN W","address":"205 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3522","lon":-98.2512786,"lat":30.7162979}
-	{"name":"NELMS-HARDESTY SIENNA MICHELLE (60%) & BENJAMIN DANIEL HARDESTY (40%)","address":"1202 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.33364758154154,"lat":30.772929794121975}
-	{"name":"ADAIR JUSTIN FOSTER & STACEY DENISE UNDERWOOD","address":"226 WANDERING OAKS CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.23092,"lat":30.754697}
-	{"name":"TOWNSEND CHRISTOPHER & HEATHER","address":"606 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.254126,"lat":30.73598}
-	{"name":"ROWNEY KAY","address":"309 FAWN HILL","city":"BURNET","state":"TX","zip":"78611-9756","lon":-98.26067243990035,"lat":30.753948663447918}
-	{"name":"HINTON JULIANA ALICIA","address":"414 CR 118","city":"BURNET","state":"TX","zip":"78611","lon":-98.385594,"lat":30.715503}
-	{"name":"HARGER CHARLES ET UX HARGER NANCY","address":"106 FOX CIR","city":"BURNET","state":"TX","zip":"78611-3578","lon":-98.2537822,"lat":30.7162068}
-	{"name":"BLANTON LIVING TRUST","address":"108 FOX CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2539927,"lat":30.7161148}
-	{"name":"HAVELKA CHRISTOPHER & CHARLENE","address":"2811 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.266012,"lat":30.760358}
-	{"name":"VOSSMAN ROBERT A ETUX NANCY L","address":"409 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3544","lon":-98.2563023,"lat":30.7149158}
-	{"name":"HOWE JERRY D & SANDRA","address":"309 DELAWARE SPRINGS BLVD","city":"BURNET","state":"TX","zip":"78611-3525","lon":-98.249411,"lat":30.7187995}
-	{"name":"TERRY ROBERT M & DANELLE L","address":"107 DEER LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.38837622035511,"lat":30.729007766469383}
-	{"name":"HATCHER LEO E & KRISTIE A","address":"411 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2568054,"lat":30.7148178}
-	{"name":"DOWNS DOUG & DEBBIE","address":"301 FAWN HILL","city":"BURNET","state":"TX","zip":"78611","lon":-98.26093,"lat":30.75393}
-	{"name":"SPEER BENJAMIN","address":"304 CARDINAL LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.26168116578275,"lat":30.757492911295856}
-	{"name":"WHITTEN LEONARD","address":"3471 HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.27501523643792,"lat":30.760923703739277}
-	{"name":"STATE OF TEXAS","address":"6211 S PARK ROAD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.350454,"lat":30.684638}
-	{"name":"THREADGILL FAMILY 2022 TRUST","address":"8433 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.379083,"lat":30.712788}
-	{"name":"MARTIN MILDRED JANE KELLEY","address":"300 WILLIAMS RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.32225148934522,"lat":30.73362157768654}
-	{"name":"CRAIG LAURA","address":"217 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611-2803","lon":-98.31945289589562,"lat":30.764281494926163}
-	{"name":"ARRINGTON JAROME V & SUSAN GAIL","address":"751 LAS VISTAS RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.26742805050505,"lat":30.695275595959597}
-	{"name":"CARMACK DAVID & REBECCA","address":"5052 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.328024,"lat":30.735358}
-	{"name":"VAUGHAN WALT & IRIS","address":"127 FOX CIR","city":"BURNET","state":"TX","zip":"78611-3578","lon":-98.2546915,"lat":30.7161615}
-	{"name":"GARNER JOSEPH W JR & RACHEL D","address":"306 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3552","lon":-98.2537796,"lat":30.7157949}
-	{"name":"HENDEE JAMES","address":"402 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2552488,"lat":30.7156265}
-	{"name":"BROOKS CLYDE W ETUX BARBARA","address":"304 FAWN HILL","city":"BURNET","state":"TX","zip":"78611-9750","lon":-98.26073771389736,"lat":30.75410232240658}
-	{"name":"TAYLOR NATHANIEL A AND CHRISTINA","address":"6714 PARK RD 4","city":"BURNET","state":"TX","zip":"78611-5408","lon":-98.383158,"lat":30.716344}
-	{"name":"SORRELLS SAMILEE","address":"100 SHOALS PKWY","city":"BURNET","state":"TX","zip":"78611-0633","lon":-98.389917,"lat":30.716626}
-	{"name":"RITCH JESSE","address":"6180 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.319806,"lat":30.766776}
-	{"name":"SCATES STEPEHN & DEBORAH","address":"111 BRUCE CV","city":"BURNET","state":"TX","zip":"78611","lon":-98.2532848,"lat":30.7144782}
-	{"name":"SKINNER SAMUEL & KAYLA","address":"312 SUNSET DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.26082374022994,"lat":30.755889274212826}
-	{"name":"WEBER ADELAIDE C","address":"119 FOX CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2541735,"lat":30.7165572}
-	{"name":"LEA LINDA","address":"105 FOX CIR","city":"BURNET","state":"TX","zip":"78611-3578","lon":-98.2531222,"lat":30.7162767}
-	{"name":"STONE JUDY","address":"121 VANDEVENTER DR","city":"BURNET","state":"TX","zip":"78611-3520","lon":-98.2506356,"lat":30.7168467}
-	{"name":"STEMAC ED (DECSD) & SALLY","address":"104 FOX CIR","city":"BURNET","state":"TX","zip":"78611-3578","lon":-98.2536156,"lat":30.7160845}
-	{"name":"HUGHES JIMMIE KAYE","address":"129 FOX CIR","city":"BURNET","state":"TX","zip":"78611-3578","lon":-98.2548099,"lat":30.7160397}
-	{"name":"LEECH ROBERT CRAIG","address":"305 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3542","lon":-98.2536238,"lat":30.7153215}
-	{"name":"FISCHER JACQUELINE A","address":"115 BRUCE CV","city":"BURNET","state":"TX","zip":"78611-3546","lon":-98.2534268,"lat":30.7147738}
-	{"name":"SAVAGE SHANNON LEA","address":"1200 STONE MOUNTAIN DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.32070668821227,"lat":30.67082414411568}
-	{"name":"HOFFMEISTER GRANT R & INGRID K","address":"125 FOX CIR","city":"BURNET","state":"TX","zip":"78611-3578","lon":-98.254551,"lat":30.7162502}
-	{"name":"GRIFFIN DANIEL H","address":"300 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2532339,"lat":30.715701}
-	{"name":"GUESS SHIRLEY MAE","address":"206 VALLEY VIEW EAST","city":"BURNET","state":"TX","zip":"78611","lon":-98.338425,"lat":30.731066}
-	{"name":"WAYLAND DAVID (DEC'D) & JUDY","address":"309 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3542","lon":-98.2541252,"lat":30.7153386}
-	{"name":"SPANN TRUST","address":"310 CARDINAL LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.26152391445687,"lat":30.757525778239643}
-	{"name":"TERRY CHASE SANFORD & RACHEL K TERRY & HEATH BRIAN TERRY &","address":"300 TERRY LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.3418684759221,"lat":30.733573480480608}
-	{"name":"MONKS LINDA & JEFFREY","address":"510 CR 118","city":"BURNET","state":"TX","zip":"78611-5534","lon":-98.387472,"lat":30.716832}
-	{"name":"KLEIN MARVIN N ETUX SUSAN","address":"124 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611-0264","lon":-98.292871,"lat":30.742689}
-	{"name":"CORNET CHRISTY M","address":"541 WILLIAMS RD","city":"BURNET","state":"TX","zip":"78611-5651","lon":-98.32205329020978,"lat":30.7383021958042}
-	{"name":"KNAPP DANA L","address":"113 BRUCE CV","city":"BURNET","state":"TX","zip":"78611-3546","lon":-98.2533954,"lat":30.7146439}
-	{"name":"CARRELL DON F & BETTY JANE","address":"105 GENERAL JOHNSON CIR","city":"BURNET","state":"TX","zip":"78611-3518","lon":-98.250813,"lat":30.717771}
-	{"name":"UMPHREY BART","address":"312 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2543409,"lat":30.7157576}
-	{"name":"LEIJA ANTONIO JR & ANGELICA ROMERO","address":"215 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.252037,"lat":30.7156241}
-	{"name":"GILMORE VELDA","address":"301 CARDINAL LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.261741,"lat":30.757311}
-	{"name":"GOSS SHEILA","address":"109 MESQUITE LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.32115108230423,"lat":30.75707361165341}
-	{"name":"LOCKLEAR VIVIAN O LIFE ESTATE","address":"122 CR 118","city":"BURNET","state":"TX","zip":"78611-5417","lon":-98.381703,"lat":30.714553}
-	{"name":"JAMAR DAVID AND TANIS FAMILY TRUST","address":"5402 S HWY 281","city":"BURNET","state":"TX","zip":"78611-4517","lon":-98.2519937,"lat":30.6996336}
-	{"name":"HEINATZ BAILEY PIPPENGER & STACY KINSER","address":"134 REED RANCH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.362418,"lat":30.753975}
-	{"name":"LITTLE TIMOTHY O & MAXANNE P","address":"217 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3522","lon":-98.2522012,"lat":30.7155784}
-	{"name":"COLON CALDERON WILLIAM  & ADA INES RAMOS","address":"112 APACHE DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.390253,"lat":30.714531}
-	{"name":"WATSON RYAN W & AMBER N","address":"219 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2523259,"lat":30.7153521}
-	{"name":"EVERETT ROBYN & JAY EVERETT","address":"310 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3552","lon":-98.2541465,"lat":30.7157897}
-	{"name":"LABRANT NANCY B SURVIVOR'S TRUST","address":"113 VANDEVENTER DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2499407,"lat":30.7173446}
-	{"name":"CRAWFORD MARVIN A III ETUX MARCIA E","address":"101 FOX CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2528812,"lat":30.7160491}
-	{"name":"IBARRA ROBERTO S & ESTER J","address":"216 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.31897429323105,"lat":30.762632211016626}
-	{"name":"BUCHHORN ODELL ETUX IVA","address":"203 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3522","lon":-98.2511796,"lat":30.7164651}
-	{"name":"HOOVER VALLEY CEMETERY ASSN","address":"7610 PR 4 W","city":"BURNET","state":"TX","zip":"78611","lon":-98.381927,"lat":30.703862}
-	{"name":"ASBILL JOY","address":"304 SUNSET DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.26115458007665,"lat":30.75582042473761}
-	{"name":"GRAVES PATSY ANN","address":"304 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2535923,"lat":30.7157724}
-	{"name":"SHABRAM JEFFREY PHILIP & JUDITH RICHARDS SHABRAM","address":"111 VANDEVENTER DR","city":"BURNET","state":"TX","zip":"78611-3520","lon":-98.2498158,"lat":30.7174402}
-	{"name":"HAVINS ROSA LEE","address":"314 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.254499,"lat":30.7157439}
-	{"name":"ROBINSON JOHN O JR TRUST","address":"211 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3522","lon":-98.2517204,"lat":30.7159017}
-	{"name":"LANGLEY HOMES INC","address":"119 BRUCE CV","city":"BURNET","state":"TX","zip":"78611-3546","lon":-98.2535204,"lat":30.7151272}
-	{"name":"ALEXANDER SUMMER & BRANDON","address":"2600 CR 120A","city":"MARBLE FALLS","state":"TX","zip":"78654-8004","lon":-98.358555,"lat":30.668926}
-	{"name":"ERKAN HABIB H JR & CAROLINA","address":"115 VANDEVENTER DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.250107,"lat":30.717224}
-	{"name":"HARTWELL LARRY W & BERI W","address":"213 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3522","lon":-98.2518431,"lat":30.7157873}
-	{"name":"WELLMAN DAVID L","address":"403 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3544","lon":-98.2553918,"lat":30.7150303}
-	{"name":"HOWES FAMILY TRUST","address":"102 GENERAL JOHNSON CIR","city":"BURNET","state":"TX","zip":"78611-3519","lon":-98.250473,"lat":30.718063}
-	{"name":"WALDROP  JUDITH","address":"209 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3522","lon":-98.2515657,"lat":30.7159596}
-	{"name":"WAPPING RD LLC","address":"222 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2526575,"lat":30.7158567}
-	{"name":"JUNG DONALD A ETUX MARGRET K","address":"2501 CR 120A","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.352294,"lat":30.672075}
-	{"name":"ACUFF ROY GENE & CLAUDIA JOHNSON ACUFF LIFE ESTATES","address":"308 FAWN HILL","city":"BURNET","state":"TX","zip":"78611-9750","lon":-98.26061179046738,"lat":30.75412847735686}
-	{"name":"BYBEE ANN L","address":"135 FOX CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2549503,"lat":30.7155695}
-	{"name":"FOOTIT MICHAEL & AMY","address":"8451 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.379761,"lat":30.715203}
-	{"name":"LANE BILL & JUDI","address":"220 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2525016,"lat":30.7159193}
-	{"name":"STEELE DAVID P","address":"117 FOX CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2540342,"lat":30.7166597}
-	{"name":"JENNINGS SIERRA RANDI & DARRYL THOMAS","address":"333 NORTH OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2568987,"lat":30.7405809}
-	{"name":"METHVIN KENNETH R & MARGARITE M","address":"303 SUNSET DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25819725737477,"lat":30.756257175745855}
-	{"name":"KRACKEN ENTERPRISES INC","address":"100 TERRY LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.339808,"lat":30.734127}
-	{"name":"JONES ROBERT LEE JR","address":"103 FOX CIR","city":"BURNET","state":"TX","zip":"78611-3578","lon":-98.2529839,"lat":30.7161459}
-	{"name":"BOWERS GARRETT & SAMANTHA","address":"3224 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.301977,"lat":30.741285}
-	{"name":"ALEXANDER JAMES ROY AND ROSEMARY H","address":"200 CR 118","city":"BURNET","state":"TX","zip":"78611-7566","lon":-98.383901,"lat":30.714657}
-	{"name":"SEGURA JAIME & TERESA SUAREZ","address":"303 CARDINAL LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.26168878448851,"lat":30.757321796706215}
-	{"name":"DANNHEIM LARRY F","address":"109 FOX CIRCLE","city":"BURNET","state":"TX","zip":"78611-3578","lon":-98.2533612,"lat":30.7164979}
-	{"name":"FLORES JOSE","address":"103 MAGGIE LANE","city":"BURNET","state":"TX","zip":"78611-4054","lon":-98.32092394963378,"lat":30.760361738862116}
-	{"name":"LEACH TOMMY","address":"153 CR 118","city":"BURNET","state":"TX","zip":"78611","lon":-98.383519,"lat":30.713384}
-	{"name":"HARBIN CODY W & ALLISON","address":"307 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2538981,"lat":30.7153257}
-	{"name":"GSD HOLDINGS LLC","address":"112 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.3197592428291,"lat":30.764850485003297}
-	{"name":"CARR RICHARD","address":"302 SUNSET DR","city":"BURNET","state":"TX","zip":"78611-9736","lon":-98.26123729003832,"lat":30.755803212368804}
-	{"name":"DUFF ROBERT SANFORD","address":"307 FAWN HILL","city":"BURNET","state":"TX","zip":"78611-9756","lon":-98.26073776151776,"lat":30.753935423895058}
-	{"name":"GINSBERG CARL JAMES & CINDY E","address":"7223 W PARK RD 4","city":"BURNET","state":"TX","zip":"78611-5457","lon":-98.37984,"lat":30.710783}
-	{"name":"KALISEK NICOLE ERIN & BRIAN ANDREW","address":"701 DEER SPRINGS ROAD","city":"BURNET","state":"TX","zip":"78611","lon":-98.3184023,"lat":30.7529263}
-	{"name":"BILLS VICKIE M REVOCABLE LIVING TRUST","address":"101 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.312076,"lat":30.765056}
-	{"name":"WILLIAMSON JEFF & ANGELA","address":"5046 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.2810042,"lat":30.7447453}
-	{"name":"KELLEY C MICHAEL ETUX DEBORAH","address":"201 E VALLEY VIEW","city":"BURNET","state":"TX","zip":"78611-7175","lon":-98.339144,"lat":30.72992}
-	{"name":"BESEDA GEORGE ANTHONY","address":"6246 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.323137,"lat":30.768952}
-	{"name":"CONFIDENTIAL","address":"301 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.29656605839509,"lat":30.74497695197343}
-	{"name":"HARDEN LUE","address":"3220 FM 3509","city":"BURNET","state":"TX","zip":"78611-5947","lon":-98.302088,"lat":30.740578}
-	{"name":"ORMAND JONATHAN","address":"101 BRUCE CV","city":"BURNET","state":"TX","zip":"78611","lon":-98.2524128,"lat":30.715228}
-	{"name":"MILSON KATHY E","address":"125 LIVE OAK RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.29760503200873,"lat":30.764080712923285}
-	{"name":"POTRU SIRISH VENKATA & MANJUSHA MANI TETALA","address":"304 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.275979,"lat":30.768808}
-	{"name":"TORRES ANDREW ROBERTO & NICOLE","address":"101 SHOALS PKWY","city":"BURNET","state":"TX","zip":"78611","lon":-98.389726,"lat":30.716627}
-	{"name":"KOENIG JOSHUA J & AMY E","address":"5074 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.330268,"lat":30.729002}
-	{"name":"FORMAN LORI ANN & JEFFERSON GEORGE","address":"302 CARDINAL LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.26173358289138,"lat":30.75748195564793}
-	{"name":"HARVEY FREDERICK ARNOLD LIVING TRUST","address":"119 VANDEVENTER DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.250414,"lat":30.716914}
-	{"name":"PRINGLE JAMES","address":"117 BRUCE CV","city":"BURNET","state":"TX","zip":"78611-3546","lon":-98.25347,"lat":30.7149751}
-	{"name":"FONTENOT MELISSA & BRIAN","address":"6232 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.323098,"lat":30.767629}
-	{"name":"ROSE DENNIS ETUX LINDA","address":"828 CR 121","city":"MARBLE FALLS","state":"TX","zip":"78654-3836","lon":-98.294016,"lat":30.668229}
-	{"name":"BOLM JAMES S","address":"306 SUNSET DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.26107187011498,"lat":30.755837637106413}
-	{"name":"EVANS LARRY D ETUX CHERYL M","address":"1247 FM 2341","city":"BURNET","state":"TX","zip":"78611-2963","lon":-98.29058932700582,"lat":30.778536888869425}
-	{"name":"RODDY EILEEN","address":"302 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2534131,"lat":30.7157013}
-	{"name":"THURMAN FRANK & DELTA","address":"101 VANDEVENTER","city":"BURNET","state":"TX","zip":"78611","lon":-98.249763,"lat":30.7184572}
-	{"name":"LOWERY DUSTIN GARTH & LETICIA MICHELLE","address":"209 TEJAS TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.3893496710179,"lat":30.715503801660226}
-	{"name":"ROBERTSON JOHN SCOTT","address":"224 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2528183,"lat":30.715743}
-	{"name":"FOLTA JACOB J II","address":"414 WILLIAMS RD","city":"BURNET","state":"TX","zip":"78611-5409","lon":-98.32225197821556,"lat":30.73604979667921}
-	{"name":"DREYLING MICHAEL A & CYNTHIA","address":"108 LIVE OAK RD","city":"BURNET","state":"TX","zip":"78611-0738","lon":-98.29806989844677,"lat":30.76418231088066}
-	{"name":"KIRK JANE E","address":"308 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2539769,"lat":30.7157888}
-	{"name":"PORTER TRAVIS J ETUX DENISE","address":"515 LAS VISTAS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.26445623808121,"lat":30.69457175679502}
-	{"name":"WALKER WEBB III","address":"117 VANDEVENTER DR","city":"BURNET","state":"TX","zip":"78611-3520","lon":-98.2502336,"lat":30.7170806}
-	{"name":"REED ANNA & JONATHAN T","address":"103 VANDEVENTER DR","city":"BURNET","state":"TX","zip":"78611-3520","lon":-98.2496514,"lat":30.7182528}
-	{"name":"BENSON RALPH TRUSTEE","address":"103 GEN JOHNSON CIR","city":"BURNET","state":"TX","zip":"78611-3518","lon":-98.2507382,"lat":30.7175259}
-	{"name":"WILSON ANNITA R","address":"105 VANDEVENTER","city":"BURNET","state":"TX","zip":"78611-3520","lon":-98.2495806,"lat":30.7180669}
-	{"name":"CHANDLER CATHY DUNCAN","address":"113 SADDLE ROCK RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.29688021022982,"lat":30.766838411906306}
-	{"name":"LINDLEY MICHAEL J & KATHRYN CLARKSON","address":"242 CR 118","city":"BURNET","state":"TX","zip":"78611-5446","lon":-98.384685,"lat":30.715755}
-	{"name":"TOLBERT DICKY AND VIVIAN","address":"232 WAYWARD DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.30028917548687,"lat":30.762100749846983}
-	{"name":"TABOR JAN HODGES","address":"102 VANDEVENTER DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2501443,"lat":30.7180104}
-	{"name":"M-S LUCK LTD","address":"5221 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.33147,"lat":30.726495}
-	{"name":"HOWINGTON HELEN MAE","address":"327 WILLIAMS RD","city":"BURNET","state":"TX","zip":"78611-5650","lon":-98.32205315795125,"lat":30.733885071402465}
-	{"name":"STRATA TRUST CO CUSTODIAN JAY P OTTO IRA #200801007","address":"114 COBBLESTONE","city":"BURNET","state":"TX","zip":"78611","lon":-98.255994,"lat":30.712618}
-	{"name":"ALVARADO ROBERT & CECILIA","address":"317 SUNSET DR","city":"BURNET","state":"TX","zip":"78611-9737","lon":-98.25805403449324,"lat":30.75628365243239}
-	{"name":"HAGGARD GARY","address":"429 LAS VISTAS","city":"BURNET","state":"TX","zip":"78611","lon":-98.26948043904488,"lat":30.69100316658115}
-	{"name":"RAYNER LAURA JEAN","address":"104 GEN JOHNSON CIR","city":"BURNET","state":"TX","zip":"78611-3519","lon":-98.2507288,"lat":30.7179862}
-	{"name":"ROWLEE KAYLE LYNN & CARLA KIM","address":"420 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.30713586316931,"lat":30.766606218367304}
-	{"name":"BROUSSARD DONNIE ALAN","address":"6210 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.321726,"lat":30.767402}
-	{"name":"PAYNE ROBERT D","address":"302 FAWN HILL DR","city":"BURNET","state":"TX","zip":"78611-9750","lon":-98.26080067561234,"lat":30.754089244931443}
-	{"name":"ZIMMERMAN JASON RAINEY","address":"103 LAS VISTAS WAY","city":"BURNET","state":"TX","zip":"78611-6001","lon":-98.25911988940423,"lat":30.697246259105885}
-	{"name":"ZIMMERMAN KILLIAN & LAUREN BANKS","address":"116 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611-2866","lon":-98.319436,"lat":30.764465}
-	{"name":"PHILLIPS KEITH AND SANDRA PHILLIPS 80% AND","address":"350 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.30680192774535,"lat":30.765455093190916}
-	{"name":"MATLACK KIMBERLY L (DEC'D)","address":"307 SUNSET DR","city":"BURNET","state":"TX","zip":"78611-9737","lon":-98.25815633655148,"lat":30.756264740513437}
-	{"name":"BERMENDER CRAIG & PAMELA","address":"4878 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.264767,"lat":30.759664}
-	{"name":"BAUMAN JALEN","address":"102 FOX CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.2530801059116,"lat":30.71559338202026}
-	{"name":"RIGGEN AMBER D","address":"319 FAWN HILL DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.26034583181323,"lat":30.75401486121222}
-	{"name":"GRIFFITH MELVIN THOMAS & DONNA MARIE","address":"604 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.31840319234806,"lat":30.75549843274565}
-	{"name":"RAMSEY BRANDON LOUIS & CARRIE DANETTE","address":"107 SPANISH OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.2616238,"lat":30.7257821}
-	{"name":"HELMS DONNA","address":"107 HELMS CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27043174396438,"lat":30.760639536213688}
-	{"name":"JIMMY BUILDER LLC","address":"710 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.30044198853147,"lat":30.768605254860454}
-	{"name":"HOLLEY ED P","address":"309 SUNSET DR","city":"BURNET","state":"TX","zip":"78611-0307","lon":-98.25813587613983,"lat":30.756268522897226}
-	{"name":"GARCIA DEMETRIUS A","address":"110 MAGGIE LN","city":"BURNET","state":"TX","zip":"78611-4054","lon":-98.318251,"lat":30.760693}
-	{"name":"CONFIDENTIAL","address":"316 SUNSET DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.26065832030659,"lat":30.755923698950436}
-	{"name":"MCCARN JIM","address":"123 VANDEVENTER DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2508528,"lat":30.716736}
-	{"name":"REDDOCH E.B. III AND JANIE","address":"614 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.31830082926999,"lat":30.755225697020204}
-	{"name":"STEPHENS RONALD L","address":"105 RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.303529,"lat":30.766354}
-	{"name":"CLAWSON DANNIE G & SUZANNE","address":"303 STAGE COACH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.261356,"lat":30.75849}
-	{"name":"ALLEN DONALD L (DEC'D)","address":"749 FM 2341","city":"BURNET","state":"TX","zip":"78611","lon":-98.28696049981104,"lat":30.77031062146683}
-	{"name":"SPARKS ROBERT W & SPARKS TONI M","address":"890 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.24922254545454,"lat":30.736615545454544}
-	{"name":"STANLEY ALEXANDER","address":"106 MESQUITE LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.32121346657003,"lat":30.756915751704145}
-	{"name":"ROBERTS CAROL LIFE ESTATE","address":"151 FM 2341","city":"BURNET","state":"TX","zip":"78611","lon":-98.28522324428374,"lat":30.76424425507754}
-	{"name":"CASA DE HERMOSA VISTA LLC","address":"213 VISTA HERMOSA","city":"BURNET","state":"TX","zip":"78611","lon":-98.34891100831824,"lat":30.72461333150386}
-	{"name":"MARTIN DAVID WAYNE","address":"5658 W HWY 29","city":"BURNET","state":"TX","zip":"78611-2804","lon":-98.310607,"lat":30.764679}
-	{"name":"CROOKS JACK V (DECSD) & BERNADETTE","address":"105 TURKEY LN","city":"BURNET","state":"TX","zip":"78611-4057","lon":-98.32138127255665,"lat":30.759430567577557}
-	{"name":"STRONG JAMES R & SUE ANN BORLAND","address":"804 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.29985705764877,"lat":30.7690027303817}
-	{"name":"HALE JANET S LIFE ESTATE","address":"1033 WILLIAMS RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.32202834615384,"lat":30.74593507692308}
-	{"name":"BROWN SHERRY KAY & WESLEY SEYMOUR BROWN","address":"5310 W HWY 29 ","city":"BURNET","state":"TX","zip":"78611","lon":-98.304418,"lat":30.761881}
-	{"name":"THOMPSON MICHAEL & AMBER DAWN HEADRICK-THOMPSON","address":"979 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32200729306865,"lat":30.75473940429695}
-	{"name":"COTTINGHAM NICHOLAS","address":"289 N OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2577961,"lat":30.7445284}
-	{"name":"RITCHIE JULIA F","address":"528 CR 116","city":"BURNET","state":"TX","zip":"78611-5666","lon":-98.2810042,"lat":30.7447453}
-	{"name":"WARDEN BARBARA E","address":"2673 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.298292,"lat":30.73594}
-	{"name":"FERNANDEZ SENIA LIZZET & ALEJANDRO AGUILAR","address":"301 STAGE COACH","city":"BURNET","state":"TX","zip":"78611-9733","lon":-98.261724,"lat":30.758252}
-	{"name":"METRIE OMA","address":"209 SANDY LANE","city":"BURNET","state":"TX","zip":"78611-4061","lon":-98.310555,"lat":30.767439}
-	{"name":"WASHBURN TODD ROBERT JR","address":"1100 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.2810042,"lat":30.7447453}
-	{"name":"TRAYLOR KRISTINE DIANE","address":"115 OAK LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.32135109362775,"lat":30.75548341277104}
-	{"name":"ENRIQUEZ LUIS ALBERTO","address":"403 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32123407235248,"lat":30.75910781473333}
-	{"name":"FULGHAM KEITH","address":"1693 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.264767,"lat":30.759664}
-	{"name":"VAUGHN TARA","address":"312 FAWN HILL ST","city":"BURNET","state":"TX","zip":"78611-9750","lon":-98.2604858670374,"lat":30.75415463230714}
-	{"name":"KRONFIELD PAUL H ETUX WEI HONG","address":"1500 WILLIAMS RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.317108,"lat":30.748443}
-	{"name":"GALYEAN JAMES OR DONNA","address":"8430 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.379422,"lat":30.715733}
-	{"name":"GOBLE EARL B JR","address":"5424 S  HWY 281","city":"BURNET","state":"TX","zip":"78611-4517","lon":-98.2529645,"lat":30.6970835}
-	{"name":"FAIRLAND INVESTMENTS LLC SERIES 8","address":"5409 S US 281","city":"BURNET","state":"TX","zip":"78611","lon":-98.2522957,"lat":30.6988838}
-	{"name":"ULLMANN RONALD L","address":"309 CARDINAL LN","city":"BURNET","state":"TX","zip":"78611-9735","lon":-98.26153213795406,"lat":30.75735418682485}
-	{"name":"HAWLEY BOBBY ETUX ERIKA","address":"1010 PARK RD SOUTH","city":"BURNET","state":"TX","zip":"78611-5470","lon":-98.269038,"lat":30.690354}
-	{"name":"DIERINGER KEITH","address":"314 FAWN HILL DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.26042290532241,"lat":30.75416770978228}
-	{"name":"PAGE NEVA WILLIAMS","address":"7723 PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.378658,"lat":30.702008}
-	{"name":"HACKLER TERRY C & KAREN LEE","address":"5677 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.339437,"lat":30.725517}
-	{"name":"HAGAN MICHAEL P","address":"300 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611-2896","lon":-98.321834,"lat":30.763586}
-	{"name":"MCDANIEL AMY LYNN","address":"111 PECAN LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.32154663265305,"lat":30.761531285714288}
-	{"name":"HEBDON EVON","address":"307 DEER SPRING DR","city":"BURNET","state":"TX","zip":"78611-2862","lon":-98.321404,"lat":30.759719}
-	{"name":"RHODES MICHAEL B","address":"706 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611-0628","lon":-98.3182597766059,"lat":30.752649354561342}
-	{"name":"CARONE PETER & DONNA","address":"307 YUCCA DR","city":"BURNET","state":"TX","zip":"78611-2829","lon":-98.30760175052892,"lat":30.76486260551015}
-	{"name":"TIEMANN JAMES HENRY","address":"115 MESQUITE LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.32118870576055,"lat":30.75708352913353}
-	{"name":"CATLIN TRACE & LIZ","address":"812 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.323231,"lat":30.752797}
-	{"name":"REGOT HOLDINGS LLC","address":"307 STAGE COACH","city":"BURNET","state":"TX","zip":"78611","lon":-98.26049,"lat":30.758632}
-	{"name":"BALLARD PATRICIA ANN","address":"5220 W HWY 29","city":"BURNET","state":"TX","zip":"78611-4072","lon":-98.302325,"lat":30.76178}
-	{"name":"EBELING FAMILY TRUST","address":"4610 PARK ROAD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.325677,"lat":30.683224}
-	{"name":"VAUGHAN JOYCE ANNEMARIE & GLORIA M VAUGHAN","address":"315 SUNSET DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25807449490489,"lat":30.7562798700486}
-	{"name":"TURNER WILLIAM J","address":"900 STEFFEY LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.288134,"lat":30.724058}
-	{"name":"NICHOLS NOVA - GARY NICHOLS - KAREN D MATKE & TRACI S NICHOLS (50%)","address":"438 CR 118","city":"BURNET","state":"TX","zip":"78611","lon":-98.386611,"lat":30.717171}
-	{"name":"HERNANDEZ STEVEN ANTHONY & ROSALIE FLORES HERNANDEZ","address":"315 LOST MOUNTAIN RANCH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.2969909,"lat":30.691084}
-	{"name":"STEFFEY NEAL RAY","address":"6710 W PARK RD 4","city":"BURNET","state":"TX","zip":"78611-5408","lon":-98.381683,"lat":30.716798}
-	{"name":"GOVEA ADRIANA ARREDONDO","address":"306 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.321112,"lat":30.763827}
-	{"name":"HAKKER LISA & JUSTIN","address":"118 CR 118A","city":"BURNET","state":"TX","zip":"78611","lon":-98.388283,"lat":30.715689}
-	{"name":"MOORE CHARLES R ETUX RITA","address":"108 TURKEY LN","city":"BURNET","state":"TX","zip":"78611-4057","lon":-98.32149511274952,"lat":30.75928465643187}
-	{"name":"BENTON CYNTHIA ANN & ELIZABETH DIANE BENTON &","address":"745 FM 3509 (HOOVER VALLEY)","city":"BURNET","state":"TX","zip":"78611","lon":-98.266481,"lat":30.753621}
-	{"name":"RICHEY CARL EUGENE JR","address":"904 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611-0443","lon":-98.32138658250474,"lat":30.752626943056804}
-	{"name":"HAYNES SHIELA CARPENTER","address":"1070 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.270596,"lat":30.754959}
-	{"name":"RUIZ RAFAEL R","address":"220 YUCCA DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.30928054928577,"lat":30.764983491504207}
-	{"name":"PERKINS TOMMY W ETUX DOROTHY F","address":"408 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611-2852","lon":-98.32022596672265,"lat":30.758393545305953}
-	{"name":"MORALES JOE & ELENA","address":"688 PR 4 S","city":"BURNET","state":"TX","zip":"78611","lon":-98.262779,"lat":30.69398}
-	{"name":"NATIONSTAR MORTGAGE LLC","address":"399 POSSOM TROT","city":"BURNET","state":"TX","zip":"78611","lon":-98.255552,"lat":30.7546}
-	{"name":"POE JAMES K","address":"316 CR 118A","city":"BURNET","state":"TX","zip":"78611","lon":-98.387931,"lat":30.713261}
-	{"name":"WARDEN CHANCE JAMES","address":"544 CR 116A","city":"BURNET","state":"TX","zip":"78611","lon":-98.265198,"lat":30.756492}
-	{"name":"BARDALES LUIS ALFREDO AYUELA & JESSICA CORAIMA HERNANDEZ","address":"105 MESQUITE LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.321126,"lat":30.757067}
-	{"name":"HERNANDEZ ROSA ROJO","address":"625 CR 118","city":"BURNET","state":"TX","zip":"78611","lon":-98.388121,"lat":30.716204}
-	{"name":"LOST MOUNTAIN PROPERTIES LLC","address":"431 PAINTED HORSE TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.27237440724444,"lat":30.693330602790475}
-	{"name":"HEARN KASSSANDRA","address":"102 BIG SKY","city":"BURNET","state":"TX","zip":"78611","lon":-98.27020153061224,"lat":30.769658346938776}
-	{"name":"HALL LERA CAROLYN","address":"4905 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.32682,"lat":30.725954}
-	{"name":"EPPERSON LAUREY","address":"201 CLEAR CREEK RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.37838210415882,"lat":30.755851340498804}
-	{"name":"TIPPS DAWN REINSCH AND TIPPS BOBBY","address":"2551 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.261749,"lat":30.759605}
-	{"name":"HUYNH TRI D & TUYEN T LY","address":"811 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.29979854479129,"lat":30.769014794888395}
-	{"name":"WULLIAMSON GEORGE L & MARY E REVOCABLE LIVING TRUST","address":"6716 W PARK ROAD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.381909,"lat":30.716001}
-	{"name":"MANHART ASHLIE","address":"7719 PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.378712,"lat":30.703551}
-	{"name":"WILLS NICHOLAS M & MEAGAN","address":"101 SANDY","city":"BURNET","state":"TX","zip":"78611","lon":-98.309718,"lat":30.765097}
-	{"name":"ANGLIN LONNIE & ALICE MARIE","address":"646 CR 116A","city":"BURNET","state":"TX","zip":"78611-5665","lon":-98.266484,"lat":30.755304}
-	{"name":"TINDELL JAMES & KARMAN","address":"2655 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.294836,"lat":30.739773}
-	{"name":"HANCOCK HEATHER HAYNES","address":"1054 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.270651,"lat":30.752642}
-	{"name":"ROBERTSON BENJAMIN & JESSICA","address":"1301 STONE MOUNTAIN DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.323892,"lat":30.670948}
-	{"name":"LONG GERALD L","address":"708 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611-2835","lon":-98.31831345997955,"lat":30.752625921950777}
-	{"name":"BIBLE ROBERT W","address":"5018 HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.12855435633611,"lat":30.751260306780583}
-	{"name":"HOLCOMB SHANON M COBLE","address":"114 MESQUITE LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.32126342199673,"lat":30.75692608730967}
-	{"name":"PENNY-LEACH VICKY L","address":"704 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611-7511","lon":-98.31820621853151,"lat":30.75267330599833}
-	{"name":"OGLESBY RUSSELL RICHARD","address":"220 CR 118A (UTE TRAIL)","city":"BURNET","state":"TX","zip":"78611","lon":-98.38823154927547,"lat":30.71528133697854}
-	{"name":"WAXLER HENRY LEE JR (DEC'D)","address":"110 PECAN LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.32155163265305,"lat":30.761366285714285}
-	{"name":"RODRIGUEZ KARINA CRUZ","address":"210 VALLEY DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.29959360115421,"lat":30.76751887493745}
-	{"name":"FOREMAN BARRE JASON","address":"835 N OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25700602040817,"lat":30.74460106122449}
-	{"name":"WRIGHT THERESA & WRIGHT JOHN","address":"118 LIVE OAK RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.29777227150521,"lat":30.764225199481487}
-	{"name":"ATKISON GREGORY R","address":"300 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.321065,"lat":30.759207}
-	{"name":"VANCE PAUL","address":"308 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32100722075181,"lat":30.759142729969472}
-	{"name":"GREER DIANA JEAN","address":"219 CR 118A","city":"BURNET","state":"TX","zip":"78611","lon":-98.387776,"lat":30.714663}
-	{"name":"PEREZ MELINDA & BOBBY WALPOLE","address":"111 OAK LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.32127556939824,"lat":30.75543104341037}
-	{"name":"SMITH-SKAGGS KYLE","address":"203 LAKEVIEW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32095491983006,"lat":30.752512403590444}
-	{"name":"HOOVER JOHN A & BRANDI","address":"211 VALLEY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.29806157142856,"lat":30.762088428571428}
-	{"name":"BIDDY NADINE","address":"123 CR 118A","city":"BURNET","state":"TX","zip":"78611","lon":-98.38786,"lat":30.715599}
-	{"name":"KING JAMES C","address":"608 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.31835583080863,"lat":30.755391845902967}
-	{"name":"FERRUSQUIA MARIA M","address":"6227 W HWY 29 ","city":"BURNET","state":"TX","zip":"78611-4049","lon":-98.323216,"lat":30.766469}
-	{"name":"HALLEY DICK & LISA HARRINGTON","address":"301 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.322115,"lat":30.763013}
-	{"name":"EDWARDS JAMES L","address":"106 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611-4056","lon":-98.322224,"lat":30.765784}
-	{"name":"SADLER MELANIE R","address":"112 SADDLE ROCK RD","city":"BURNET","state":"TX","zip":"78611-4060","lon":-98.29849081733104,"lat":30.76679328405546}
-	{"name":"SEIFERT MICHAEL W JR","address":"710 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.31837204606568,"lat":30.7526227899902}
-	{"name":"BROWN GENE","address":"224 CR 118A","city":"BURNET","state":"TX","zip":"78611","lon":-98.388026,"lat":30.714111}
-	{"name":"GALLARDO JOE E","address":"711 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.301860108963,"lat":30.767988007327773}
-	{"name":"MEJIA ARISTARRCO GUERRERO & CHRISTINA RAMIREZ SIERRA","address":"200 WAYWARD DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.29979356864219,"lat":30.76198030962935}
-	{"name":"ZASTOUPIL RANDY","address":"822 CR 121","city":"MARBLE FALLS","state":"TX","zip":"78654-0943","lon":-98.288825,"lat":30.666768}
-	{"name":"ROGERS BRANDON  &  PAULA","address":"100 ROGERS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.299843,"lat":30.7682}
-	{"name":"PHILLIPS KEITH & SANDRA","address":"316 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.30742524115782,"lat":30.765150022936638}
-	{"name":"PRINCE ELMA LAVONNE","address":"109 SENECA DR","city":"BURNET","state":"TX","zip":"78611-5969","lon":-98.39012333203634,"lat":30.71569061394254}
-	{"name":"HAYDON TOMMY","address":"501 N OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.258728,"lat":30.7423966}
-	{"name":"GOINS TIMOTHY","address":"1004 DEER SPRINGS DR.","city":"BURNET","state":"TX","zip":"78611","lon":-98.32082769071496,"lat":30.755283956408007}
-	{"name":"HAGAR JAMES L","address":"402 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32026979543511,"lat":30.758441501930395}
-	{"name":"HOLCOMB DAVIS ANTHONY","address":"200 SHADOW RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.30483,"lat":30.762385}
-	{"name":"PARKER BETH ANN","address":"314 SUNSET DR","city":"BURNET","state":"TX","zip":"78611-9736","lon":-98.26074103026826,"lat":30.755906486581633}
-	{"name":"WILKINS LAMOND N & ISELA GUARDADO","address":"119 MESQUITE LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.32121378806477,"lat":30.757090140786943}
-	{"name":"MILLER HELEN CANDLER REVOCABLE TRUST","address":"1005 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.267278,"lat":30.751765}
-	{"name":"SEILEY VICKIE G ETVIR TOMMY S","address":"103 CLEAR CREEK DR","city":"BURNET","state":"TX","zip":"78611-2970","lon":-98.3785424082339,"lat":30.756965970593228}
-	{"name":"LARUE JOHN W","address":"214 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.322264,"lat":30.764149}
-	{"name":"JOHANSON BLAKE","address":"6801 W HWY 29","city":"BURNET","state":"TX","zip":"78611-4047","lon":-98.336411,"lat":30.763983}
-	{"name":"GOVEA HECTOR ARREDONDO","address":"213 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.322741,"lat":30.76447}
-	{"name":"CALHOUN JOHN H & BILLIE","address":"103 MESQUITE LANE","city":"BURNET","state":"TX","zip":"78611-4053","lon":-98.320864,"lat":30.75703}
-	{"name":"CRAIG WAYNE","address":"301 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.321212,"lat":30.760066}
-	{"name":"PERKINS JERRY DEAN - YVONNE CHANTELL WOLFE & BRUCE WAYNE","address":"222 VALLEY DR","city":"BURNET","state":"TX","zip":"78611-4075","lon":-98.29951122300135,"lat":30.767439961286335}
-	{"name":"HATHCOCK SHON D & KATHERINE","address":"110 MESQUITE LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.32123844428338,"lat":30.756920919506907}
-	{"name":"WOODWARD CRAIG & NONA","address":"952 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.2622987,"lat":30.7274453}
-	{"name":"BEACH WAYNE FREEMAN & MALINDA","address":"222 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.30924121464805,"lat":30.76497257459474}
-	{"name":"LIGHTFOOT JUDY","address":"5228 W HWY 29 ","city":"BURNET","state":"TX","zip":"78611-2432","lon":-98.302833,"lat":30.761854}
-	{"name":"VALLEJO JORGE","address":"423 TEJAS TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.3887716955771,"lat":30.714282348439372}
-	{"name":"DAVIS RICHARD LEON","address":"111 LIVE OAK RD","city":"BURNET","state":"TX","zip":"78611-0403","lon":-98.29799701333697,"lat":30.764025463718035}
-	{"name":"GSD HOLDINGS LLC","address":"108 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32009021560503,"lat":30.765326769670658}
-	{"name":"STINE ROBERT C & MOLLY J","address":"4401 PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.322459,"lat":30.677339}
-	{"name":"BRINKLEY MANAGEMENT TRUST","address":"1171 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.264767,"lat":30.759664}
-	{"name":"MURPHY PHILIP SEAN & TERESA JO","address":"321 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.274714,"lat":30.771842}
-	{"name":"POE JAMES K","address":"502 TEJAS TRL","city":"BURNET","state":"TX","zip":"78611-5619","lon":-98.38908848609206,"lat":30.713755972615626}
-	{"name":"HOPKINS LAURIE E","address":"100 SHADOW LN","city":"BURNET","state":"TX","zip":"78611-4070","lon":-98.302791,"lat":30.762997}
-	{"name":"BRINKLEY MANAGEMENT TRUST","address":"881 STEFFEY LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.28770062276354,"lat":30.72611963641243}
-	{"name":"BOX BILLY GAIL","address":"613 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.30330798678088,"lat":30.767492871112985}
-	{"name":"BECKER ROBERT & KATHRYN","address":"104 ROUND UP CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27975875510204,"lat":30.769612285714285}
-	{"name":"YOUNGGREN TRACY & LORI","address":"229 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.30915123540152,"lat":30.764762096995103}
-	{"name":"SANDOWSKY MICHELLE LYNNE & JAMES CLIFFORD FETZNER","address":"207 CR 118A","city":"BURNET","state":"TX","zip":"78611","lon":-98.387845,"lat":30.715062}
-	{"name":"WENDT RICHARD VERNON & VALERIE MARIE","address":"1030 WILLIAMS RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.32221929765886,"lat":30.74595091638796}
-	{"name":"SHELDEN MIKE","address":"223 VALLEY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.29810949534695,"lat":30.76262099994941}
-	{"name":"BRIGNER DAVID","address":"102 SADDLE ROCK","city":"BURNET","state":"TX","zip":"78611","lon":-98.29872940331975,"lat":30.7668212234909}
-	{"name":"SASKO LEVI JOHN","address":"107 MAGGIE LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.32086584890135,"lat":30.760355216586344}
-	{"name":"GSD HOLDINGS LLC","address":"106 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.3203706552731,"lat":30.76539589572511}
-	{"name":"REEVES RICKY D","address":"360 NAVAJO DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.3917895,"lat":30.7137418}
-	{"name":"CRAIG WAYNE & MONICA","address":"106 PECAN LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.32147697959184,"lat":30.76136457142857}
-	{"name":"WAGGONER STEPHANIE","address":"100 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611-2866","lon":-98.321162,"lat":30.765753}
-	{"name":"ROBERTSON B L","address":"5030 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.12801192722685,"lat":30.751166511300973}
-	{"name":"BEAN JEFFREY","address":"802 YUCCA DRIVE","city":"BURNET","state":"TX","zip":"78611-0543","lon":-98.29987377560803,"lat":30.768999283379788}
-	{"name":"CHILDRESS BOBBY L & JUDY DIANE REVOCABLE LIVING TRUST","address":"829 CR 118","city":"BURNET","state":"TX","zip":"78611-5623","lon":-98.390601,"lat":30.71602}
-	{"name":"ODOM RON & JANIE","address":"6214 W HWY 29 ","city":"BURNET","state":"TX","zip":"78611","lon":-98.32197,"lat":30.767793}
-	{"name":"SRS BURNETT PROPERTY LLC","address":"2751 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.26343,"lat":30.760009}
-	{"name":"CRUM CHRIS (DEC'D) ETUX SARA","address":"111 APACHE DR","city":"BURNET","state":"TX","zip":"78611-5481","lon":-98.389909,"lat":30.714241}
-	{"name":"RHEA MARIA ELAINE","address":"801 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611-0411","lon":-98.3218149,"lat":30.7528309}
-	{"name":"CALHOUN JOHN H","address":"404 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.3202551858643,"lat":30.758425516388915}
-	{"name":"CONTINENTAL HOMES OF TEXAS LP","address":"208 DELAWARE SPRINGS BLVD DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.2516841292024,"lat":30.716358224540766}
-	{"name":"CASAS SOSIMO & MARGARITA","address":"107 APACHE DR","city":"BURNET","state":"TX","zip":"78611-5481","lon":-98.389567,"lat":30.7141}
-	{"name":"BROOKS BARBARA","address":"1003 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.320878,"lat":30.752713}
-	{"name":"GONZALEZ AGUILINO FLORES","address":"216 VALLEY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.29955241207777,"lat":30.767479418111893}
-	{"name":"BROWN JAMES & TARA","address":"105 ROUND UP CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27971475510205,"lat":30.769452285714284}
-	{"name":"HIGGINS FANNY MARY (DEC'D)","address":"201 VALLEY DR","city":"BURNET","state":"TX","zip":"78611-4075","lon":-98.298053,"lat":30.761657}
-	{"name":"CORDELL JAMES","address":"4800 HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.284816,"lat":30.762343}
-	{"name":"CARNEY BARBARA","address":"210 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.31895413190223,"lat":30.762707753567266}
-	{"name":"PIRIE JULIA","address":"105 MAGGIE LN","city":"BURNET","state":"TX","zip":"78611-4054","lon":-98.32089489926757,"lat":30.76035847772423}
-	{"name":"GRANITE ANTLER LLC","address":"8701 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.0714534,"lat":30.7475584}
-	{"name":"JACKSON KAY E","address":"313 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.320469,"lat":30.763423}
-	{"name":"SHAW JAMES A SR & DARLA S","address":"617 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.30328131570785,"lat":30.76755216148398}
-	{"name":"BURNET CITY OF","address":"107 BIG SKY","city":"BURNET","state":"TX","zip":"78611","lon":-98.27021159183674,"lat":30.769842040816325}
-	{"name":"CRAIG JESTON","address":"111 TURKEY LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.32148668139163,"lat":30.759461418943893}
-	{"name":"WILLIAMS NATHAN & KELLY TRUST","address":"107 CANYON VIEW","city":"BURNET","state":"TX","zip":"78611","lon":-98.2738743,"lat":30.7694471}
-	{"name":"CRAIG JOHN","address":"107 TURKEY LANE","city":"BURNET","state":"TX","zip":"78611-7084","lon":-98.32141640883498,"lat":30.759440851366335}
-	{"name":"ARREDONDO JACOBO ETUX ESPERANZA","address":"202 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611-4052","lon":-98.32194,"lat":30.765407}
-	{"name":"HOPKINS JERRY & MELISSA","address":"122 ROUND UP CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27992865306122,"lat":30.76957757142857}
-	{"name":"WILLIAMS JOSEPH & KAYLA","address":"253 WANDERING OAK CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.25479297545905,"lat":30.73169050602892}
-	{"name":"WILLIAMS JEFFREY WAYNE","address":"128 RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.3026017119938,"lat":30.766502188947726}
-	{"name":"CLENDENNEN CHRISTOPHER","address":"820 CR 121","city":"MARBLE FALLS","state":"TX","zip":"78654-3836","lon":-98.288068,"lat":30.666885}
-	{"name":"WILLIAMS DAVID L & KAREN L","address":"117 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28196197718219,"lat":30.767442156808517}
-	{"name":"CHAVARRIA ADNABET PEREZ & PARISH HARRIS","address":"118 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28188307161122,"lat":30.767625024547996}
-	{"name":"CASTELLAW JEFFREY W (DEC'D) & HERMELINDA","address":"100 MAGGIE LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.320929,"lat":30.760528}
-	{"name":"FIALA DAN & JANET","address":"454 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.246994,"lat":30.7307747}
-	{"name":"MCGINTY JOYCE","address":"607 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611-0355","lon":-98.31866982235185,"lat":30.75540391812626}
-	{"name":"BALLARD ROBERT JAMES ETAL","address":"101 VALLEY ","city":"BURNET","state":"TX","zip":"78611","lon":-98.2978,"lat":30.761004}
-	{"name":"DOOLEY SHIRLEY ANN","address":"5618 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.309902,"lat":30.76373}
-	{"name":"CASTILLO EDILA","address":"101 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32036610050929,"lat":30.76521083509337}
-	{"name":"BRAMHALL BRENT G & ANNA L","address":"113 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32024800334257,"lat":30.765189183946138}
-	{"name":"NORWOOD STEPHEN D","address":"209 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611-2803","lon":-98.31948994794782,"lat":30.764300747463082}
-	{"name":"KESARIA CHINTAN CHANDRAKANT & ASHMI CHINTAN KESARIA","address":"109 CANYON VIEW","city":"BURNET","state":"TX","zip":"78611","lon":-98.2738743,"lat":30.7694471}
-	{"name":"MOORE JERRY D & NANCY R","address":"112 TURKEY LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.32155866912427,"lat":30.759300484647806}
-	{"name":"DELAWARE SPRINGS RANCH INVESTMENTS LLC","address":"327 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2471045,"lat":30.7283876}
-	{"name":"KONARIK CAROL ANN LIFE ESTATE","address":"8010 CR 116","city":"BURNET","state":"TX","zip":"78611-5486","lon":-98.373769,"lat":30.717623}
-	{"name":"PK 4 SERIES OF RIVENDELL LLC","address":"3251 PARK RD 4 S","city":"BURNET","state":"TX","zip":"78611","lon":-98.308879,"lat":30.680851}
-	{"name":"VAUGHN LOYD","address":"311 HAPPY HOLLOW DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.300052,"lat":30.660143}
-	{"name":"GUMBERT BRENDA LYNN","address":"314 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.3206,"lat":30.763878}
-	{"name":"MEADOWS FORREST KAYE","address":"908 FM 3509","city":"BURNET","state":"TX","zip":"78611-5684","lon":-98.268781,"lat":30.754169}
-	{"name":"GARRETT JOHN W & CAROLYN J","address":"189 THRILL HILL TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.295508,"lat":30.693518}
-	{"name":"FITCH MARLENE","address":"430 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.3069853760325,"lat":30.766734343017173}
-	{"name":"SASKO GUENTHER & TANYA","address":"108 DEER LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.38828937751975,"lat":30.728859081350933}
-	{"name":"SMITH EDWARD A & C LAVERNE","address":"208 HONEY ROCK BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.25569204089292,"lat":30.713986998565712}
-	{"name":"COLEMAN RICK AND RHONDA FAMILY TRUST","address":"216 HONEY ROCK BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.25591248193768,"lat":30.714015252691613}
-	{"name":"SMITH EDWARD A & C LAVERNE","address":"110 COBBLESTONE","city":"BURNET","state":"TX","zip":"78611","lon":-98.256431,"lat":30.713041}
-	{"name":"SUAREZ JOSE GUADALUPE FLORES","address":"304 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32103784312037,"lat":30.75917325963438}
-	{"name":"WILSON ALMEDA ANNE","address":"316 FAWN HILL ST","city":"BURNET","state":"TX","zip":"78611","lon":-98.26035994360743,"lat":30.754180787257418}
-	{"name":"IBARRA ROBERTO S & ESTER J","address":"212 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611-0984","lon":-98.31895522401611,"lat":30.762681421893905}
-	{"name":"WISE ROLAND","address":"8640 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.359237,"lat":30.76379}
-	{"name":"VEENSTRA KARYN AYLOR","address":"3103 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.300359,"lat":30.739018}
-	{"name":"HEUSS ROY A & NANCY L","address":"2100 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.253305,"lat":30.736031}
-	{"name":"REED CRAIG","address":"120 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.31174925749643,"lat":30.765404986864574}
-	{"name":"CALLAWAY REMINGTON FAMILY TRUST","address":"438 LAS VISTAS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.26128023038639,"lat":30.696767878684124}
-	{"name":"VILLEGAS VICTORIANO & MARIA B","address":"104 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32065214169711,"lat":30.765467923506186}
-	{"name":"DEL MIKE ZENDEH ETUX CAROL","address":"5959 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.316647,"lat":30.765178}
-	{"name":"HANCOCK HEATHER HAYNES","address":"1054 FM 3509","city":"BURNET","state":"TX","zip":"78611-5663","lon":-98.270651,"lat":30.752642}
-	{"name":"PORCH RONNIE SR & BARBARA G","address":"313 FAWN HILL ST","city":"BURNET","state":"TX","zip":"78611","lon":-98.26054179666549,"lat":30.75397514255364}
-	{"name":"SMITH EVELYN L (DEC'D)","address":"104 TURKEY LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.32143155637476,"lat":30.759268828215937}
-	{"name":"SEAMAN COLTER","address":"6671 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.332376,"lat":30.763794}
-	{"name":"GRANITE SHOALS CITY OF","address":"309 TEJAS TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.388828,"lat":30.714957}
-	{"name":"TERRY KENNETH N","address":"115 PECAN LN","city":"BURNET","state":"TX","zip":"78611-2805","lon":-98.32162128571429,"lat":30.761533}
-	{"name":"CRAIG WAYNE & MONICA","address":"102 PECAN ST","city":"BURNET","state":"TX","zip":"78611","lon":-98.22625312244898,"lat":30.752889897959186}
-	{"name":"FRY CASEY","address":"121 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.3116728118449,"lat":30.765238350120995}
-	{"name":"LANGLEY HOMES INC","address":"105 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.2507316,"lat":30.726141}
-	{"name":"OGLESBY RUSSELL RICHARD","address":"118 CR 118A","city":"BURNET","state":"TX","zip":"78611","lon":-98.388283,"lat":30.715689}
-	{"name":"FURST EDWARD D & BARI B","address":"309 CLEAR CREEK DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.37784996405757,"lat":30.755557242657403}
-	{"name":"MATHERS PAULA","address":"7066 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.361319,"lat":30.727471}
-	{"name":"WILLIAMS KATHY","address":"7480 PR 4 S","city":"BURNET","state":"TX","zip":"78611","lon":-98.369931,"lat":30.702703}
-	{"name":"LANGLEY HOMES INC","address":"120 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.2495067,"lat":30.726761}
-	{"name":"LANGLEY HOMES INC","address":"116 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.2498394,"lat":30.7267115}
-	{"name":"LANGLEY HOMES INC","address":"100 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.2511615,"lat":30.7265013}
-	{"name":"SASKO MARTIN H","address":"912 DEER SPRINGS","city":"BURNET","state":"TX","zip":"78611","lon":-98.32176774751424,"lat":30.752680829170412}
-	{"name":"THE RANCH AT DELAWARE CREEK POA","address":"201 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.244354,"lat":30.719731}
-	{"name":"GRANITE SHOALS CITY OF","address":"313 TEJAS TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.388808,"lat":30.714785}
-	{"name":"SMITH EVELYN L (DEC'D)","address":"104 TURKEY LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.32143155637476,"lat":30.759268828215937}
-	{"name":"BARBOSA EDWARDO","address":"1005 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32076874039247,"lat":30.75269259609739}
-	{"name":"SMITH JAMES K SR","address":"1001 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.319587,"lat":30.754506}
-	{"name":"BECVAR ARTHUR & PAULETTE","address":"105 LAKEVIEW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32080280271056,"lat":30.753115338720555}
-	{"name":"SPRENCEL REAL ESTATE LP","address":"525 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.261878,"lat":30.751157}
-	{"name":"BIDDY NADINE","address":"137 CR 118A","city":"BURNET","state":"TX","zip":"78611-5626","lon":-98.387841,"lat":30.715355}
-	{"name":"CONTRERAS NESTOR B & BRIANA N GARCIA","address":"103 DEER LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.3230617,"lat":30.763329}
-	{"name":"CSWR-TEXAS UTILITY OPERATING COMPANY LLC","address":"201 LAKEVIEW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.320958,"lat":30.752529}
-	{"name":"HOPPER MOZELLE","address":"108 PECAN LN","city":"BURNET","state":"TX","zip":"78611-2805","lon":-98.32151430612245,"lat":30.761365428571427}
-	{"name":"MANCIL JAMES ROSS & REANNA DAYTON MANCIL","address":"115 CR 118A","city":"BURNET","state":"TX","zip":"78611","lon":-98.387867,"lat":30.715929}
-	{"name":"BIRK CARLA C","address":"901 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32650903148317,"lat":30.77218954584878}
-	{"name":"WILBURN MICHAEL LEE","address":"118 RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.30310877751171,"lat":30.76663896896375}
-	{"name":"KLOSINSKI JOANNA","address":"107 OAK LN","city":"BURNET","state":"TX","zip":"78611-4004","lon":-98.32120054163894,"lat":30.75537782604622}
-	{"name":"SCOTT HERBERT JR (DEC'D)","address":"210 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611-4052","lon":-98.322101,"lat":30.764396}
-	{"name":"GOLDSMITH GAYLYN SANDY","address":"610 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.30345733581723,"lat":30.767699333877307}
-	{"name":"SAMMONS DONALD L","address":"103 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32034641764817,"lat":30.765207226568833}
-	{"name":"GUMBERT BRENDA LYNN","address":"320 DEER SPRINGS LP","city":"BURNET","state":"TX","zip":"78611","lon":-98.320145,"lat":30.764162}
-	{"name":"MCCLURE CARLENE JOHNSON","address":"120 SANDY LN","city":"BURNET","state":"TX","zip":"78611-4085","lon":-98.310249,"lat":30.766053}
-	{"name":"WINK INC LLC","address":"224 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.24789441582763,"lat":30.718504529332577}
-	{"name":"BRAMHALL BRENT G & ANNA L","address":"111 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32026768620369,"lat":30.765192792470675}
-	{"name":"SVC INVESTMENTS BURNET TRACT LLC","address":"109 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.2810042,"lat":30.7447453}
-	{"name":"MCGREGORY STEPHEN & HEATHER COLLIER","address":"7320 PARK ROAD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.386686,"lat":30.709332}
-	{"name":"CASAS SOSIMO & MARGARITA","address":"402 APACHE DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.3935152910165,"lat":30.71446794162881}
-	{"name":"HICKMAN WILLIAM & SANDRA","address":"409 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.3211586765611,"lat":30.7590050688011}
-	{"name":"KLOSINSKI WILLIAM SCOTT","address":"100 TURKEY LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.321368,"lat":30.759253}
-	{"name":"CONTRERAS NESTOR B & BRIANA N GARCIA","address":"101 DEER LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.388383,"lat":30.729004}
-	{"name":"ARREDONDO JULIA","address":"317 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.31988,"lat":30.763902}
-	{"name":"HAGEN KENNETH & RENEE","address":"100 LAVONNA FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.265202,"lat":30.733646}
-	{"name":"ARREDONDO HECTOR","address":"109 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32028736906481,"lat":30.765196400995215}
-	{"name":"GSD HOLDINGS LLC","address":"110 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.31990880411234,"lat":30.76510137491422}
-	{"name":"MCCURRY MICHAEL L & AMANDA LYNN LOFTIN MCCURRY","address":"208 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.31895324291771,"lat":30.762734126774443}
-	{"name":"JAZ TRUST","address":"5555 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.31405,"lat":30.763184}
-	{"name":"WEISINGER LARRY ALLEN","address":"116 YUCCA DR","city":"BURNET","state":"TX","zip":"78611-7195","lon":-98.31184103423581,"lat":30.765376153515238}
-	{"name":"OAK ALLEY STORAGE LLC","address":"2435 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.259176,"lat":30.760222}
-	{"name":"LEATHERWOOD PAMELA & EDWARD B ISBELL","address":"3004 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.264767,"lat":30.759664}
-	{"name":"SANDOVAL-CASTENEDA FRANCISCO NOE","address":"407 TEJAS TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.38882771094586,"lat":30.71436611720065}
-	{"name":"ARREDONDO ESPERANZA","address":"221 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.32304,"lat":30.763973}
-	{"name":"LOWRY DEBRA J","address":"108 MESQUITE LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.3212259554267,"lat":30.756918335605526}
-	{"name":"CRAIG WAYNE","address":"303 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32121353049796,"lat":30.760052945752776}
-	{"name":"DALTON OLEN W II","address":"308 HAPPY HOLLOW","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.301525,"lat":30.663582}
-	{"name":"LARUE JOHN","address":"212 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.322025,"lat":30.76423}
-	{"name":"RUBIO GUALBERTO P","address":"2449 HOOVER VALLEY RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.28920577777778,"lat":30.74279588888889}
-	{"name":"VICKERS FRANCES LESH","address":"112 MESQUITE LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.32125093314006,"lat":30.756923503408288}
-	{"name":"PEARSON LILA","address":"407 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32119157806603,"lat":30.759034750721774}
-	{"name":"PALACIOS JORGE","address":"311 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.320821,"lat":30.763297}
-	{"name":"PEARSON LILA AND JEAN HALL-PEARSON","address":"405 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32122414470498,"lat":30.759064629466664}
-	{"name":"CASTELLANOS CASSANDRA LYANNE","address":"106 DEER LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.38829103313982,"lat":30.7288585610132}
-	{"name":"HOLLEY TERRY S","address":"206 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.32208,"lat":30.765013}
-	{"name":"DAVANZO MATTHEW & RAIGEN JONES","address":"403 TEJAS TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.38884123698195,"lat":30.714387372400218}
-	{"name":"ARREDONDO JACOBO &","address":"102 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.321684,"lat":30.765461}
-	{"name":"ARREDONDO LETICIA","address":"201 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.319527,"lat":30.76432}
-	{"name":"WILBURN MICHAEL LEE","address":"116 RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.3032017543237,"lat":30.766689418265322}
-	{"name":"ARREDONDO LETICIA","address":"321 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.319622,"lat":30.764151}
-	{"name":"GARRETT BARBARA A & NELSON GENE","address":"2011 CR 116B","city":"BURNET","state":"TX","zip":"78611","lon":-98.279466,"lat":30.744342}
-	{"name":"BILLS VICKIE M","address":"112 MICA RD","city":"BURNET","state":"TX","zip":"78611-4093","lon":-98.31000964525626,"lat":30.766539517150623}
-	{"name":"CATLIN TRACE & LIZ","address":"200 LAKEVIEW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.320952,"lat":30.751661}
-	{"name":"RITCHIE JULIA F","address":"528 CR 116A","city":"BURNET","state":"TX","zip":"78611","lon":-98.264051,"lat":30.757056}
-	{"name":"HAMMOND PEGGY","address":"550 Steffey","city":"BURNET","state":"TX","zip":"78611","lon":-98.28259492761893,"lat":30.736353178095747}
-	{"name":"ARREDONDO JACOBO","address":"107 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32030705192594,"lat":30.765200009519752}
-	{"name":"NEUSCH INNOVATIONS LP","address":"6902 PARK ROAD 4 WEST","city":"BURNET","state":"TX","zip":"78611","lon":-98.381758,"lat":30.712951}
-	{"name":"CASTELLANOS CASSANDRA LYANNE","address":"104 DEER LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.38829268875988,"lat":30.72885804067547}
-	{"name":"VASQUEZ INTERESTS FAMILY PARTNERSHIP","address":"3207 PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.302785,"lat":30.679089}
-	{"name":"INKS LAKE VISTA RANCH LLC","address":"9149 W SH 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.365115,"lat":30.757661}
-	{"name":"ARREDONDO JACOBO &","address":"204 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.322194,"lat":30.765263}
-	{"name":"ARREDONDO JACOBO","address":"105 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32032673478706,"lat":30.765203618044293}
-	{"name":"ARREDONDO RAYMUNDO","address":"315 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.320183,"lat":30.763551}
-	{"name":"CASTILLO MARTHA ALICIA SANDOVAL","address":"309 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.321041,"lat":30.763262}
-	{"name":"ANDUJO RAUL ALONSO & ZULY ZAMBRANO DE ANDUJO","address":"111 RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.30341837728682,"lat":30.7665722901737}
-	{"name":"ANDUJO RAUL ALONSO & ZULY ZAMBRANO DE ANDUJO","address":"111 RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.30341837728682,"lat":30.7665722901737}
-	{"name":"BRADY NANCY PEAK LIFE ESTATE","address":"6550 HOOVER VALLEY RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.35139827344328,"lat":30.725265694999738}
-	{"name":"MAY BILLY F","address":"6600 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.329345,"lat":30.767773}
-	{"name":"DELAWARE SPRINGS PROPERTIES ASSOCIATION INC","address":"147 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.2504496,"lat":30.7247932}
-	{"name":"WENDT RICHARD VERNON & VALERIE MARIE","address":"740 WILLIAMS RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.32223336120401,"lat":30.741647471571905}
-	{"name":"BINGHAM DUANE B","address":"2780 CR 120A","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.359716,"lat":30.673695}
-	{"name":"BRINKLEY MANAGEMENT TRUST","address":"1693 CR 116B","city":"BURNET","state":"TX","zip":"78611","lon":-98.278424,"lat":30.745927}
-	{"name":"WIMBERLY PERRY L","address":"121 AMBER CREEK","city":"BURNET","state":"TX","zip":"78611","lon":-98.28051684773325,"lat":30.6821954683173}
-	{"name":"MASON JAMES & MEGAN","address":"6409 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.352129,"lat":30.723165}
-	{"name":"PHAM TOM","address":"103 LAKEVIEW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32080047936398,"lat":30.753122899118864}
-	{"name":"BESSNER BRUCE P & HELEN L","address":"152 REED RANCH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.352636,"lat":30.751415}
-	{"name":"LOIS SUZANNE RAE LAMBERT IRREVOCABLE TRUST","address":"1800 PARK RD 4 S","city":"BURNET","state":"TX","zip":"78611","lon":-98.279557,"lat":30.689494}
-	{"name":"AMIDON BONNIE LIFE ESTATE","address":"552 CR 116A","city":"BURNET","state":"TX","zip":"78611","lon":-98.265887,"lat":30.755786}
-	{"name":"THE JAUNTY RANCHETTE LLC","address":"5677 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.339437,"lat":30.725517}
-	{"name":"PETTY ROBERT B & STACEY ANN","address":"310 VALLEY VIEW EAST","city":"BURNET","state":"TX","zip":"78611","lon":-98.332521,"lat":30.730999}
-	{"name":"CLENDENNEN CHRISTOPHER","address":"815 CR 121","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.28656,"lat":30.666097}
-	{"name":"GARRETT BARBARA A & NELSON GENE","address":"2011 CR 116B","city":"BURNET","state":"TX","zip":"78611","lon":-98.279466,"lat":30.744342}
-	{"name":"ACOSTA FAMILY TRUST","address":"701 CROWN LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.354433,"lat":30.702307}
-	{"name":"SALINAS STEVEN D & SINDRA","address":"2431 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.288785,"lat":30.74112}
-	{"name":"CLASSEN WESTON C & ASHLEY S","address":"1188 CROWN LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.35214288258585,"lat":30.711781193575373}
-	{"name":"MARTIN LEWIS W III","address":"100 BACKBONE CREEK DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.291881,"lat":30.684747}
-	{"name":"GOBLE EARL B JR","address":"5424 S HWY 281","city":"BURNET","state":"TX","zip":"78611","lon":-98.2529645,"lat":30.6970835}
-	{"name":"MCCORD SCOTT RICHARD & JANICE MARIE","address":"194 REED RANCH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.352636,"lat":30.751415}
-	{"name":"HERNANDEZ DOMINIC D & DEADRA N","address":"750 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.28082403578902,"lat":30.67661661701142}
-	{"name":"GOLLNICK CHRISTOPHER & RACHEL","address":"1681 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32844448335513,"lat":30.773516375781867}
-	{"name":"CLENDENNEN WAYNE","address":"824 CR 121","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.292191,"lat":30.662091}
-	{"name":"SEXTON LARRY & KATHY","address":"100 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.28381,"lat":30.687002}
-	{"name":"AMESCUA MIKE & AMESCUA DIANNA","address":"5700 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.3404,"lat":30.726964}
-	{"name":"GHOLSON JIMMY","address":"300 STEFFEY LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.28293897959816,"lat":30.739755207714364}
-	{"name":"SALINAS STEVEN D & SINDRA","address":"2431 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.288785,"lat":30.74112}
-	{"name":"OAK ALLEY STORAGE LLC","address":"2435 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.259176,"lat":30.760222}
-	{"name":"EBELING FAMILY TRUST","address":"4370 PR 4 S","city":"BURNET","state":"TX","zip":"78611","lon":-98.320735,"lat":30.679857}
-	{"name":"BRYAN ROBERT ALAN & KIMBERLY RENE HODDE","address":"1607 CR 116B","city":"BURNET","state":"TX","zip":"78611","lon":-98.27709,"lat":30.747704}
-	{"name":"LESTER WILLIAM ROBERT","address":"6640 W PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.382692,"lat":30.717722}
-	{"name":"MAXWELL STEPHEN & KERRIE","address":"1671 CR 116B","city":"BURNET","state":"TX","zip":"78611","lon":-98.277412,"lat":30.746591}
-	{"name":"PIPPENGER TONY D","address":"1900 CR 116B","city":"BURNET","state":"TX","zip":"78611","lon":-98.280609,"lat":30.745512}
-	{"name":"CATLIN TRACE & LIZ","address":"804 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.3225909,"lat":30.7530017}
-	{"name":"CATLIN TRACE & LIZ","address":"806 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.3226667,"lat":30.7530337}
-	{"name":"CATLIN TRACE & LIZ","address":"204 LAKEVIEW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32097033883166,"lat":30.75169377578424}
-	{"name":"JAZ TRUST","address":"600 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.318474,"lat":30.755592}
+	{"name":"BUCKNER INTERNATIONAL","address":"3833 FM 2342","city":"BURNET","state":"TX","zip":"78611","lon":-98.381677,"lat":30.690932},
+	{"name":"BURNET COUNTY OF","address":"900 COUNTY LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.253048,"lat":30.741522},
+	{"name":"WORTHAM MICHAEL D","address":"118 MOUNTAIN VIEW CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.38312903708484,"lat":30.75030835364432},
+	{"name":"YOUNG FAMILY IRREVOCABLE TRUST","address":"7400 S PARK RD 4","city":"BURNET","state":"TX","zip":"78611-5493","lon":-98.364799,"lat":30.702179},
+	{"name":"COTNER CHERYL","address":"114 BLUEBONNET CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.381266,"lat":30.753234},
+	{"name":"BURNET CITY OF","address":"600 DELAWARE SPRINGS BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.257946415221,"lat":30.715243596191772},
+	{"name":"STASNEY MARK AND PAMELA","address":"401 CR 139","city":"BURNET","state":"TX","zip":"78611","lon":-98.380263,"lat":30.754461},
+	{"name":"BV LLC","address":"108 MOUNTAIN VIEW","city":"BURNET","state":"TX","zip":"78611","lon":-98.2725317,"lat":30.7744919},
+	{"name":"THE STOTTS FAMILY PARTNERSHIP LTD","address":"104 BLUEBONNET CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.38088835118829,"lat":30.753874137760658},
+	{"name":"OBORNY EDMUND L & CHIMENE W LIVING TRUST","address":"326 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27521479562482,"lat":30.77152689171102},
+	{"name":"FAIRLAND INVESTMENTS LLC SERIES 8","address":"5409 S US 281","city":"BURNET","state":"TX","zip":"78611","lon":-98.2522957,"lat":30.6988838},
+	{"name":"ADAMS L MONEY JR","address":"130 MOUNTAIN VIEW CIR","city":"BURNET","state":"TX","zip":"78611-2908","lon":-98.38432768970108,"lat":30.749476736903244},
+	{"name":"FISCO YVONNE VIDRINE REVOCABLE TRUST","address":"108 BLUEBONNET","city":"BURNET","state":"TX","zip":"78611","lon":-98.39822620396107,"lat":30.857727251476902},
+	{"name":"GAMMILL SHAUN LEE  NON-EXEMPT TRUST","address":"110 CR 120B","city":"MARBLE FALLS","state":"TX","zip":"78654-8021","lon":-98.345048,"lat":30.670446},
+	{"name":"RISING STAR CAPITAL INVESTMENTS LP","address":"325 CR 120B","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.339127,"lat":30.672065},
+	{"name":"BELL BILL W & DEIDRE D","address":"630 SCENIC VIEW LOOP","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.328272,"lat":30.669834},
+	{"name":"GIMARC A DENISE & BRIAN A GIMARC TRUSTEES","address":"314 CLEAR CREEK","city":"BURNET","state":"TX","zip":"78611","lon":-98.37798111365895,"lat":30.755299883382637},
+	{"name":"ROMERO LORENZO G ETUX ELIZABETH A","address":"670 PARK RD 4 SOUTH","city":"BURNET","state":"TX","zip":"78611-0485","lon":-98.262779,"lat":30.69398},
+	{"name":"GILLAM CLIFTON G & VANESSA D","address":"530 SCENIC VIEW DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.33336469158498,"lat":30.66884312105015},
+	{"name":"YANDA MICHAEL & CAITLYN","address":"1430 CR 120A","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.342377,"lat":30.666175},
+	{"name":"BAUMAN MANAGEMENT TRUST AGREEMENT","address":"475 CR 120B","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.337493,"lat":30.673057},
+	{"name":"DODGE LLOYD W & LUANNE SMITH DODGE","address":"222 CLEAR CREEK DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.37860715674503,"lat":30.756001759328676},
+	{"name":"TREWHELLA ROSS","address":"485 CROWN TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.349239943293,"lat":30.71534137538675},
+	{"name":"WREYFORD LARRY D - RONNIE WREYFORD (DEC'D) - RANDY WREYFORD - DEBORAH","address":"1900 CR 120A","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.344647,"lat":30.666095},
+	{"name":"PEARCE ANDY L & TERI DORSEY","address":"181 SANDSTONE RIDGE DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.32374622381633,"lat":30.66609260607446},
+	{"name":"FIRST BAPTIST CHURCH BURNET","address":"8320 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.377014,"lat":30.716596},
+	{"name":"ROGERS PAUL M AND C MORRIS DAVIS III","address":"850 STONE MOUNTAIN DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.31821793968719,"lat":30.66754732813579},
+	{"name":"DISEBASTIANO JOE","address":"4037 PARK RD 4 S","city":"BURNET","state":"TX","zip":"78611-5489","lon":-98.312707,"lat":30.675142},
+	{"name":"LOT NO TWO LLC-SERIES 100","address":"5396 S HWY 281","city":"BURNET","state":"TX","zip":"78611","lon":-98.2550299,"lat":30.6910223},
+	{"name":"STEWART DANIEL & LINDA","address":"236 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27275300000001,"lat":30.774200575757575},
+	{"name":"ROCKING R & R RANCH LLC","address":"400 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.29702787275377,"lat":30.744952821613744},
+	{"name":"HABERER RYAN M & KACY","address":"200 HANSFORD RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.34561831911651,"lat":30.728173283835932},
+	{"name":"AVERY GRAHAM & MARY JANE","address":"121 HANSFORD RD (VALLEY VIEW)","city":"BURNET","state":"TX","zip":"78611","lon":-98.345232,"lat":30.729976},
+	{"name":"MURPHY GEOFFREY R & CYNTHIA LITTLE MURPHY","address":"131 MOUNTAIN LAUREL DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.3157673592235,"lat":30.669048486891256},
+	{"name":"LUCKSINGER SALLY","address":"6233 CR 116","city":"BURNET","state":"TX","zip":"78611-5831","lon":-98.350389,"lat":30.723469},
+	{"name":"LANGLEY NICOLE KRISTINE","address":"825 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25185135227272,"lat":30.736099977272726},
+	{"name":"190 CLEAR CREEK LLC","address":"190 CLEAR CREEK DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.378653,"lat":30.756389},
+	{"name":"CWKW LIVING TRUST","address":"112 BIG SKY","city":"BURNET","state":"TX","zip":"78611","lon":-98.27041918367347,"lat":30.769740081632655},
+	{"name":"SIEGFRIED TOMMY AND SANDY REVOCABLE TRUST","address":"1405 CR 120A","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.338996,"lat":30.664935},
+	{"name":"EASTMAN THOMAS FREDERICK & PATRICIA JEAN TRUSTEES","address":"101 E BACKBONE CREEK DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.289516,"lat":30.684785},
+	{"name":"HOOVER STEVE EARL & LAUREL ANN","address":"108 LOST MOUNTAIN RANCH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.29145874198953,"lat":30.68614156284534},
+	{"name":"CHRISTENSEN CIPP & YOLANDA ARREY","address":"3370 FM 3509","city":"BURNET","state":"TX","zip":"78611-5987","lon":-98.304576,"lat":30.739222},
+	{"name":"PERISSOS WINE GROUP LLC","address":"7214 PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.38396,"lat":30.711906},
+	{"name":"OCKER H MARK & CINDY","address":"111 MOUNTAIN LAUREL DR","city":"MARBLE FALLS","state":"TX","zip":"78654-7925","lon":-98.31635026801193,"lat":30.66899943299702},
+	{"name":"FELKNER RUSSELL A & GLENDA K","address":"171 SANDSTONE RIDGE DR","city":"MARBLE FALLS","state":"TX","zip":"78654-7927","lon":-98.32318753384487,"lat":30.666728810421247},
+	{"name":"KEMNITZ DWIGHT A & KAREN","address":"102 BLUEBONNET","city":"BURNET","state":"TX","zip":"78611","lon":-98.39822517199444,"lat":30.85773989306813},
+	{"name":"WILLIAMS CODY & EMILEE TIPPIE","address":"150 WANDERING OAKS CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.253365,"lat":30.732223},
+	{"name":"NOBLES LYNNARD J & SHERALYN","address":"330 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.274889,"lat":30.771908},
+	{"name":"PARSONS JERRY G & CAROLYN S","address":"170 SANDSTONE RIDGE","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.3233834498986,"lat":30.66679225684983},
+	{"name":"DODDS DARRELL DELOSS & MARY ANN","address":"320 SCENIC VIEW DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.33742226852297,"lat":30.669148660799056},
+	{"name":"HOUY MICHAEL T AND STACY M HOUY","address":"830 SCENIC VIEW DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.33211466719469,"lat":30.66787834604351},
+	{"name":"KUHNS JERRY A","address":"230 HANSFORD ROAD","city":"BURNET","state":"TX","zip":"78611","lon":-98.3457181031959,"lat":30.728369376927265},
+	{"name":"BERNHARDT FREDRICK W JR & SHEILA H","address":"1600 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.263281,"lat":30.73324},
+	{"name":"SOLORZANO-ALDAVA JOSE ULISES &","address":"203 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.28188260973538,"lat":30.684873254326646},
+	{"name":"ARMOUR J MICHAEL & PAMELA","address":"147 SANDSTONE RIDGE DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.32166460649752,"lat":30.668065722350363},
+	{"name":"SIEGMUND MICHAEL L & REBECCA S","address":"121 SANDSTONE RIDGE DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.31959516741789,"lat":30.6688084273076},
+	{"name":"SHIELDS RICHARD","address":"112 MOUNTAIN VIEW CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.38281837242124,"lat":30.75100206799217},
+	{"name":"ALLEN DONALD L (DEC'D) & LENITA HARMON ALLEN","address":"316 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27575447698166,"lat":30.77040895961533},
+	{"name":"DEPEW FAMILY REVOCABLE TRUST","address":"1000 STONE MOUNTAIN DR","city":"MARBLE FALLS","state":"TX","zip":"78654-7918","lon":-98.31693,"lat":30.66908},
+	{"name":"MONTANDON JAMES ETUX PAULA A","address":"525 SCENIC DR","city":"MARBLE FALLS","state":"TX","zip":"78654-7907","lon":-98.33321141720289,"lat":30.668691733672773},
+	{"name":"BIRD JUDITH & CAMERON BIRD","address":"111 SANDSTONE RIDGE DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.3188056140151,"lat":30.669108804857228},
+	{"name":"ALLEN GLENN R & SUSAN T","address":"244 SCENIC VIEW DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.33868856824118,"lat":30.668202741708555},
+	{"name":"HILLTOP OAKS LLC","address":"401 HILLTOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.250726,"lat":30.758475},
+	{"name":"MCGINNIS DIXIE L","address":"120 SANDSTONE RIDGE DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.31978499302399,"lat":30.668923776509782},
+	{"name":"SILVA 2002 REVOCABLE TRUST","address":"1001 STONE MOUNTAIN DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.316752,"lat":30.669139},
+	{"name":"OLSON DANIEL & MARGARET LIFE ESTATE","address":"101 MOUNTAIN LAUREL DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.316634,"lat":30.668932},
+	{"name":"EPPES LINDA K TRUSTEE (50% UDI)","address":"400 COWGIRL CROSSING","city":"MARBLE FALLS","state":"TX","zip":"78654-7849","lon":-98.33035,"lat":30.656604},
+	{"name":"HENDRIX WADE","address":"220 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.272761,"lat":30.77404227272727},
+	{"name":"OSMUN MARY ELAINE LIVING TRUST","address":"800 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.28027342386903,"lat":30.676331874844365},
+	{"name":"MILLER DOTTIE L","address":"710 SCENIC VIEW DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.33164318709784,"lat":30.66881421747883},
+	{"name":"HARRIS WILLIAM COLE & KYLIE MORGAN","address":"200 CLEAR CREEK DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.37863867398282,"lat":30.75626798729021},
+	{"name":"FIRST TODD & LISA G","address":"110 BLUEBONNET CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.38088761605573,"lat":30.75330932915346},
+	{"name":"BUTLER DAVID LEE & ELIZABETH WEYRAUCH-BUTLER","address":"1151 STONE MOUNTAIN DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.31938730044001,"lat":30.67072816799607},
+	{"name":"KCA 2023 LIFETIME REVOCABLE TRUST","address":"100 HANSFORD RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.345293,"lat":30.727516},
+	{"name":"GREENWELL DAVID P & JENNIFER A","address":"935 SCENIC VIEW DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.33320156374955,"lat":30.667567871344332},
+	{"name":"HILL HARRIET G","address":"125 CLEAR CREEK","city":"BURNET","state":"TX","zip":"78611","lon":-98.378463,"lat":30.756408},
+	{"name":"DOREMUS TROY & DANNA LAINE","address":"112 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.259455,"lat":30.737638},
+	{"name":"INKS 122MVC LLC","address":"122 MOUNTAINVIEW CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.382697,"lat":30.749713},
+	{"name":"MCMURRY THOMAS ALEXANDER & JESSICA RAE","address":"1101 STONE MOUNTAIN DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.318275,"lat":30.669964},
+	{"name":"MOONEY JAMES & DANIELLE","address":"839 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25128514772727,"lat":30.73621102272727},
+	{"name":"WEST JAMES CHANDLER & JORDAN LANGFORD WEST","address":"1295 PARK RD 4 S","city":"BURNET","state":"TX","zip":"78611","lon":-98.274265,"lat":30.688122},
+	{"name":"HOLMES DAVID L & MARGERY A NEIS-HOLMES","address":"131 SANDSTONE RIDGE DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.32040301334109,"lat":30.668550875908732},
+	{"name":"DONNELLY JO ANN","address":"112 BLUEBONNET CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.3810630072854,"lat":30.753245513019635},
+	{"name":"GILLENWATERS JAMES & KAREN","address":"161 SANDSTONE RIDGE DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.32253027166453,"lat":30.667262151314876},
+	{"name":"POLLARD SCOTT M ETUX DARLENE","address":"216 VISTA HERMOSA","city":"BURNET","state":"TX","zip":"78611","lon":-98.34204095959596,"lat":30.727832161616163},
+	{"name":"GARRETT GRADY J","address":"265 CROWN LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.35573917531104,"lat":30.69887828224086},
+	{"name":"ARREDONDO ALONSO JR & ALMA ROSA ORTIZ ARREDONDO","address":"6412 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.350627,"lat":30.725796},
+	{"name":"HOUTZ DON S & RUTHEY J","address":"208 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2460049,"lat":30.7200879},
+	{"name":"DRAIN MICHAEL R","address":"300 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611-3690","lon":-98.275887,"lat":30.768294},
+	{"name":"STRINGER GEORGE T ETUX CONNIE","address":"149 SCENIC VIEW DR","city":"MARBLE FALLS","state":"TX","zip":"78654-7904","lon":-98.33868001025728,"lat":30.668004317123092},
+	{"name":"BARFIELD DONALD R","address":"121 MOUNTAIN LAUREL DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.3160600360906,"lat":30.669045378856612},
+	{"name":"SCOGGINS ROBERT R & CHERYL K","address":"400 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27601487566041,"lat":30.773338464442897},
+	{"name":"CLARK JOHN H III","address":"600 CR 120B","city":"MARBLE FALLS","state":"TX","zip":"78654-0443","lon":-98.336089,"lat":30.678567},
+	{"name":"INSKEEP RICHARD E & MELISSA R JACOB","address":"224 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27275900000001,"lat":30.774081848484848},
+	{"name":"DAVLIN TERRENCE R II & ANGELA MARIE","address":"5315 PARK RD 4 S","city":"BURNET","state":"TX","zip":"78611","lon":-98.333386,"lat":30.680439},
+	{"name":"HAAS DONNA E & DONALD E LACKEY","address":"750 PAINTED HORSE TRAIL","city":"BURNET","state":"TX","zip":"78611-5904","lon":-98.27347241081544,"lat":30.696940097453},
+	{"name":"CHEATHAM EDNA H","address":"8456 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.379948,"lat":30.71691},
+	{"name":"KISH JOHN PAUL SR & BETTE ANN","address":"504 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27752327667329,"lat":30.77587583569353},
+	{"name":"COMONTOFSKI COY & LOREN","address":"100 PAINTED HORSE TRL","city":"BURNET","state":"TX","zip":"78611-5899","lon":-98.272199,"lat":30.689172},
+	{"name":"SRS BURNETT PROPERTY LLC","address":"2751 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.26343,"lat":30.760009},
+	{"name":"CRAFT-LOPEZ MELISSA LEANN & CARLA ANN CRAFT","address":"310 CLEAR CREEK","city":"BURNET","state":"TX","zip":"78611","lon":-98.37802985020966,"lat":30.75529908442279},
+	{"name":"EUERING FRED L & EDRIAN D","address":"345 LOST MOUNTAIN RANCH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.297387,"lat":30.692785},
+	{"name":"MILLIGAN DENNIS OR BRENDA","address":"240 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.272751,"lat":30.77424015151515},
+	{"name":"LEE DANIEL & MARY","address":"116 BIG SKY","city":"BURNET","state":"TX","zip":"78611","lon":-98.27050624489796,"lat":30.769772775510205},
+	{"name":"BERGGREN KENDALL W & LINDA L","address":"512 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.2777603108085,"lat":30.775912811340845},
+	{"name":"TOGNETTY TIM ETUX CARLEANNE","address":"100 BLUEBONNET CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.381213,"lat":30.754119},
+	{"name":"SCHAUB LONNIE R & VALERIE HAYS-SCHAUB","address":"101 VISTA HERMOSA","city":"BURNET","state":"TX","zip":"78611","lon":-98.341409,"lat":30.726023},
+	{"name":"WARDEN ESTHER","address":"304 CLEAR CREEK DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.37810295597022,"lat":30.755298},
+	{"name":"LENZ MICHAEL D ETUX JANICE","address":"1310 CR 120A","city":"MARBLE FALLS","state":"TX","zip":"78654-8007","lon":-98.345458,"lat":30.664057},
+	{"name":"PERRY HAROLD C (DEC'D) ETUX BARBARA","address":"308 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611-3690","lon":-98.27583245292017,"lat":30.769330837237934},
+	{"name":"BALLARD STEVE A & BARBARA O","address":"1500 CROWN LN","city":"BURNET","state":"TX","zip":"78611-5991","lon":-98.352637,"lat":30.713054},
+	{"name":"ROBERTSON BENJAMIN & JESSICA","address":"650 STONE MOUNTAIN DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.32271950890001,"lat":30.6608220062991},
+	{"name":"GAY KATHY &","address":"189 WANDERING OAKS CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.252965,"lat":30.730732},
+	{"name":"YOUNG SPENCER BURL ETUX CINDY","address":"124 MOUNTAIN VIEW CIR","city":"BURNET","state":"TX","zip":"78611-2908","lon":-98.38363439532353,"lat":30.74974267788454},
+	{"name":"COLVIN JOHN A JR ETUX SUSAN B","address":"320 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27577123024784,"lat":30.77095159449955},
+	{"name":"RICHTER RODNEY J & JANICE D","address":"500 PAINTED HORSE TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.27251616071763,"lat":30.694128338042493},
+	{"name":"WESTPHALEN ELEANOR MORGAN & THOMAS JERALD SMITH","address":"650 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.28094817450379,"lat":30.6777513400041},
+	{"name":"CALDWELL PRISCILLA","address":"120 SUNSET SUMMIT","city":"BURNET","state":"TX","zip":"78611-3740","lon":-98.281141,"lat":30.777357},
+	{"name":"FOWLER DON III","address":"305 BILLY JOE FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25941166160595,"lat":30.732956102276763},
+	{"name":"HENRY LEE AND LURENDA","address":"600 CR 119","city":"BURNET","state":"TX","zip":"78611","lon":-98.38902,"lat":30.711079},
+	{"name":"GALLAGHER SUSAN LEIGH LIVING TRUST","address":"101 BARONS VIEW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.288832,"lat":30.675115},
+	{"name":"SMITH MARK ALLEN & SARAH PETERMAN","address":"501 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.28095491523047,"lat":30.679696316188135},
+	{"name":"WALDRON GREGORY B & SUSAN JS WALDRON","address":"700 STONE MOUNTAIN DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.3215707019554,"lat":30.662529026566933},
+	{"name":"LEGAULT MARILYN & DAVID OWENS","address":"4342 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.316523,"lat":30.73285},
+	{"name":"5388 US HWY 281 LLC - SERIES 104 OF PINKY AND THE BRAIN LLC","address":"5388 S HWY 281","city":"BURNET","state":"TX","zip":"78611-4516","lon":-98.2531185,"lat":30.6966653},
+	{"name":"CARTA JAMES KELLY","address":"5900 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.344561,"lat":30.726112},
+	{"name":"KUCHERA ROY L & ALICE F","address":"1708 CR 120A","city":"MARBLE FALLS","state":"TX","zip":"78654-8000","lon":-98.341973,"lat":30.667524},
+	{"name":"BOKA BRUCE A ETUX KAY L","address":"301 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611-3690","lon":-98.275794,"lat":30.768768},
+	{"name":"DAVIS JASON ROBERT & KRISTIN MARIE","address":"722 N OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25869422342656,"lat":30.744451472467663},
+	{"name":"LARY LOUISE K","address":"114 LOUISE LN","city":"BURNET","state":"TX","zip":"78611-0456","lon":-98.24826074285343,"lat":30.73398886904748},
+	{"name":"BAILEY GARY & BRENDA","address":"801 STONE MOUNTAIN","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.325172,"lat":30.651058},
+	{"name":"CONFIDENTIAL","address":"539 OAK VISTA DR","city":null,"state":"TX","zip":"78611","lon":-98.25940007462074,"lat":30.742737865678652},
+	{"name":"HOLLOWAY DAVID DUDLEY &","address":"7425 W PARK ROAD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.375276,"lat":30.705502},
+	{"name":"BROWNE KEVIN & CARIBE BROWNE","address":"450 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611-5887","lon":-98.28122430253951,"lat":30.680233609187784},
+	{"name":"WILLIAMSON FRED & FAYE","address":"105 WILLIAMS RD","city":"BURNET","state":"TX","zip":"78611-5659","lon":-98.32203695805771,"lat":30.72946155379323},
+	{"name":"GUENTER ALLEN BRENT & CAITLYN","address":"143 WANDERING OAKS CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.252629,"lat":30.7328},
+	{"name":"COWART SUSAN H","address":"570 THRILL HILL TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.30297653831431,"lat":30.686636839089672},
+	{"name":"HALFMANN ROBERT W & VIRGINIA","address":"120 MOUNTAIN VIEW","city":"BURNET","state":"TX","zip":"78611-0236","lon":-98.38327800381471,"lat":30.75010265110791},
+	{"name":"SHULL FAMILY TRUST","address":"5403 PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.335402,"lat":30.680016},
+	{"name":"GUNN LANCE & TRACEY","address":"718 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2473897,"lat":30.7338302},
+	{"name":"WOOD D MARION & MARCELLA","address":"170 GREAT VIEW LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.346092,"lat":30.731757},
+	{"name":"SHANNON JAMES S & LAURIE J","address":"600 STONE MOUNTAIN DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.32370908827954,"lat":30.659019208206825},
+	{"name":"CARRELL LEX II & SHAWNA RENE","address":"2051 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.254501,"lat":30.735861},
+	{"name":"CLEMENTS ALAN J & ANGELA H","address":"416 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27628898319638,"lat":30.773716636038937},
+	{"name":"MCGEE RODNEY R ETUX ROSEMARY","address":"104 SUNSET SUMMIT","city":"BURNET","state":"TX","zip":"78611-3740","lon":-98.281692,"lat":30.775853},
+	{"name":"STEITLE DALE R & RITA P","address":"111 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.264014,"lat":30.728329897959185},
+	{"name":"GARDNER FAMILY TRUST","address":"313 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27554724990571,"lat":30.770833317734603},
+	{"name":"GILMORE SHONDA M & BRIAN K GILMORE","address":"335 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2468473,"lat":30.7294285},
+	{"name":"KONOPKA JOSEPH JOHN & SHIRLIE MARIE","address":"232 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.272755,"lat":30.774161},
+	{"name":"MCBRIDE FAMILY TRUST","address":"136 SPANISH OAKS","city":"BURNET","state":"TX","zip":"78611-4508","lon":-98.26036936585366,"lat":30.72137606829268},
+	{"name":"SADEMAN RICHARD N ETUX ERIKA","address":"3514 FM 3509","city":"BURNET","state":"TX","zip":"78611-5406","lon":-98.306958,"lat":30.737938},
+	{"name":"SCHWARZ JAMES E","address":"134 MOUNTAIN VIEW","city":"BURNET","state":"TX","zip":"78611","lon":-98.384791,"lat":30.749647},
+	{"name":"RILEY AMANDA","address":"103 BIG SKY","city":"BURNET","state":"TX","zip":"78611","lon":-98.27012453061225,"lat":30.769809346938775},
+	{"name":"SCHULZE WELDON E","address":"128 MOUNTAIN VIEW CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.3840749635914,"lat":30.749496509456513},
+	{"name":"BERTRAND DAVID & GALE","address":"1690 CR 116B","city":"BURNET","state":"TX","zip":"78611-0704","lon":-98.279241,"lat":30.74632},
+	{"name":"BOERNER DAVID A & CHERI RENE BOERNER","address":"135 VALLEY VIEW WEST","city":"BURNET","state":"TX","zip":"78611","lon":-98.342303,"lat":30.731905},
+	{"name":"KALEB AND DONNA SHAW REVOCABLE TRUST","address":"101 LOST MOUNTAIN RANCH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.291111,"lat":30.685787},
+	{"name":"MARTINEZ MARIO R","address":"389 CR 139","city":"BURNET","state":"TX","zip":"78611","lon":-98.380595,"lat":30.754688},
+	{"name":"GOLIGHTLY CLINTON A & CHARLI R","address":"244 WANDERING OAKS CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.255518,"lat":30.732576},
+	{"name":"KAISER STUART L & CAROL L","address":"550 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.28106591563714,"lat":30.678992997588733},
+	{"name":"WALSH PHILIP & JANNA","address":"2078 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.25336355555557,"lat":30.73563406060606},
+	{"name":"MCCOMAS BRUCE C & STACIE M TRUST","address":"1301 ROCKY HOLLOW DR","city":"BRIGGS","state":"TX","zip":"78608","lon":-97.92502,"lat":30.88963},
+	{"name":"BRUTON FAMILY REVOCABLE LIVING TRUST","address":"108 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2409563,"lat":30.7282711},
+	{"name":"DOYAL CASSANDRA GENE","address":"701 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.322629,"lat":30.772503},
+	{"name":"LANGLEY RICKY A & ANN K","address":"840 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25124470454546,"lat":30.736218954545453},
+	{"name":"BINGHAM DUANE B","address":"2720 CR 120A","city":"MARBLE FALLS","state":"TX","zip":"78654-7696","lon":-98.361809,"lat":30.669941},
+	{"name":"BOCK CHARLES & PATRICIA","address":"206 VISTA HERMOSA","city":"BURNET","state":"TX","zip":"78611-5425","lon":-98.3420351010101,"lat":30.727810595959596},
+	{"name":"CONFIDENTIAL","address":"420 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.2763139828122,"lat":30.77383366162795},
+	{"name":"GAUT AVERY LIVING TRUST","address":"113 CANYON VIEW","city":"BURNET","state":"TX","zip":"78611","lon":-98.2712008,"lat":30.76802},
+	{"name":"MCCARTNEY WILLIAM H & CHRISTINE M MCCARTNEY TRUSTEES","address":"801 LAS VISTAS","city":"BURNET","state":"TX","zip":"78611","lon":-98.2675081010101,"lat":30.69541019191919},
+	{"name":"SCHUBERT MARK & SUSAN M","address":"600 CR 143","city":"BURNET","state":"TX","zip":"78611-5834","lon":-98.340216,"lat":30.73143},
+	{"name":"DEWITT GEORGE G & RAQUEL G 2013 LIVING TRUST","address":"1420 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.265015,"lat":30.732857},
+	{"name":"TORRES ANDREW & AMANDA","address":"208 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.248672,"lat":30.729734},
+	{"name":"TSF TRUST","address":"115 SCENIC DR","city":"MARBLE FALLS","state":"TX","zip":"78654-7904","lon":-98.336757,"lat":30.666328},
+	{"name":"LEVENS ANITA","address":"550 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.246674,"lat":30.7318487},
+	{"name":"GATTON PHILLIP AND REBECCA LEE","address":"609 CR 120B","city":"MARBLE FALLS","state":"TX","zip":"78654-5006","lon":-98.331059,"lat":30.676195},
+	{"name":"SNOOK RICHARD & REBECCA","address":"318 CLEAR CREEK DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.37793645447343,"lat":30.755317979547936},
+	{"name":"ROCKING R & R RANCH LLC","address":"400 THOMAS RIDGE ROAD","city":"BURNET","state":"TX","zip":"78611","lon":-98.29702787275377,"lat":30.744952821613744},
+	{"name":"ITSCHNER ROY W AND DEBORAH A","address":"111 AMBER CREEK","city":"BURNET","state":"TX","zip":"78611-5952","lon":-98.28087164963556,"lat":30.682117949314648},
+	{"name":"EIKENBARY JOHN E & KIM","address":"1908 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.25570577777778,"lat":30.735175575757577},
+	{"name":"EVANS J C & PHYLIS A","address":"625 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611-3557","lon":-98.2493704,"lat":30.7324123},
+	{"name":"KENDRICK JUDY JEANNE REVOCABLE LIVING TRUST","address":"110 AMBER CREEK","city":"BURNET","state":"TX","zip":"78611","lon":-98.28093430515796,"lat":30.68227436019695},
+	{"name":"HUCKABAY BOBBY & ALITA","address":"211 VALLEY VIEW EAST","city":"BURNET","state":"TX","zip":"78611","lon":-98.337564,"lat":30.729635},
+	{"name":"KING LOUISE LIFE ESTATE","address":"136 PATTON TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.267012,"lat":30.725407},
+	{"name":"JONES TERRY D & ELIZABETH A","address":"1201 STONE MOUNTAIN DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.32072038878992,"lat":30.670991538878994},
+	{"name":"REYES JUAN GERARDO & JULIE JEANENE","address":"110 SANDSTONE RIDGE DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.31898171158525,"lat":30.669212617227156},
+	{"name":"MILLER BOBBY & MARY REVOCABLE TRUST","address":"235 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.272563,"lat":30.774173787878787},
+	{"name":"CLEMENTS EVERETT & LORI","address":"1059 CR 100","city":"BURNET","state":"TX","zip":"78611-3535","lon":-98.264958,"lat":30.727538},
+	{"name":"SCHEWE BRYAN M & PAULA Y","address":"135 RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.30218966131409,"lat":30.76637837604457},
+	{"name":"TEAGUE GLEN RAY JR & JILLIAN HANNAH","address":"100 BIG SKY","city":"BURNET","state":"TX","zip":"78611","lon":-98.270158,"lat":30.769642},
+	{"name":"ROBERTS MARSHA A","address":"120 AMBER CREEK","city":"BURNET","state":"TX","zip":"78611-5952","lon":-98.2805990281731,"lat":30.682347660590114},
+	{"name":"BURNSTAD ROBERT J & DALANA D","address":"508 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27764155334658,"lat":30.77589767138706},
+	{"name":"WALLIN DONALD T ETUX RUTH M","address":"229 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.272566,"lat":30.774114424242423},
+	{"name":"BAILEY MORRIS & KRISTINA","address":"102 LAS VISTAS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.26719589555648,"lat":30.695250559382867},
+	{"name":"DONAHUE DAVID T ETUX ELIZABETH B","address":"750 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611-4104","lon":-98.32358756538532,"lat":30.77221656195169},
+	{"name":"DANIELS JIMMY D & SANDI","address":"202 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.24901902634059,"lat":30.729361528929573},
+	{"name":"SMITH WILLIAM ARDIS","address":"212 HONEY ROCK BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.2558022614153,"lat":30.714001125628663},
+	{"name":"HILL NICK & MISTI","address":"325 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611-5428","lon":-98.29260427599542,"lat":30.743050093710348},
+	{"name":"JENKINS GREG & KELLY","address":"615 CR 100","city":"BURNET","state":"TX","zip":"78611-3539","lon":-98.256812,"lat":30.727224},
+	{"name":"BARKSDALE RUSSELL W & MARY JANE","address":"125 LOST MOUNTAIN RANCH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.29162941241687,"lat":30.686934516792036},
+	{"name":"BATES JOHN F & PATRICIA D","address":"150 TERRY LN","city":"BURNET","state":"TX","zip":"78611-5426","lon":-98.34072054230829,"lat":30.73414254365891},
+	{"name":"PRESLEY ROYCE K & VICTORIA B","address":"200 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611-5892","lon":-98.282071,"lat":30.684825},
+	{"name":"MCGUIRE STACI","address":"103 BARONS VIEW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.286679,"lat":30.675477},
+	{"name":"HILTON CRAIG L & KATHERINE G","address":"850 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611-4105","lon":-98.32552212541208,"lat":30.77184130818255},
+	{"name":"STEWART DAVID A & BARBARA A","address":"100 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611-3551","lon":-98.264114,"lat":30.728494},
+	{"name":"BEUTELMAN PETER H & DARLA V","address":"106 BIG SKY","city":"BURNET","state":"TX","zip":"78611","lon":-98.27028859183673,"lat":30.769691040816326},
+	{"name":"GINDRUP JACK D","address":"7401 W HWY 29","city":"BURNET","state":"TX","zip":"78611-4046","lon":-98.344619,"lat":30.766587},
+	{"name":"WRIGHT CHARLES E AND KRISTIN B","address":"304 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.2505464,"lat":30.7161758},
+	{"name":"VAZQUEZ KIM N REVOCABLE TRUST & SAMUEL VAZQUEZ REVOCABLE TRUS","address":"134 WANDERING OAKS CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.253653,"lat":30.733404},
+	{"name":"MORGAN DAVID LESLIE & CYNTHIA STEWART MORGAN","address":"100 COLLIER LN","city":"BURNET","state":"TX","zip":"78611-5642","lon":-98.342193,"lat":30.728192},
+	{"name":"HEILIGMANN CHADD RYAN & BLAIR NICOLE CANADY","address":"243 WANDERING OAKS CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.255877,"lat":30.731828},
+	{"name":"BOWMAN JEFFREY A & MELANIE J","address":"1901 CR 100","city":"BURNET","state":"TX","zip":"78611-3515","lon":-98.259445,"lat":30.735149},
+	{"name":"HERNANDEZ JOSEF K","address":"345 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.252712,"lat":30.728153},
+	{"name":"LAWRENCE LARRY & BETH","address":"108 BIG SKY","city":"BURNET","state":"TX","zip":"78611-3692","lon":-98.27033212244898,"lat":30.7697073877551},
+	{"name":"LUEDKE RONALD EDWARD & REBECCA LEE MITCHELL","address":"130 GREAT VIEW LN","city":"BURNET","state":"TX","zip":"78611-5837","lon":-98.344377,"lat":30.731032},
+	{"name":"PERSYN HARVEY 0 AND AMBER L LIVING TRUST","address":"601 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611-4103","lon":-98.321491,"lat":30.772387},
+	{"name":"COLEMAN STEVEN MITCHELL","address":"810 N OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25751065306123,"lat":30.744670959183672},
+	{"name":"ENGLERT TAMMIE LEA & STEPHEN G ENGLERT","address":"401 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.281121,"lat":30.680872},
+	{"name":"MAGEE JOE & PATRICIA LIVING TRUST","address":"110 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2520641,"lat":30.7208055},
+	{"name":"HARRELL WILLIAM & TRACI","address":"106 CAMM LARY CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.26024902040817,"lat":30.732651591836735},
+	{"name":"KRIZAN DAVID W & LORI A","address":"582 OAK VIST DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.246755,"lat":30.732319},
+	{"name":"KRUDWIG HAROLD R JR & SUSAN M REVOCABLE TRUST","address":"260 CROWN LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.3557474363862,"lat":30.69857508845275},
+	{"name":"COHRS CYNTHIA & ALLEN","address":"114 BIG SKY","city":"BURNET","state":"TX","zip":"78611-3692","lon":-98.27046271428571,"lat":30.76975642857143},
+	{"name":"HICKERNELL PAUL LIVING TRUST","address":"420 LAS VISTAS ROAD","city":"BURNET","state":"TX","zip":"78611","lon":-98.26953411056692,"lat":30.690539160343047},
+	{"name":"BAKER DEREK SHANE AND DIANA LYNNE","address":"575 THRILL HILL TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.30318807877897,"lat":30.68696930244728},
+	{"name":"GOWIN OLIVIA DOREEN","address":"216 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611-3583","lon":-98.26119880243908,"lat":30.730743124251575},
+	{"name":"MASSEY ROY E JR AND KAREN G","address":"4621 PARK RD 4 S","city":"BURNET","state":"TX","zip":"78611","lon":-98.327497,"lat":30.677539},
+	{"name":"RUBIO GUALBERTO P","address":"2730 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.297822,"lat":30.741712},
+	{"name":"LABHART GLENN K & APRIL M","address":"102 MOUNTAIN VIEW","city":"BURNET","state":"TX","zip":"78611","lon":-98.2725872,"lat":30.7706479},
+	{"name":"DELACRUZ MICHAEL THOMAS & KIMBERLEA ROBERTS DELACRUZ","address":"1400 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611-4127","lon":-98.33197142204118,"lat":30.775017766843145},
+	{"name":"BOORMAN BENJAMIN & DIANNA","address":"2020 CR 100","city":"BURNET","state":"TX","zip":"78611-3548","lon":-98.254704,"lat":30.734464},
+	{"name":"SCHUBERT KEITH & MEREDITH","address":"219 VALLEY VIEW EAST","city":"BURNET","state":"TX","zip":"78611-5639","lon":-98.336264,"lat":30.729827},
+	{"name":"ANDERSON KEITH H & BARBARA L","address":"251 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611-4098","lon":-98.31765825521548,"lat":30.769697162133802},
+	{"name":"BUTLER DAVID SCOTT & MARIANINA FOWLER BUTLER","address":"132 MOUNTAIN VIEW","city":"BURNET","state":"TX","zip":"78611","lon":-98.38457722999169,"lat":30.749510723085127},
+	{"name":"CHILDERS MICHAEL A & SHARON V","address":"115 BILLY JOE FOX DR","city":"BURNET","state":"TX","zip":"78611-3579","lon":-98.25854131818181,"lat":30.729653272727273},
+	{"name":"COOK WAYNE DOUGLAS","address":"235 CR 118","city":"BURNET","state":"TX","zip":"78611","lon":-98.384544,"lat":30.713351},
+	{"name":"CARNEY LEE NOLAN & LAUREN RAE","address":"634 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2470325,"lat":30.7327586},
+	{"name":"MEREDITH JASON G & KRISTIN N","address":"2731 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.29773,"lat":30.739334},
+	{"name":"WILLIAMS CALIB PATRICK","address":"245 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2495122,"lat":30.7164386},
+	{"name":"GRACZYK ANDREW & KATHRYN","address":"1843 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.254126,"lat":30.73598},
+	{"name":"CORBELL DANIEL & CRYSTAL","address":"120 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28131480076455,"lat":30.767727162202736},
+	{"name":"HARGETT ARTHUR DAVID JR & FRANCES DARLENE","address":"118 BIG SKY","city":"BURNET","state":"TX","zip":"78611","lon":-98.2705497755102,"lat":30.76978912244898},
+	{"name":"DEVANEY MICHAEL S & MICHELLE L","address":"1700 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.262111,"lat":30.733454},
+	{"name":"CRAIG EDGAR LEE JR & DEBRA RENE","address":"306 CARDINAL LN","city":"BURNET","state":"TX","zip":"78611-0035","lon":-98.26162874867413,"lat":30.757503866943786},
+	{"name":"SYPHRETT KENNETH AARON & SHANNA JO","address":"448 THRILL HILL TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.29674356500396,"lat":30.689106110502337},
+	{"name":"CARRION MARC & LAKYN","address":"101 BIG SKY","city":"BURNET","state":"TX","zip":"78611","lon":-98.270081,"lat":30.769793},
+	{"name":"HEUSS ROY A & NANCY L","address":"1401 CR 100","city":"BURNET","state":"TX","zip":"78611-3512","lon":-98.266734,"lat":30.732342},
+	{"name":"MOON BRIAN JAY AND CAROL MARIE","address":"811 N OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25746765306123,"lat":30.744509959183674},
+	{"name":"HORN MARY ANN","address":"107 N OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611-3587","lon":-98.2589355,"lat":30.7443008},
+	{"name":"WILKINSON PAUL & DENISE TRUST","address":"502 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2579435,"lat":30.7155478},
+	{"name":"HARRISS ROBERT P & SHARON R","address":"139 PATTON TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.267489,"lat":30.724862},
+	{"name":"GATES GLEN A & PAMELA G","address":"228 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2477539,"lat":30.7183363},
+	{"name":"MAISANO DINO A","address":"120 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611-3551","lon":-98.263914,"lat":30.728493795918368},
+	{"name":"BORAWSKI KATHERINE L & JAMES E","address":"1100 STONE MOUNTAIN DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.318357,"lat":30.669815},
+	{"name":"HORTON THOMAS DOYLE JR & LA DONNA ANN","address":"1921 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.258214,"lat":30.735371},
+	{"name":"HUBBY C MEADE & VIRGINIA SUE","address":"317 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27511896269687,"lat":30.77136160126028},
+	{"name":"PK 4 SERIES OF RIVENDELL LLC","address":"3251 PARK RD 4 S","city":"BURNET","state":"TX","zip":"78611","lon":-98.308879,"lat":30.680851},
+	{"name":"TAYLOR TERESA & SCOTT","address":"201 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611-5526","lon":-98.296098,"lat":30.7449},
+	{"name":"SHEPPARD DENNIS RICHARD & KAREN SUE","address":"408 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27619242078073,"lat":30.773501493295516},
+	{"name":"COSGROVE TERESA & CHARLES COSGROVE","address":"200 COLLIER LN","city":"BURNET","state":"TX","zip":"78611-0969","lon":-98.34343820094678,"lat":30.727877740432685},
+	{"name":"RUBIO ARTURO","address":"1540 WILLIAMS RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.315058,"lat":30.750015},
+	{"name":"SMITH CADE & HALEY","address":"166 REED RANCH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.358221,"lat":30.753336},
+	{"name":"CRYER ALLEN L LIFE ESTATE","address":"2675 CR 120A","city":"MARBLE FALLS","state":"TX","zip":"78654-8004","lon":-98.355761,"lat":30.673351},
+	{"name":"K BAR CABIN LLC","address":"8141 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.374457,"lat":30.71623},
+	{"name":"SCHWAUSCH KEVIN B & ANGELA J","address":"101 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611-3551","lon":-98.264114,"lat":30.72833},
+	{"name":"BRIGGS CHRISTINA & BRANDON T","address":"375 THRILL HILL TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.299909,"lat":30.687445},
+	{"name":"MAKINS BRIAN & BELINDA","address":"244 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.248768,"lat":30.7165166},
+	{"name":"STEPHENS JAMES & NANETTE","address":"101 HONEY ROCK BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.253732,"lat":30.712584},
+	{"name":"WRIGHT GENE D & ALTA J","address":"200 VISTA HERMOSA","city":"BURNET","state":"TX","zip":"78611-5425","lon":-98.34203158585858,"lat":30.727797656565656},
+	{"name":"FARMER BENJAMIN & AARIS","address":"313 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611-4545","lon":-98.2512517,"lat":30.7146228},
+	{"name":"MCMURRAY MICHAEL A & DEBORAH L","address":"104 BIG SKY","city":"BURNET","state":"TX","zip":"78611","lon":-98.27024506122449,"lat":30.76967469387755},
+	{"name":"CAVA JOSEPH & KIRSTEN BRENNA","address":"123 PATTON TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.264911,"lat":30.725434},
+	{"name":"WURSTER DALE A & CYNTHIA","address":"112 BILLY JOE FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25863943863853,"lat":30.729244227934842},
+	{"name":"MONTGOMERY HAROLD & ROSE","address":"201 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.247789,"lat":30.728739},
+	{"name":"EVANS MICHAEL TROY & APRIL","address":"302 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.24938202611062,"lat":30.716174102317552},
+	{"name":"COZBY TRAVIS H","address":"204 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611-0367","lon":-98.26142245060977,"lat":30.730721281062895},
+	{"name":"KINSEY MARCUS & KINSEY NICOLE","address":"130 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611-3551","lon":-98.263814,"lat":30.728493693877553},
+	{"name":"BROWDER PAUL W","address":"1820 CR 116B","city":"BURNET","state":"TX","zip":"78611","lon":-98.279966,"lat":30.746141},
+	{"name":"TORR NA LOCHS RANCH LLC","address":"7055 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.341657,"lat":30.760552},
+	{"name":"MANLOVE BRIAN AZOR AND CECELIA RUTH","address":"201 HONEY ROCK BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.25538710230653,"lat":30.7141158002285},
+	{"name":"WENGER KRISTOPHER & SANDY","address":"124 LOST MOUNTAIN RANCH RD","city":"BURNET","state":"TX","zip":"78611-6017","lon":-98.29183196809073,"lat":30.686876473704107},
+	{"name":"BUSH JOE BAILEY & EVELYN JANE","address":"249 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611-4546","lon":-98.2496457,"lat":30.7158242},
+	{"name":"HART JAMES P & RHONDA A","address":"104 BARONS VIEW DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.287203,"lat":30.677222},
+	{"name":"DENTON CHRIS & SUNYA","address":"116 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28245179777873,"lat":30.767525374027723},
+	{"name":"PEAVY GLENN L ETUX PAT (DEC'D)","address":"1140 SCENIC LOOP (CR 100)","city":"BURNET","state":"TX","zip":"78611-3543","lon":-98.2239954,"lat":30.7608552},
+	{"name":"SHAW JENIFER","address":"216 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611-5427","lon":-98.29616820875927,"lat":30.744911542796014},
+	{"name":"BISEL KENT","address":"510 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.255405,"lat":30.728558},
+	{"name":"FIRESTONE LARRY C ETUX MARTHA","address":"105 SECRET CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25448116326531,"lat":30.713893673469386},
+	{"name":"NICHOLSON JOHN C IV & PAMELA S","address":"103 PATTON TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.264022,"lat":30.726378},
+	{"name":"JUHNKE MERLE R (DEC'D) TRUSTEE","address":"121 CR 143","city":"BURNET","state":"TX","zip":"78611-5838","lon":-98.340811,"lat":30.728527},
+	{"name":"KRIENKE KAY & CHRISTOPHER HALL","address":"1800 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.261265,"lat":30.73376},
+	{"name":"SMITH DANE LAMAR JR & DEBORAH FITCH","address":"1443 WEST PK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.27608648297947,"lat":30.68838648779714},
+	{"name":"VAUGHN STEPHEN & VICKI","address":"457 OAK VISTA DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.2473212,"lat":30.7308328},
+	{"name":"CHUMNEY DONNA L  & DORN GERALD J","address":"209 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2464341,"lat":30.7207583},
+	{"name":"POLING LANCE & MANDEE","address":"6336 PARK RD 4 S","city":"BURNET","state":"TX","zip":"78611","lon":-98.352069,"lat":30.690025},
+	{"name":"MONAHAN GABRIELA ISUANI & MICHAEL WAYNE OATES","address":"342 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2462197,"lat":30.7296134},
+	{"name":"GUTHRIE NATHAN & DESIREE","address":"123 WANDERING OAKS CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.25206,"lat":30.734279},
+	{"name":"STRONG B J LIFE ESTATE","address":"171 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611-5658","lon":-98.29490755931415,"lat":30.744699731045152},
+	{"name":"FULLER JO ANN KLORES","address":"212 VISTA HERMOSA","city":"BURNET","state":"TX","zip":"78611","lon":-98.34203861616162,"lat":30.727823535353536},
+	{"name":"WARD JAMES MONROE & GERI LEE","address":"4400 FM 3509","city":"BURNET","state":"TX","zip":"78611-0707","lon":-98.31918,"lat":30.731942},
+	{"name":"CARLILE JUDY","address":"209 HONEY ROCK BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.25562060567582,"lat":30.714148463158907},
+	{"name":"MENDOZA STEVEN MICHAEL AND EMILY","address":"102 SECRET CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.254646,"lat":30.713976},
+	{"name":"CRAVEN PAUL &  WENDY","address":"324 LOST MOUNTAIN RANCH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.297743,"lat":30.691252},
+	{"name":"BROWN ERIN & KARA LYNN MUESSIG","address":"2104 CR 120A","city":"MARBLE FALLS","state":"TX","zip":"78654-8031","lon":-98.348546,"lat":30.667832},
+	{"name":"MUELLER JAMES M & KATHERINE E","address":"201 BILLY JOE FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.258967,"lat":30.731346},
+	{"name":"SCHULTZE ROBIN JAN & WILLIAM RESIDENCE TRUST","address":"325 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27465929729335,"lat":30.7719484216293},
+	{"name":"BROWN JANSEN & ANNA","address":"103 ROUND UP CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27969587755102,"lat":30.76945614285714},
+	{"name":"COX RICHARD D & DONNA K","address":"700 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.28102312299154,"lat":30.677166705749535},
+	{"name":"HESSLER GEORGE W & CATHERINE B","address":"309 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27556044437142,"lat":30.770134388885314},
+	{"name":"BANDY NANCY OWEN","address":"203 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.261478,"lat":30.73055},
+	{"name":"WOODUL JAMES E & LIDA C","address":"600 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.28101075674864,"lat":30.678370172021122},
+	{"name":"OBERMILLER TERRY L AND CAROLYN L","address":"650 THRILL HILL TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.30140700306134,"lat":30.686548968421054},
+	{"name":"TAYLOR LYNETTE","address":"300 LOST MOUNTAIN RANCH RD","city":"BURNET","state":"TX","zip":"78611-6002","lon":-98.29745173602669,"lat":30.691698648605612},
+	{"name":"TURRUBIARTES ANTONIA GALVAN","address":"5650 FM 3509","city":"BURNET","state":"TX","zip":"78611-7063","lon":-98.338852,"lat":30.727076},
+	{"name":"MITCHELL MICHAEL P (DEDC'D)  AND DEBORAH M","address":"103 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2516952,"lat":30.7197008},
+	{"name":"JACOBSON CATHY C & DOUGLAS M","address":"200 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.320505,"lat":30.769407},
+	{"name":"BOES DAVID H & JOY E","address":"301 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.250589,"lat":30.727878},
+	{"name":"FOTENOT MICHAEL ANDREW","address":"1300 PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.275684,"lat":30.690075},
+	{"name":"BAUM KEVIN L & GWEN D","address":"110 BARONS VIEW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.284762,"lat":30.678079},
+	{"name":"COOK CADDEN LIVING TRUST","address":"102 CAMM LARY CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.26019967346939,"lat":30.732664530612244},
+	{"name":"WAGNER JOHN R & LORI A","address":"111 CANYON VIEW","city":"BURNET","state":"TX","zip":"78611","lon":-98.271757,"lat":30.7680891},
+	{"name":"HALL KEVIN RANDALL & JODIE NOEL","address":"207 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611-4546","lon":-98.2460871,"lat":30.7206082},
+	{"name":"KEH TRUST","address":"851 STONE MOUNTAIN DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.32242886343009,"lat":30.660934756101582},
+	{"name":"PHILLIPS LARRY","address":"850 FM 2341","city":"BURNET","state":"TX","zip":"78611-5816","lon":-98.28949396614541,"lat":30.775381664565884},
+	{"name":"WEBB DAVID R & DIANA C","address":"105 CAMM LARY CIR","city":"BURNET","state":"TX","zip":"78611-3576","lon":-98.26016834693878,"lat":30.732500061224492},
+	{"name":"GOBLE JOHN C & BRENDA","address":"326 CLEAR CREEK DR","city":"BURNET","state":"TX","zip":"78611-7001","lon":-98.3778485298059,"lat":30.755360084318305},
+	{"name":"WILLSON SAMUEL A ETUX ROBIN","address":"111 LOUISE LN","city":"BURNET","state":"TX","zip":"78611-3556","lon":-98.24827680288021,"lat":30.73381024468841},
+	{"name":"ANDERSON ROGER E","address":"732 PARK RD 4 SOUTH","city":"BURNET","state":"TX","zip":"78611-5468","lon":-98.265335,"lat":30.691983},
+	{"name":"VALLAD GARY & CYNTHIA","address":"830 OAK VISTA","city":"BURNET","state":"TX","zip":"78611","lon":-98.25164913636364,"lat":30.736139636363635},
+	{"name":"HUTSON HAROLD E & CHERYL D","address":"357 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.2922833629697,"lat":30.74249538837228},
+	{"name":"WILLIAMS GLORIA","address":"109 CAMM LARY CIR","city":"BURNET","state":"TX","zip":"78611-3576","lon":-98.26021769387755,"lat":30.73248712244898},
+	{"name":"GASTINGER DAVID & CAROL","address":"316 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611-4545","lon":-98.2515745,"lat":30.715196},
+	{"name":"CHAMBLESS LEO BRYAN & VICKIE NEWCOMB CHAMBLESS","address":"137 SHOALS PKWY","city":"BURNET","state":"TX","zip":"78611","lon":-98.38972766759463,"lat":30.71730571101268},
+	{"name":"AXLEY DAVID AND TARA REVOCABLE TRUST","address":"329 VALLEY VIEW EAST","city":"BURNET","state":"TX","zip":"78611","lon":-98.331399,"lat":30.728027},
+	{"name":"BLEWSTER MANAGEMENT TRUST","address":"875 STEFFEY LN","city":"BURNET","state":"TX","zip":"78611-5668","lon":-98.28834954220798,"lat":30.726570240908828},
+	{"name":"MCLAUGHLIN JAMES T & SANDLYN H","address":"115 GREAT VIEW LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.343711,"lat":30.731709},
+	{"name":"VILLARREAL JAMES & BRITTNEY","address":"451 N OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25838778380643,"lat":30.744344997655197},
+	{"name":"CURRENT DUSTIN & CASSANDRA","address":"270 THRILL HILL TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.29666,"lat":30.686576},
+	{"name":"MONTGOMERY JAMES D","address":"1250 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.333647910889,"lat":30.773698257443527},
+	{"name":"REYNOLDS LIVING TRUST","address":"6110 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.314597,"lat":30.77164},
+	{"name":"LESTER WILLIAM ROBERT","address":"6640 W PARK ROAD 4","city":"BURNET","state":"TX","zip":"78611-5474","lon":-98.382692,"lat":30.717722},
+	{"name":"BOYD JOHN O SR","address":"1150 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.33071675727021,"lat":30.772066253266477},
+	{"name":"TOMLINSON STEVEN PAUL & SHIRLEY ELAINE","address":"212 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.24928013011255,"lat":30.72930794942701},
+	{"name":"WEBSTER MARK J & REBECCA A","address":"686 OAK VIST DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.247181,"lat":30.733279},
+	{"name":"STEFFEK DARRELL & KATHERINE","address":"101 SECRET CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.254487,"lat":30.713886},
+	{"name":"SPINKS DARREL D & BETHANY L","address":"121 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611-3551","lon":-98.263914,"lat":30.728329795918366},
+	{"name":"MILLER RICHARD","address":"208 VISTA HERMOSA","city":"BURNET","state":"TX","zip":"78611-5425","lon":-98.34203627272727,"lat":30.72781490909091},
+	{"name":"BARCLAY JOHN & LAUREN C","address":"309 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611-4545","lon":-98.2507314,"lat":30.7150737},
+	{"name":"PETTY ROBERT B & STACEY ANN","address":"310 VALLEY VIEW","city":"BURNET","state":"TX","zip":"78611-0081","lon":-98.33351888470008,"lat":30.731138907617655},
+	{"name":"SPINA FRANK J LIVING TRUST","address":"101 COBBLESTONE","city":"BURNET","state":"TX","zip":"78611","lon":-98.257899,"lat":30.713203},
+	{"name":"BARRETT THOMAS L ETUX VALERIE T","address":"183 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.29529882821367,"lat":30.744767652519307},
+	{"name":"BIRKELAND BRYAN C & DOROTHY L","address":"7320 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.342501,"lat":30.776347},
+	{"name":"SCHAEFER ED AND MARILYN REVOCABLE TRUST","address":"150 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.283009,"lat":30.68582},
+	{"name":"LEGGETT W MICHAEL & RANA C SHIELDS","address":"335 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611-5428","lon":-98.29247121037236,"lat":30.74289885086136},
+	{"name":"MILLER DAN W ETUX KAREN B","address":"100 AMBER CREEK","city":"BURNET","state":"TX","zip":"78611-5952","lon":-98.28127,"lat":30.682203},
+	{"name":"MONTGOMERY VOL H SIBLINGS TRUST","address":"305 FAWN HILL","city":"BURNET","state":"TX","zip":"78611","lon":-98.26080308313519,"lat":30.753922184342198},
+	{"name":"SCHREIBER WENDY JOSETTE","address":"120 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.247313,"lat":30.729965},
+	{"name":"WITTEKIEND STEWART H & JILL H","address":"200 BILLY JOE FOX DR","city":"BURNET","state":"TX","zip":"78611-3580","lon":-98.259153,"lat":30.731308},
+	{"name":"HERTER RALPH E ETUX JEFFIE L","address":"765 CR 100","city":"BURNET","state":"TX","zip":"78611-0413","lon":-98.259512,"lat":30.726008},
+	{"name":"TIPPS DAWN & BOBBY","address":"212 TERRY LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.34184165711065,"lat":30.73388017765767},
+	{"name":"BAILEY DAN L & REBECCA F","address":"225 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611-5526","lon":-98.29621033401482,"lat":30.744918468473625},
+	{"name":"GREEN COLE A","address":"100 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.317738,"lat":30.767282},
+	{"name":"SCOTT TONYA & DENNIS SCOTT","address":"217 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2473523,"lat":30.7199954},
+	{"name":"GOMEZ ELAINE & REYNALDO","address":"200 HONEY ROCK BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.25547185700879,"lat":30.71395714238964},
+	{"name":"DAWES MARCUS DON & AMBER DAWN","address":"104 DOUBLE CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.2464306,"lat":30.7192651},
+	{"name":"COX GEORGE W SR & KATHY SUSAN STUTZ COX","address":"211 CR 143","city":"BURNET","state":"TX","zip":"78611","lon":-98.337906,"lat":30.734032},
+	{"name":"OTT GARY & BARBIE","address":"400 CR 100","city":"BURNET","state":"TX","zip":"78611-3594","lon":-98.253973,"lat":30.728735},
+	{"name":"JORDAN BONNIE G & JERRY M (DEC'D)","address":"217 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611-3583","lon":-98.261206244496,"lat":30.7305719717216},
+	{"name":"THORNLEY BRYAN & LORI","address":"100 THRILL HILL TRAIL","city":"BURNET","state":"TX","zip":"78611-0216","lon":-98.295849,"lat":30.690289},
+	{"name":"DENNY KAREN JANE & DALE EDWARD DENNY","address":"108 LOUISE LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.2481817400295,"lat":30.733984370014745},
+	{"name":"BELAJ ERALD & CHRISTINA","address":"350 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.2814055,"lat":30.6815305},
+	{"name":"WILLIAMS BRENT A & CYNTHIA E","address":"342 THRILL HILL TR","city":"BURNET","state":"TX","zip":"78611","lon":-98.299512,"lat":30.686363},
+	{"name":"CARLTON DAVID B & CELESTE C","address":"1401 PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.276047,"lat":30.686241},
+	{"name":"MEYER JAMES B","address":"214 VALLEY VIEW EAST","city":"BURNET","state":"TX","zip":"78611","lon":-98.336991,"lat":30.732337},
+	{"name":"KINGSBURY PATRICK & ANNETTE LADAWN","address":"527 WILLIAMS RD","city":"BURNET","state":"TX","zip":"78611-0339","lon":-98.322054,"lat":30.738085},
+	{"name":"EPLEY JERI L","address":"701 LAS VISTAS","city":"BURNET","state":"TX","zip":"78611","lon":-98.267348,"lat":30.695141},
+	{"name":"INGRAM BRANDON L & CHRISTINE","address":"3751 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.278171,"lat":30.761162},
+	{"name":"YOUNG COURTNEY C","address":"126 MOUNTAIN VIEW CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.38384285239752,"lat":30.74959723985306},
+	{"name":"LANGFORD RONALD & PATRICIA","address":"110 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611-3551","lon":-98.264014,"lat":30.728493897959186},
+	{"name":"BENT JOHN AND RITA REVOCABLE LIVING TRUST","address":"302 CR 100","city":"BURNET","state":"TX","zip":"78611-3540","lon":-98.251229,"lat":30.729627},
+	{"name":"BUNDY WILLIAM B & LINDA W","address":"950 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32747813126063,"lat":30.771973108847686},
+	{"name":"HUBBELL JACOB MICHAEL & HUBBELL REBECCA ANN","address":"121 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28086910399111,"lat":30.76765079480536},
+	{"name":"LANGFORD CAROL FRANCES","address":"7814 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.370813,"lat":30.719406},
+	{"name":"BRYCE JUDSON & TARA","address":"100 ROUND UP CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.279721,"lat":30.76962},
+	{"name":"STEFFAN JASON & SARA JOY","address":"100 HONEY ROCK BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.253769,"lat":30.712422},
+	{"name":"KRAUS ROLF D & JANICE M AND BRANDON L INGRAM & CHRISTINE M","address":"3747 W SH 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.276907,"lat":30.760802},
+	{"name":"CRANE ANITA WARD","address":"131 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611-3551","lon":-98.263814,"lat":30.72832969387755},
+	{"name":"KLOTZ RICHARD L & WANDA L","address":"215 HONEY ROCK BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.25579598398238,"lat":30.714171233875362},
+	{"name":"CAMPBELL JAMES GREGORY","address":"108 CAMM LARY CIR","city":"BURNET","state":"TX","zip":"78611-3576","lon":-98.26027369387755,"lat":30.73264512244898},
+	{"name":"PHILLIPS MARK L & BEVERLY M","address":"103 CAMM LARY CIR","city":"BURNET","state":"TX","zip":"78611-3576","lon":-98.26014367346939,"lat":30.732506530612245},
+	{"name":"PRINTZIPAL LLC","address":"3610 CR  116","city":"BURNET","state":"TX","zip":"78611","lon":-98.2810042,"lat":30.7447453},
+	{"name":"COLLINS JAMES L & ROSEANNE L","address":"7000 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.360158,"lat":30.72642},
+	{"name":"COLLIE MOLLY ALICE","address":"110 BILLY JOE FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25861287727706,"lat":30.729124455869684},
+	{"name":"KENNEDY ANGELA DOWDLE","address":"701 CR 100","city":"BURNET","state":"TX","zip":"78611-3590","lon":-98.247313,"lat":30.729965},
+	{"name":"WITTEKIEND STEVEN R & RUBY M","address":"307 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611-4545","lon":-98.2504921,"lat":30.7151626},
+	{"name":"MINTER JOHN W & LHIZEL M","address":"201 LOST MOUNTAIN RANCH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.294154,"lat":30.689488},
+	{"name":"MCELREATH DAYNA D AND CALVIN","address":"239 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2489778541059,"lat":30.717265450297617},
+	{"name":"PALMER BRADLEY & MARY","address":"401 THRILL HILL TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.297345,"lat":30.688174},
+	{"name":"MCANELLY ALAN ETUX SHERRYE","address":"210 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611-5427","lon":-98.29614012525556,"lat":30.74490692567761},
+	{"name":"FRANCIS COLIN R & PATTI M","address":"100 MOUNTAIN VIEW","city":"BURNET","state":"TX","zip":"78611","lon":-98.273013,"lat":30.7697488},
+	{"name":"RILEY GINGER G WILCOX","address":"770 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.259864,"lat":30.729269},
+	{"name":"DIXON SHENA","address":"4510 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.320179,"lat":30.731134},
+	{"name":"MICHALEWICZ THOMAS ERNEST & MARY DEE","address":"131 PATTON TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.266355,"lat":30.725031},
+	{"name":"RABY MATT W & JULIE M","address":"133 LONE OAK DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.384463,"lat":30.698444},
+	{"name":"HALLMARK CLAY ETUX KAREN","address":"112 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611-5001","lon":-98.2518803,"lat":30.7210482},
+	{"name":"MIDDLEBROOKS EDWARD L ETUX NANCY","address":"1911 CR 100","city":"BURNET","state":"TX","zip":"78611-3515","lon":-98.258969,"lat":30.735098},
+	{"name":"SCOTT CLIFFORD M","address":"103 N OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611-3587","lon":-98.2589845,"lat":30.7442909},
+	{"name":"CALHOUN JOHNATHAN","address":"110 STEFFEY LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.28380318565218,"lat":30.74331649807265},
+	{"name":"WELCH BOB BAILEY & TERRI JO","address":"312 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.251676,"lat":30.72926},
+	{"name":"THORNLEY MICHAEL","address":"600 THRILL HILL TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.303297,"lat":30.68899},
+	{"name":"OBETS GREGORY A & CYNTHIA D","address":"218 LOST MOUNTAIN RANCH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.29504114285714,"lat":30.689703476190477},
+	{"name":"POWELL KENNETH & NATALIE","address":"2250 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.251216,"lat":30.7359},
+	{"name":"POLLOCK LAURIE E","address":"339 CR 118","city":"BURNET","state":"TX","zip":"78611","lon":-98.385646,"lat":30.713581},
+	{"name":"HAINES DAVID W AND RYCHIE LYNN","address":"436 PARK ROAD 4 SOUTH","city":"BURNET","state":"TX","zip":"78611","lon":-98.259764,"lat":30.691967},
+	{"name":"WHITIS LORA SUE","address":"311 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611-4545","lon":-98.2510351,"lat":30.7148132},
+	{"name":"KELLEY NORMAN G & RITA M","address":"114 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28298448794979,"lat":30.767614434659805},
+	{"name":"WELLS MICHAEL LAWRENCE JR & BROOKLYNN MICHELE GILMORE","address":"227 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2480295291589,"lat":30.718637988017484},
+	{"name":"CONFIDENTIAL","address":"101 LAVONNA FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.265959,"lat":30.733798},
+	{"name":"SMITH CLAYTON H","address":"315 THOMAS RIDGE","city":"BURNET","state":"TX","zip":"78611-5428","lon":-98.29277389648426,"lat":30.74315951720467},
+	{"name":"KATES DANNY C & PAMELA G","address":"104 SECRET CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.25464302083333,"lat":30.713979916666666},
+	{"name":"HARDY GAIL T","address":"1839 CR 100","city":"BURNET","state":"TX","zip":"78611-3536","lon":-98.261562,"lat":30.734755},
+	{"name":"CASON W SCOTT & SUZANNE M PATTON","address":"1600 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32876691407077,"lat":30.77458779964938},
+	{"name":"SCOTT JACOB","address":"1900 116B","city":"BURNET","state":"TX","zip":"78611","lon":-98.280609,"lat":30.745512},
+	{"name":"JACKSON PERRI LEE AND BOBBY W JACKSON","address":"201 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.261649,"lat":30.729963},
+	{"name":"REDICK JAMES RUE & DORISLEE","address":"101 AMBER CREEK","city":"BURNET","state":"TX","zip":"78611","lon":-98.281227,"lat":30.682043},
+	{"name":"BROWN DAVID D C & CYNTHIA M BROWN","address":"320 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.252055,"lat":30.729227},
+	{"name":"BRIANT BRETT H & RACHAEL A","address":"313 CR 100","city":"BURNET","state":"TX","zip":"78611-3549","lon":-98.251574,"lat":30.72796},
+	{"name":"GAYLE STEVEN CLARK - JOE PAULETTE SMITH -  DANIEL WAYNE GAYLE","address":"230 SANDY","city":"BURNET","state":"TX","zip":"78611","lon":-98.31100285714285,"lat":30.768119040816327},
+	{"name":"DEBERRY REVOCABLE TRUST","address":"7625 W HWY 29 ","city":"BURNET","state":"TX","zip":"78611","lon":-98.34793,"lat":30.7663},
+	{"name":"BECKHAM DAVID MICHAEL & NICOLE SCANTLEN BECKHAM","address":"307 DELAWARE SPRINGS","city":"BURNET","state":"TX","zip":"78611-3525","lon":-98.2489348,"lat":30.7187016},
+	{"name":"COCKRELL ERVIN ETUX DENISE","address":"178 THOMAS RIDGE","city":"BURNET","state":"TX","zip":"78611-5657","lon":-98.29383130956847,"lat":30.743624443811257},
+	{"name":"HONEYCUTT LEE MASON ET AL JANE A","address":"1601 PARK RD 4","city":"BURNET","state":"TX","zip":"78611-5898","lon":-98.279683,"lat":30.687009},
+	{"name":"YATES FAMILY TRUST","address":"105 HONEY ROCK BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.25383258002971,"lat":30.71259974022374},
+	{"name":"PERRY JEFFREY S AND MELADY A","address":"814 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.29977346785238,"lat":30.769019965391262},
+	{"name":"MOD RANCH LTD","address":"155 PATTON TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.270712,"lat":30.723604},
+	{"name":"SAMSON ALLAN LEE AND DOLENE SUE","address":"1700 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.326772,"lat":30.773657},
+	{"name":"COFFMAN JAMES H ETUX LYDIA A","address":"1675 CR 100","city":"BURNET","state":"TX","zip":"78611-3541","lon":-98.262537,"lat":30.735134},
+	{"name":"KELLEY MICHAEL J & PAULA P","address":"109 BILLY JOE FOX DR","city":"BURNET","state":"TX","zip":"78611-3579","lon":-98.25859959659631,"lat":30.729064569837107},
+	{"name":"CONFIDENTIAL","address":"107 CAMM LARY CIR","city":"BURNET","state":"TX","zip":"78611-3576","lon":-98.26019302040817,"lat":30.732493591836736},
+	{"name":"THOMPSON THOMAS & TERESA","address":"442 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2465519,"lat":30.7303691},
+	{"name":"BLUE TRUCK RANCH LLC","address":"6395 PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.381456,"lat":30.720221},
+	{"name":"CHRISTIAN MELISSA D & MARK ESCAMILLA","address":"113 COBBLESTONE LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.257283,"lat":30.712282},
+	{"name":"SWINGLER MARK & TAMERA","address":"350 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.31832336308061,"lat":30.770235047463924},
+	{"name":"SAVOY STEPHEN B AND PATRICIA G","address":"105 N OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611-3587","lon":-98.25896,"lat":30.7442959},
+	{"name":"BUSTER DANIEL J ETUX KARA R","address":"106 SPANISH OAKS DR","city":"BURNET","state":"TX","zip":"78611-3667","lon":-98.26040156097561,"lat":30.72148267804878},
+	{"name":"IRVING JOHN W & NANCY A","address":"2079 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.253716,"lat":30.736005},
+	{"name":"TURNER JAMES A & DYANNE C","address":"140 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611-3551","lon":-98.26371400000001,"lat":30.728493591836735},
+	{"name":"GOVAARS HELEN SCOTT & MARYLINDA GOVAARS","address":"658 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.258544,"lat":30.728064},
+	{"name":"POE WILLIAM C & ELIZABETH S","address":"201 CROWN LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.355713,"lat":30.695113},
+	{"name":"SAMFORD PATSY","address":"107 WALLACE RIDDELL DR","city":"BURNET","state":"TX","zip":"78611-4703","lon":-98.2491297,"lat":30.7226891},
+	{"name":"BRINEGAR BY REVOCABLE TRUST","address":"223 SHOAL PKWY","city":"BURNET","state":"TX","zip":"78611-5439","lon":-98.390771,"lat":30.719155},
+	{"name":"GUNTER KEVIN & COLLEEN MARY","address":"105 COBBLESTONE","city":"BURNET","state":"TX","zip":"78611","lon":-98.257692,"lat":30.712903},
+	{"name":"SANE ROBERT P AND NANCY G","address":"630 CR 100","city":"BURNET","state":"TX","zip":"78611-3514","lon":-98.25809,"lat":30.728103},
+	{"name":"JACOBS ANDREA KAY & HOWARD LYNN JACOBS","address":"1151 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611-4120","lon":-98.33068573190837,"lat":30.77206529925151},
+	{"name":"MERRILL CHRISTIAN AND COLLEEN","address":"236 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2483743,"lat":30.7175059},
+	{"name":"SNEJ ENTERPRISES LLC","address":"1750 PARK RD 4","city":"BURNET","state":"TX","zip":"78611-5939","lon":-98.277053,"lat":30.690731},
+	{"name":"THOMAS GLENDA G & PATSY A STARR","address":"101 DOUBLE CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.2473416,"lat":30.7190924},
+	{"name":"DOYLE DEREK","address":"2270 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.250014,"lat":30.736039},
+	{"name":"MILLER LARRY GLENN & LESLIE MARIE","address":"312 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.2512461,"lat":30.7154986},
+	{"name":"OWENS SAM W & JOYCE A","address":"305 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611-7459","lon":-98.2503111,"lat":30.7155226},
+	{"name":"SMITH DUSTIN ROBERT & BRANDY GAIL","address":"975 CROWN LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.35468842899337,"lat":30.70668427377573},
+	{"name":"CONFIDENTIAL","address":"107 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28457947193687,"lat":30.767727914685292},
+	{"name":"THOMAS DEANA","address":"107 LOUISE LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.24823143358164,"lat":30.73380176369441},
+	{"name":"GRAY BOYD & CARESSA GRAY","address":"211 HONEY ROCK BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.25567906511134,"lat":30.714156053397726},
+	{"name":"CUNHA JOHN A & BRIDGET L","address":"400 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.281311,"lat":30.680853},
+	{"name":"COURTRIGHT ELLIOTT G JR & MEGHAN H","address":"186 THRILL HILL TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.294773,"lat":30.6926},
+	{"name":"NEWELL TRACY L & MICHAEL P NEWELL","address":"202 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.26145972530489,"lat":30.730717640531445},
+	{"name":"LANDRY HARRY RAY & LISA ANEESE","address":"104 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28555249962048,"lat":30.767369023319567},
+	{"name":"ULMER JOHN T","address":"1850 PARK RD 4 SOUTH","city":"BURNET","state":"TX","zip":"78611-5811","lon":-98.281879,"lat":30.689884},
+	{"name":"HYNUM AARON & HEATHER","address":"109 COBBLESTONE","city":"BURNET","state":"TX","zip":"78611","lon":-98.257531,"lat":30.712584},
+	{"name":"FRANCIS ROBERT J ETUX PATRICIA","address":"215 CR 100","city":"BURNET","state":"TX","zip":"78611-3547","lon":-98.249515,"lat":30.728438},
+	{"name":"HOWELL BRENDA S","address":"238 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2485072,"lat":30.7172887},
+	{"name":"COLLINS JAMES TRUSTEE","address":"164 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611-5657","lon":-98.2943055977379,"lat":30.74403657654121},
+	{"name":"FREEMAN ALLEN ET UX JOHANNA","address":"120 BILLY JOE FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.258857,"lat":30.73014},
+	{"name":"LONG SALLYE","address":"5505 PR 4 S","city":"BURNET","state":"TX","zip":"78611-0781","lon":-98.338449,"lat":30.683704},
+	{"name":"TURNER JOHN & GERALDINE","address":"107 DOUBLE CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2464826,"lat":30.718716},
+	{"name":"BROAD ALFRED T ETUX LAVERNE REVOCABLE TRUST","address":"7817 CR 116","city":"BURNET","state":"TX","zip":"78611-5633","lon":-98.364123,"lat":30.71534},
+	{"name":"WHITMAN JOHN E & MAXINE REVOCABLE LIVING TRUST","address":"2065 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.254126,"lat":30.73598},
+	{"name":"FLORES WESLEY","address":"233 WANDERING OAKS CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.255059,"lat":30.731389},
+	{"name":"WALTMON MICHAEL WAYNE","address":"151 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.316898,"lat":30.766572},
+	{"name":"EMMA J LP","address":"7650 PR 4 W","city":"BURNET","state":"TX","zip":"78611","lon":-98.382262,"lat":30.702822},
+	{"name":"BLANTON WILLIAM R & JENNIFER","address":"204 HONEY ROCK BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.25558182037054,"lat":30.713972871502765},
+	{"name":"MILLS RAY E ETUX CAROL","address":"1243 CR 100","city":"BURNET","state":"TX","zip":"78611-3510","lon":-98.265551,"lat":30.729613},
+	{"name":"HARDIN DWIGHT","address":"5244 FM 3509","city":"BURNET","state":"TX","zip":"78611-5649","lon":-98.33228,"lat":30.727625},
+	{"name":"WOOTTON JOE L ETUX EDITH M","address":"1551 CR 100","city":"BURNET","state":"TX","zip":"78611-3513","lon":-98.264548,"lat":30.734647},
+	{"name":"POHLMEIER VIRGINIA L","address":"100 WALLACE RIDDELL DR","city":"BURNET","state":"TX","zip":"78611-3532","lon":-98.2476033,"lat":30.7233223},
+	{"name":"WELLS FRED GENE & LOU ADAH WILLIAMS","address":"7235 PR 4 W","city":"BURNET","state":"TX","zip":"78611-5457","lon":-98.368491,"lat":30.711991},
+	{"name":"BAKER KEVIN R","address":"1350 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.33276604133978,"lat":30.77492694057009},
+	{"name":"SAVAGE ROBERT E & LINDA K","address":"6802 W PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.383009,"lat":30.71554},
+	{"name":"MURDOCH ROBERT CHARLES & SHARON","address":"219 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.29618225051112,"lat":30.744913851355218},
+	{"name":"PIGG DONALD E & LANITA J","address":"1390 CR 100","city":"BURNET","state":"TX","zip":"78611-3511","lon":-98.264838,"lat":30.732404},
+	{"name":"JONES LOUISE B","address":"101 N OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.259009,"lat":30.744286},
+	{"name":"SPILLER GORDON C & SOLANYELA R","address":"1311 CR 100","city":"BURNET","state":"TX","zip":"78611-3511","lon":-98.265363,"lat":30.730894},
+	{"name":"WILCOX JK TRUST","address":"109 WALLACE RIDDELL DR","city":"BURNET","state":"TX","zip":"78611-0223","lon":-98.2494658,"lat":30.7226764},
+	{"name":"PULLIN ROBERT SCOTT & ASHLEY D","address":"2400 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.289818,"lat":30.745853},
+	{"name":"DIETER FREDERICK W JR & JO EVELYN TRUSTEES","address":"1345 CR 100","city":"BURNET","state":"TX","zip":"78611-3511","lon":-98.266346,"lat":30.731549},
+	{"name":"HASKIN KATHLEEN S & GLEN DEWEY HASKIN","address":"2091 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.253305,"lat":30.736031},
+	{"name":"MILLER KIM A","address":"114 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611-5001","lon":-98.2517964,"lat":30.7212819},
+	{"name":"ARREDONDO HECTOR","address":"219 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.322819,"lat":30.763759},
+	{"name":"LIVINGSTON BRADLEY & DEBRA K","address":"211 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.2961448058395,"lat":30.744907695197345},
+	{"name":"LILES RYAN MATTHEW & JULIE","address":"801 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611-5890","lon":-98.28021235460838,"lat":30.67650929333307},
+	{"name":"GILMORE GLEN ETUX HOLLY","address":"2701 FM 3509","city":"BURNET","state":"TX","zip":"78611-7128","lon":-98.296128,"lat":30.739689},
+	{"name":"WESSEL BARBARA J TRUSTEE","address":"109 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28402885035578,"lat":30.767793329445226},
+	{"name":"MALFER RICHARD JOSEPH & MEGAN","address":"1300 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.33338868752043,"lat":30.774452242798077},
+	{"name":"LANGE LYNNE V & TRAVIS D LANGE JR","address":"213 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.26128388892572,"lat":30.730565694086856},
+	{"name":"GUTIERREZ REGGIE &","address":"700 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.267392,"lat":30.754811},
+	{"name":"PATTON DAVID L & CARRIE BECKHAM","address":"4850 FM 3509","city":"BURNET","state":"TX","zip":"78611-5020","lon":-98.326498,"lat":30.730523},
+	{"name":"ZIPPIERE WILLIAM J & JUDITH W","address":"102 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.285944,"lat":30.766966},
+	{"name":"HUIE JOHN EDDIE JR & SARAH SHAW","address":"111 TRIOPS TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.285617,"lat":30.679718},
+	{"name":"RICKABY KEITH ETUX BRENDA","address":"700 N OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611-3597","lon":-98.258898,"lat":30.744399},
+	{"name":"POWALS DARLENE L","address":"326 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.252659,"lat":30.729126},
+	{"name":"CALLAWAY REMINGTON FAMILY TRUST","address":"522 LAS VISTAS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.2601536015094,"lat":30.697117358961012},
+	{"name":"SULLIVAN ROSALIE MATTHEWS","address":"105 LAVONNA FOX DR","city":"BURNET","state":"TX","zip":"78611-0201","lon":-98.266552,"lat":30.734111},
+	{"name":"YEAKEL THOMAS BARRY & PAULINE JUNE (DECSD)","address":"3615 PARK RD 4 S","city":"BURNET","state":"TX","zip":"78611-0444","lon":-98.310728,"lat":30.679411},
+	{"name":"BURNET RANCH INVESTMENTS LLC","address":"3221 FM 3509","city":"BERTRAM","state":"TX","zip":"78605","lon":-98.308279,"lat":30.709281},
+	{"name":"HEARNSTEAD TRUST","address":"912 PK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.267154,"lat":30.691533},
+	{"name":"ROBINSON JOHN & MACIE","address":"219 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611-4546","lon":-98.2475101,"lat":30.719745},
+	{"name":"HAYS SUZANNE & BILLY HAYS","address":"108 LAVONNA FOX DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.266529,"lat":30.734741},
+	{"name":"MCBURNETT KEITH R & PATRICIA J","address":"315 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.2514984,"lat":30.7144073},
+	{"name":"STRAIN ROBERT C & KORI JOHNS","address":"231 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.24835339744544,"lat":30.71818417865549},
+	{"name":"CONFIDENTIAL","address":"232 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2480726,"lat":30.7179101},
+	{"name":"FREEMAN JON & CONNIE","address":"205 BILLY JOE FOX DR","city":"BURNET","state":"TX","zip":"78611-3580","lon":-98.25898095918367,"lat":30.731396897959183},
+	{"name":"PACHLHOFER JAMES L","address":"801 CROWN LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.355677,"lat":30.701187},
+	{"name":"GOSSETT MIKE & KAREN ELIZABETH","address":"105 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.2850996198448,"lat":30.767554452254377},
+	{"name":"SMITH FLOYD & CHEREE","address":"204 BILLY JOE FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25916695918367,"lat":30.731358897959183},
+	{"name":"GONZALES JOSEPH R & DIAMANTINA GONZALES","address":"212 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2466876,"lat":30.7198514},
+	{"name":"ERCHINGER ROBERT C","address":"99 BIG SKY","city":"BURNET","state":"TX","zip":"78611","lon":-98.2689303,"lat":30.7664999},
+	{"name":"WERCHAN MARY E","address":"7505 W PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.379162,"lat":30.704577},
+	{"name":"BRYANT SANDRA K","address":"104 HONEY ROCK BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.25387345567084,"lat":30.712440944101512},
+	{"name":"LEHRMANN JAMES A ETUX LUCRETIA A","address":"2460 CR 120A","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.355267,"lat":30.666909},
+	{"name":"STRATA TRUST CO CUSTODIAN JAY P OTTO IRA #200801007","address":"242 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2488995836374,"lat":30.716791353837646},
+	{"name":"KNAPE DAVID L & JUDY Y","address":"150 CIRCLE OAKS DR","city":"BURNET","state":"TX","zip":"78611-0925","lon":-98.263614,"lat":30.72849348979592},
+	{"name":"CARPENTER BRIAN & AMANDA L","address":"210 LEVON LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.324796,"lat":30.731127},
+	{"name":"THOMPSON RICHARD L & CAROL J REVOCABLE TRUST","address":"114 WALLACE RIDDELL DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2497302,"lat":30.7232697},
+	{"name":"HARRIS RICK & LORRAINE ROBERTS","address":"602 CR 118","city":"BURNET","state":"TX","zip":"78611-5447","lon":-98.388326,"lat":30.71694},
+	{"name":"TODD STANFORD C","address":"236 CR 100","city":"BURNET","state":"TX","zip":"78611-0091","lon":-98.250429,"lat":30.72985},
+	{"name":"BACKA CAROL ANN","address":"1301 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.265919,"lat":30.730369},
+	{"name":"SEAVER CHARLES R III & KAREN A SEAVER REVOC LIVING TRUST","address":"311 DELAWARE SPRNGS BLVD","city":"BURNET","state":"TX","zip":"78611-3525","lon":-98.249523,"lat":30.71862},
+	{"name":"CANALES MAYRA L & JASON","address":"111 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28348157795176,"lat":30.76772844417189},
+	{"name":"CHERVENKA MATTHEW T & TAMMY","address":"300 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.281533,"lat":30.682174},
+	{"name":"TERRELL RYE C & EILEEN","address":"2000 CR 116B","city":"BURNET","state":"TX","zip":"78611","lon":-98.281695,"lat":30.744936},
+	{"name":"CHURCHILL BRAD LEE & GRETCHEN G","address":"310 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.2509852,"lat":30.7156731},
+	{"name":"HUGHES SCOTT A ETUX CHRISTINA M","address":"311 SUNSET DR","city":"BURNET","state":"TX","zip":"78611-9737","lon":-98.25811541572818,"lat":30.75627230528102},
+	{"name":"MOHTASHAMI SANA & VAJIHEH","address":"605 CR 120B","city":"MARBLE FALLS","state":"TX","zip":"78654-8015","lon":-98.332975,"lat":30.67348},
+	{"name":"BROOKS THOMAS K & CYNTHIA D","address":"834 OAK VISTA DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.25148736363637,"lat":30.736171363636362},
+	{"name":"WOMACK MIKE AND JANICE FAMILY TRUST","address":"235 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.24867726573197,"lat":30.717730369293502},
+	{"name":"CLARK JAMES E & DIANE M","address":"308 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.24952621792644,"lat":30.716174292179264},
+	{"name":"GEUTHER GREG","address":"115 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.248139904611,"lat":30.72495720455759},
+	{"name":"JESUCRISTO LA ROCA VIVA INC","address":"618 PARK RD 4 SOUTH","city":"BURNET","state":"TX","zip":"78611-5467","lon":-98.261054,"lat":30.69216},
+	{"name":"PAYNE DANIEL SCOTT ETUX LESLEY A","address":"2500 CR 120A","city":"MARBLE FALLS","state":"TX","zip":"78654-8014","lon":-98.35657,"lat":30.667417},
+	{"name":"TINDELL JAMES & KARMAN","address":"2661 FM 3509","city":"BURNET","state":"TX","zip":"78611-7441","lon":-98.294678,"lat":30.73883},
+	{"name":"BECKWITH DANA L","address":"111 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611-5002","lon":-98.2512699,"lat":30.720636},
+	{"name":"WARD COREY AND CHELSIE","address":"112 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28345148334198,"lat":30.767916965626622},
+	{"name":"HAGEN KENNETH & RENEE","address":"104 LAVONNA FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.265735,"lat":30.734693},
+	{"name":"LEONETTI LINDA","address":"109 NORTH OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.257706,"lat":30.73731},
+	{"name":"BORCHARDT JOHN R ETUX LINDA","address":"1145 PR 4 S","city":"BURNET","state":"TX","zip":"78611-5984","lon":-98.272352,"lat":30.68754},
+	{"name":"DERRICK LEON E & SALLY","address":"404 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2557066,"lat":30.7155247},
+	{"name":"MEREDITH LEONARD","address":"536 STONE MOUNTAIN DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.32466948604713,"lat":30.65656633136072},
+	{"name":"LERMA CHARLES & IRMA","address":"506 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3558","lon":-98.2583103,"lat":30.7159937},
+	{"name":"COLLINSWORTH JACK AND","address":"121 AVERY SPUR","city":"BURNET","state":"TX","zip":"78611","lon":-98.24997256117494,"lat":30.72553083344178},
+	{"name":"OVER THE MOON HIGHLANDS LLC","address":"1604 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.2810042,"lat":30.7447453},
+	{"name":"BARKER DOYLE & DONNA","address":"102 ROUND UP CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27973987755101,"lat":30.769616142857142},
+	{"name":"CARLEY ALFRED W & JANICE K LIVING TRUST","address":"1838 CR 100","city":"BURNET","state":"TX","zip":"78611-3536","lon":-98.260887,"lat":30.733885},
+	{"name":"NORRED WILLIAM E JR ETUX REBECCA","address":"1601 CR 100","city":"BURNET","state":"TX","zip":"78611-3541","lon":-98.263536,"lat":30.734471},
+	{"name":"RUSHING CHRISTINE","address":"318 DELAWARE SPRINGS","city":"BURNET","state":"TX","zip":"78611-3516","lon":-98.2498792,"lat":30.7191845},
+	{"name":"HOWARD DENNIS CLAYTON & JERRI","address":"308 DELAWARE SPRINGS BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.2491442,"lat":30.7202494},
+	{"name":"BROWN SARAH MENDELL","address":"106 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611-7429","lon":-98.2522785,"lat":30.7203081},
+	{"name":"ALLEN JACK & AMBER","address":"901 CROWN LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.35561474964352,"lat":30.704519395794524},
+	{"name":"BOPRECK SAO","address":"250 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2490148,"lat":30.7157596},
+	{"name":"BULLARD LEE THOMAS & CATHERINE ANNE","address":"411 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.29707788689224,"lat":30.744937952545552},
+	{"name":"ROMERO GABRIEL ETUX JENNIFER E","address":"606 PR 4 S","city":"BURNET","state":"TX","zip":"78611-5467","lon":-98.260724,"lat":30.691917},
+	{"name":"COMPTON RUPERT D","address":"223 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2478336,"lat":30.7192824},
+	{"name":"JERNEJCIC THOMAS M SR & GRACIELA","address":"222 VALLEY VIEW EAST","city":"BURNET","state":"TX","zip":"78611-5638","lon":-98.336003,"lat":30.731811},
+	{"name":"OTTO JAY P","address":"240 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.24883577818319,"lat":30.71700480511686},
+	{"name":"BEHRENS MARK","address":"110 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.284022680543,"lat":30.76797045728655},
+	{"name":"BURKHALTER DANNY & ERIN","address":"314 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.2513892,"lat":30.7153163},
+	{"name":"ROMERO LORENZO","address":"700 PR 4 S","city":"BURNET","state":"TX","zip":"78611","lon":-98.264002,"lat":30.69195},
+	{"name":"RIEGER BARBARA","address":"304 LEVON LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.324652,"lat":30.733022},
+	{"name":"ORR IRA R","address":"233 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611-4546","lon":-98.2487172,"lat":30.7181567},
+	{"name":"BOURKE JACK & MARY","address":"214 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.249605,"lat":30.729642},
+	{"name":"FIPPS DOUGLAS & MICHELE","address":"317 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.2517065,"lat":30.7142522},
+	{"name":"CLARK DOROTHY MARIE KENYON","address":"322 DELAWARE BLVD","city":"BURNET","state":"TX","zip":"78611-3516","lon":-98.2503443,"lat":30.7186626},
+	{"name":"GREGG GUY ADAM & SAVANNA","address":"109 LAVONNA FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.267329,"lat":30.734405},
+	{"name":"WOESSNER JOHN","address":"192 TOM KITE DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.246109,"lat":30.723685},
+	{"name":"COX CAROL & MARK COX TRUSTEES","address":"607 CR 120B","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.331014,"lat":30.674232},
+	{"name":"KING MYRTH KODY & STEPHANIE P","address":"104 CAMM LARY CIR","city":"BURNET","state":"TX","zip":"78611-7411","lon":-98.26022434693878,"lat":30.73265806122449},
+	{"name":"RODGERS HEIDY ELLISOR","address":"116 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2515903,"lat":30.7215579},
+	{"name":"DUNHAM HERMAN & PATRICIA","address":"133 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.279434,"lat":30.769467},
+	{"name":"FRANKLIN IRENE EMMA","address":"105 BRUCE COVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.2526591,"lat":30.7149827},
+	{"name":"GATLIN RICHARD & ALLYSSA GATLIN","address":"208 STEFFEY LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.28321835957577,"lat":30.74101460247511},
+	{"name":"RYE JEROD A & STEPHANIE M","address":"214 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2470278,"lat":30.7195133},
+	{"name":"CLARK KEVIN JAMES & KASSANDRA E HEARN","address":"401 QUAIL TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.26131416161616,"lat":30.75484406060606},
+	{"name":"BOONE THOMAS DALE & GAYLENE","address":"1480 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.33068251478969,"lat":30.774995843669924},
+	{"name":"PRICE MARTIN RICHARD & MARTHA ANN","address":"125 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.27977911088408,"lat":30.76787457126149},
+	{"name":"COSGROVE ALICEN L & RICHARD G TATE","address":"115 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28250998591115,"lat":30.76734610134591},
+	{"name":"HOUSSIAN JONATHAN & JENNIFER","address":"226 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.24802176914486,"lat":30.71832173513908},
+	{"name":"NELSON NATALIE ANNE","address":"303 DELAWARE SPRINGS BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.2481776,"lat":30.7202938},
+	{"name":"HERRERA BEN & BLYSS","address":"101 WALLACE RIDDELL DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.248265,"lat":30.7227267},
+	{"name":"HARTIG LINDA KAY","address":"100 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611-5001","lon":-98.2525191,"lat":30.719667},
+	{"name":"LOUGH WILLIAM J & GLENDA LANETTE","address":"116 BILLY JOE FOX DR","city":"BURNET","state":"TX","zip":"78611-3579","lon":-98.258725,"lat":30.729606},
+	{"name":"MADERE JEFFREY & ANGELIQUE L","address":"600 PAINTED HORSE","city":"BURNET","state":"TX","zip":"78611-5944","lon":-98.27330719735966,"lat":30.69512483092293},
+	{"name":"HOGAN DONALD WAYNE & JANET SUE","address":"208 DELAWARE SPRINGS BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.2516841292024,"lat":30.716358224540766},
+	{"name":"WOOLSEY ROSE M & MICHAEL D BRASUEL JR","address":"5304 S HWY 281","city":"BURNET","state":"TX","zip":"78611","lon":-98.2519783,"lat":30.6996723},
+	{"name":"SIERRA RAUL S","address":"360 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.253531,"lat":30.728838},
+	{"name":"WHISENANT LOVING TRUST","address":"407 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2559862,"lat":30.7149207},
+	{"name":"COLLIER KENDALL LEE & CYNTHIA DAVIS COLLIER","address":"241 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.29628522335804,"lat":30.744930780789375},
+	{"name":"MANN ROBERT A & ELIZABETH A MCPHERSON MANN","address":"101 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2518497,"lat":30.719418},
+	{"name":"LEWIS RICHARD & CAMILLE","address":"416 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2573418,"lat":30.7152866},
+	{"name":"FAIRCHILD WILLIAM W & RUBY L AND MARK W FAIRCHILD","address":"116 AVERY SPUR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25007729972131,"lat":30.72567959322029},
+	{"name":"HEESCH KAREN E","address":"243 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2493054,"lat":30.7168258},
+	{"name":"COKER CARLOS D ETUX DONNA A","address":"104 DENNY FOX","city":"BURNET","state":"TX","zip":"78611-5001","lon":-98.2524455,"lat":30.7200988},
+	{"name":"BIRKHEAD WILLIAM R & DONA","address":"300 PAINTED HORSE TRL","city":"BURNET","state":"TX","zip":"78611-5931","lon":-98.27227592139633,"lat":30.691684769488596},
+	{"name":"OLDAKER MICHAEL R (DEC'D) & CYNTHIA","address":"340 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.253147,"lat":30.72894},
+	{"name":"SUMMERS MICHAEL Z","address":"310 DELAWARE SPRINGS","city":"BURNET","state":"TX","zip":"78611","lon":-98.249243,"lat":30.7200363},
+	{"name":"BALL CLAYBOURN H & PATRICIA","address":"221 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2476362,"lat":30.7195058},
+	{"name":"LONGACRE WARREN R ETUX MARILYN S","address":"119 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611-5002","lon":-98.2508224,"lat":30.7218166},
+	{"name":"BANNISTER JOSEPH A & SHAYNAH NESHAMA BANNISTER TRUSTEES","address":"7300 PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.383058,"lat":30.708662},
+	{"name":"RYCHCIK DARA WINN","address":"129 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.27915588638758,"lat":30.768389589356715},
+	{"name":"BUSS DONALD H","address":"315 CR 118A","city":"BURNET","state":"TX","zip":"78611-9670","lon":-98.386476,"lat":30.713142},
+	{"name":"CORLEY RONALD & BEVERLY","address":"105 WALLACE RIDDELL DR","city":"BURNET","state":"TX","zip":"78611-3532","lon":-98.2488624,"lat":30.7226839},
+	{"name":"BIRD ALICE J","address":"1449 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.266867,"lat":30.733746},
+	{"name":"KELLEY REBECCA, DOYLE DUNN & GLENDA DUNN","address":"111 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.24801335459708,"lat":30.724933769369827},
+	{"name":"SYPGLTXI LLC A SERIES OF SYPGLTX LLC","address":"106 IROQUOIS DR.","city":"BURNET","state":"TX","zip":"78611","lon":-98.39032395302013,"lat":30.715189926174496},
+	{"name":"FAULKENBERRY RONALD G ETUX SHERRYE","address":"177 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.29509972578413,"lat":30.744750533431905},
+	{"name":"MILLER JEREMY & JENNIFER","address":"101 WILCOX DR","city":"BURNET","state":"TX","zip":"78611-3527","lon":-98.2480485,"lat":30.7208786},
+	{"name":"CASTRO ALFREDO LOPEZ","address":"103 DOUBLE CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2470629,"lat":30.7189547},
+	{"name":"HOLZ DANIEL & CHAREA","address":"111 WALLACE RIDDELL DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2496967,"lat":30.7229173},
+	{"name":"WOODWARD CRAIG & NONA","address":"105 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2516114,"lat":30.7198914},
+	{"name":"ARELLANO MARGARITO","address":"1610 CR 116B","city":"BURNET","state":"TX","zip":"78611","lon":-98.278682,"lat":30.747308},
+	{"name":"GRAHAM KENNETH P & BEVERLY F","address":"112 WALLACE RIDDELL DR","city":"BURNET","state":"TX","zip":"78611-3532","lon":-98.2499898,"lat":30.7235047},
+	{"name":"COURTNEY KENNETH EUGENE & HEATHER","address":"2938 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.269722,"lat":30.761674},
+	{"name":"TANGORRA FRANK & TERESA","address":"898 NORTH OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.255818,"lat":30.745005},
+	{"name":"GEORGE MARVIN JACOB & RACHAEL NACOLE","address":"3524 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.308288,"lat":30.737161},
+	{"name":"SAVAGE SARAH & NOLAN APARICIO","address":"432 PAINTED HORSE TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.2721589162224,"lat":30.69335582047658},
+	{"name":"BRUDNICKI RANDALL & SUSAN","address":"1819 CR 116B","city":"BURNET","state":"TX","zip":"78611","lon":-98.278973,"lat":30.745617},
+	{"name":"MATEJOWSKY BETTY A","address":"301 BACKBONE CREEK DRIVE EAST","city":"BURNET","state":"TX","zip":"78611","lon":-98.287762,"lat":30.67894},
+	{"name":"MATTOX NATHAN J & JENNIFER E","address":"234 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2483282,"lat":30.7177098},
+	{"name":"FRIEDRICH DENNIS & GLORIA","address":"127 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.27923411433058,"lat":30.767986459489556},
+	{"name":"HORTON DEAN R & DEBORAH M","address":"1150 PR 4 S","city":"BURNET","state":"TX","zip":"78611","lon":-98.273242,"lat":30.69066},
+	{"name":"KERBY WILLIAM D & BONNIE J","address":"204 STEFFEY LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.2832346797879,"lat":30.741068301237558},
+	{"name":"BIGGS DOYLE D & JULIE A","address":"131 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.27929494319379,"lat":30.768928294678357},
+	{"name":"SEWARD LAWRENCE RAY & SIDONEE KAY","address":"300 DELAWARE SPRINGS DR","city":"BURNET","state":"TX","zip":"78611-3516","lon":-98.2487713,"lat":30.721188},
+	{"name":"ARRIAGA ALBERTO","address":"6188 W HWY 29 ","city":"BURNET","state":"TX","zip":"78611","lon":-98.320277,"lat":30.76667},
+	{"name":"CASTANEDA DAVID & GUADALUPE RODRIGUEZ","address":"106 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28514801075751,"lat":30.767767009866304},
+	{"name":"STRATA TRUST CO CUSTODIAN JAY P OTTO IRA #200801007","address":"106 DOUBLE CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.24708491688902,"lat":30.719358106808972},
+	{"name":"SPEER CHARLES I","address":"103 WILCOX","city":"BURNET","state":"TX","zip":"78611-0955","lon":-98.2476907,"lat":30.721117},
+	{"name":"THOMPSON CORY P & RACHEL L","address":"119 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28141410054461,"lat":30.767538906577293},
+	{"name":"TORRES JUSTIN AND BREANNE","address":"1229 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.264767,"lat":30.759664},
+	{"name":"WARDIN MICHAEL P ETUX JOANNA M","address":"701 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.28074135804664,"lat":30.67734946001488},
+	{"name":"KING R&D LIVING TRUST","address":"204 DELAWARE SPRINGS BLVD DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.25152033080501,"lat":30.71659784461147},
+	{"name":"JOHNSON WILLIAM JACK & VICKIE LOU","address":"124 AVERY SPUR","city":"BURNET","state":"TX","zip":"78611","lon":-98.24995794958198,"lat":30.725705389830434},
+	{"name":"REYNOLDS LARRY LELAND","address":"2655 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.294836,"lat":30.739773},
+	{"name":"TIPTON FRANK J (DEC'D) & ANGELA M","address":"108 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28459564180116,"lat":30.767913396692858},
+	{"name":"DONOVAN ROBERT & HELEN MCCLURE","address":"100 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.279662,"lat":30.770039},
+	{"name":"GATTIS EDWARD L ETUX BARBARA","address":"203 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611-5526","lon":-98.2961073611679,"lat":30.74490153903947},
+	{"name":"FELDT DOUGLAS L & JULIE E","address":"320 YELLOW RIBBON TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.2515483908453,"lat":30.714558434739317},
+	{"name":"BASS MARY MARGARET MUNSON","address":"5310 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.333281,"lat":30.727549},
+	{"name":"VALENTINE SCOTT R","address":"408 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2562099,"lat":30.7154715},
+	{"name":"YOW LINDSEY M & TAMMY RATLIFF","address":"300 BILLY JOE FOX DR","city":"BURNET","state":"TX","zip":"78611-3575","lon":-98.259393,"lat":30.732878},
+	{"name":"SMITH NATHAN J & ANGELA L","address":"102 WILCOX DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.2478429,"lat":30.7202199},
+	{"name":"HAIR MARK W","address":"305 CARDINAL LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.26163656897704,"lat":30.757332593412425},
+	{"name":"FRERKING SCOTT & WINTER R","address":"120 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.2489422,"lat":30.7252217},
+	{"name":"MCBRIDE JONDAN P & DESIREE L","address":"1540 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32954147713338,"lat":30.77512771637823},
+	{"name":"PHILLIPS KATELYN & PRESTON","address":"241 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.249221,"lat":30.7171081},
+	{"name":"BOSTIC CALEN & JODI","address":"302 DELAWARE SPRINGS BLVD","city":"BURNET","state":"TX","zip":"78611-3516","lon":-98.2489278,"lat":30.7210073},
+	{"name":"JARRETT MICHAEL LEON & DIANNA KAY","address":"225 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2479856,"lat":30.719082},
+	{"name":"RATLIFF WILLIAM D JR ETUX CANDACE","address":"2700 CR 120A","city":"MARBLE FALLS","state":"TX","zip":"78654-8006","lon":-98.358062,"lat":30.672437},
+	{"name":"FITZSIMMON JASON M & HALEY","address":"116 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.292565,"lat":30.742334},
+	{"name":"WILKINS TOMMY & JANEEN","address":"248 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2489494,"lat":30.7160283},
+	{"name":"MICHIE SHAWN D","address":"221 HANSFORD","city":"BURNET","state":"TX","zip":"78611","lon":-98.346632,"lat":30.729682},
+	{"name":"HEFFERIN ANTHONY III & CHARLENE","address":"155 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.2505954,"lat":30.725157},
+	{"name":"CIPOLLONE BRIAN AND PAULA WOOD","address":"301 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.31833060222347,"lat":30.771127680804177},
+	{"name":"HOLLEY ANGELIA","address":"8216 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.375917,"lat":30.716619},
+	{"name":"CLAY REDA F AND VICKI BATES","address":"128 CR 118","city":"BURNET","state":"TX","zip":"78611-5417","lon":-98.381703,"lat":30.714553},
+	{"name":"HALLMARK JUSTIN & KASEY","address":"123 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.2803241074376,"lat":30.767762683033425},
+	{"name":"DUARTE GABRIEL EVAN AND GENESIS LORENA","address":"252 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2490319,"lat":30.715444},
+	{"name":"FLYNN FAMILY TRUST","address":"102 WALLACE RIDDELL DR","city":"BURNET","state":"TX","zip":"78611-3532","lon":-98.2480941,"lat":30.7234991},
+	{"name":"VAN ZANT SANDRA","address":"135 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.24877361712501,"lat":30.724903581101582},
+	{"name":"SMITH WILLIS LEE JR","address":"1359 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.264767,"lat":30.759664},
+	{"name":"LEWIS MICHAEL E ETUX JUDY C","address":"103 J B MCDUFF CV","city":"BURNET","state":"TX","zip":"78611-3523","lon":-98.24824,"lat":30.7194859},
+	{"name":"MUSSELMAN ROBERT M & MARY A","address":"107 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611-5002","lon":-98.2515342,"lat":30.7201801},
+	{"name":"HOSKINS LAURA ANN","address":"119 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.24826690163061,"lat":30.72497785106856},
+	{"name":"MORAN MICHAEL F & ALICE M","address":"304 DELAWARE SPRINGS BLVD","city":"BURNET","state":"TX","zip":"78611-0692","lon":-98.2489842,"lat":30.7207622},
+	{"name":"ZAK JEFFREY & ROBBIN","address":"207 SHOALS PARKWAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.3905636676317,"lat":30.718199038553944},
+	{"name":"HARTMAN JOSHUA","address":"125 LONE OAK DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.4373733877551,"lat":30.656918265306125},
+	{"name":"FOSTER MATTHEW","address":"301 QUAIL TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.261498,"lat":30.755538},
+	{"name":"RODRIGUEZ STEPHEN","address":"117 DENNY FOX","city":"BURNET","state":"TX","zip":"78611-5002","lon":-98.2507339,"lat":30.7214384},
+	{"name":"CONFIDENTIAL","address":"200 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.25024389887892,"lat":30.72540573851202},
+	{"name":"MCNIEL LARRY W & SHIRLEY L","address":"504 LEVON LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.326165,"lat":30.737584},
+	{"name":"BOLIN DAVID & DEBORAH","address":"183 TOM KITE DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.24586,"lat":30.72443},
+	{"name":"MCCUBBIN LINDA KAY INGRAM","address":"102 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2524948,"lat":30.7198828},
+	{"name":"CLARK JOSEPH L & DAWN M","address":"228 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.25124924976555,"lat":30.726440693518967},
+	{"name":"RENDON DIEGO & ELIZABETH","address":"301 CR 118A","city":"BURNET","state":"TX","zip":"78611","lon":-98.38653,"lat":30.713709},
+	{"name":"WIESNER COLTIN RAY & MAEGAN DAYLE CARPENTER","address":"209 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.2961354446716,"lat":30.744906156157874},
+	{"name":"HOLMES RICHMOND A & DONNA MARIE","address":"103 WALLACE RIDDELL DR","city":"BURNET","state":"TX","zip":"78611-3532","lon":-98.2485703,"lat":30.7226598},
+	{"name":"DEDEAR FAMILY TRUST","address":"113 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611-5002","lon":-98.2511377,"lat":30.7208832},
+	{"name":"KUKER REBECCA","address":"104 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.2508293,"lat":30.7265556},
+	{"name":"BIZZELL ROWDI DUDE & BIZZELL SHANDA NICOLE","address":"2019 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.2553569387755,"lat":30.735413081632654},
+	{"name":"MONTGOMERY GIZELE SWIFT","address":"110 WALLACE RIDDELL DR","city":"BURNET","state":"TX","zip":"78611-3532","lon":-98.249213,"lat":30.7235837},
+	{"name":"PHAIR MILTON W & IRIS","address":"108 WALLACE RIDDELL DR","city":"BURNET","state":"TX","zip":"78611-3532","lon":-98.2489617,"lat":30.7234325},
+	{"name":"CHRISTIAN LYNN","address":"659 CR 100","city":"BURNET","state":"TX","zip":"78611-0818","lon":-98.25824,"lat":30.726977},
+	{"name":"OTTO JAY P","address":"210 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.24692245874085,"lat":30.719826497694324},
+	{"name":"GALYON BOBBY RAY & SANDRA ROBLEDO GALYON","address":"400 PARK RD 4","city":"BURNET","state":"TX","zip":"78611-5466","lon":-98.258789,"lat":30.692404},
+	{"name":"WASHBURN WALTER D ETUX JUDITH","address":"100 J B MCDUFF CV","city":"BURNET","state":"TX","zip":"78611-3524","lon":-98.2487681,"lat":30.719211},
+	{"name":"CHERRY CAROLYN ANN","address":"2333 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.287594,"lat":30.741812},
+	{"name":"VITEYCHUK HECTOR J & BILLIE J","address":"136 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.2499214,"lat":30.7250736},
+	{"name":"CAMPBELL DAVID L & DEBRA L","address":"151 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.250541,"lat":30.7249639},
+	{"name":"HOLMES RUSSELL E JR","address":"200 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611-5427","lon":-98.297714,"lat":30.744604},
+	{"name":"MILLIORN LYNITA","address":"3759 W HWY 29 ","city":"BURNET","state":"TX","zip":"78611-0422","lon":-98.279522,"lat":30.760962},
+	{"name":"JOHNSON WILLIAM FRANKLIN & CHRISTI ANN","address":"110 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.24801616818503,"lat":30.72511204632543},
+	{"name":"THURMAN PHILIP","address":"104 WALLACE RIDDELL DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2483907,"lat":30.723559},
+	{"name":"TOMANEK CARL J & JANET A","address":"670 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.259069,"lat":30.728186},
+	{"name":"DARINGTON GERYL & JUDITH","address":"118 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2512348,"lat":30.7216504},
+	{"name":"VAUGHN TERRY L","address":"6260 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.325564,"lat":30.769527},
+	{"name":"RAMON DAVID RAM & MEGAN KATHLEEN","address":"221 WANDERING OAKS CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.254612,"lat":30.730977},
+	{"name":"BERGMAN DARRYL GENE & JULIA ANN KOHLMAN","address":"200 CR 119","city":"BURNET","state":"TX","zip":"78611-5594","lon":-98.383892,"lat":30.704989},
+	{"name":"CLARK JEAN ANN","address":"306 DELAWARE SPRINGS","city":"BURNET","state":"TX","zip":"78611","lon":-98.2491047,"lat":30.7205059},
+	{"name":"CAPERTON MARILYN A","address":"415 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2571354,"lat":30.7149921},
+	{"name":"BRIGHT THOMAS & LYNN L","address":"220 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.251229,"lat":30.72639},
+	{"name":"COLE GLENN C","address":"5540 W HWY 29","city":"BURNET","state":"TX","zip":"78611-4069","lon":-98.307235,"lat":30.762961},
+	{"name":"SPIVEY JUANITA HERRING","address":"2229 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.286339,"lat":30.742528},
+	{"name":"SCOTT GREGORY LEE","address":"139 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.2499509,"lat":30.7245058},
+	{"name":"CAULEY STEVEN DABNEY & ANNE ELIZABETH","address":"305 DELAWARE SPRINGS BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.2481527,"lat":30.7197559},
+	{"name":"GILES GRANT & KERRI","address":"100 AVERY SPUR","city":"BURNET","state":"TX","zip":"78611","lon":-98.250316,"lat":30.725628},
+	{"name":"SHIPLEY WILMA S","address":"410 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2565676,"lat":30.7154087},
+	{"name":"BARRY ORION M & JOANNA S","address":"216 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.25088180640991,"lat":30.726048508449825},
+	{"name":"KING NICHOLAS DAVID AND JAMIE PIPPENGER KING","address":"105 REED RANCH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.3598,"lat":30.758618},
+	{"name":"GIBSON CYNTHIA WAGENFUHR","address":"4111 PARK RD 4 S","city":"BURNET","state":"TX","zip":"78611","lon":-98.318793,"lat":30.675486},
+	{"name":"BOATRIGHT J & M  PROTECTION TRUST","address":"204 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.250381,"lat":30.725596},
+	{"name":"JOHNSON JAMES W & ELDA G","address":"5380 S HWY 281 ","city":"BURNET","state":"TX","zip":"78611-4516","lon":-98.2538459,"lat":30.6946029},
+	{"name":"MCCLANAHAN MARK A & ELIZABETH A","address":"504 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2581392,"lat":30.7157316},
+	{"name":"LONG DEE K & JOANN","address":"2836 W HWY 29","city":"BURNET","state":"TX","zip":"78611-7396","lon":-98.26636,"lat":30.761203},
+	{"name":"LOWRANCE MARSHALL & MONTANA JARRELL","address":"117 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.2497287,"lat":30.7263139},
+	{"name":"DUDA GEORGE T JR & WANDA L","address":"131 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.24864705252413,"lat":30.72492693738239},
+	{"name":"HANCOCK ALLAN L & CLAIRE E NYBRO","address":"410 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.254591,"lat":30.728648},
+	{"name":"KAPPELMANN CHRISTOPHER DOUGLAS & CAMRYN MAE","address":"208 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.25039766666667,"lat":30.725614666666665},
+	{"name":"PALL PHILLIP K","address":"200 PAINTED HORSE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27225578896095,"lat":30.690431104812358},
+	{"name":"ENGELKE KEITH KARLTON","address":"115 DENNY FOX","city":"BURNET","state":"TX","zip":"78611-5002","lon":-98.2508768,"lat":30.7211932},
+	{"name":"FAULKNER G W","address":"1000 PARK RD 4 SOUTH","city":"BURNET","state":"TX","zip":"78611-5470","lon":-98.268074,"lat":30.690174},
+	{"name":"KOCUREK KATHRYN LOUISE","address":"120 AVERY SPUR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25001762465165,"lat":30.72569249152536},
+	{"name":"FRENCH JOHN C SR AND GAIL","address":"134 THOMAS RIDGE ROAD","city":"BURNET","state":"TX","zip":"78611-5657","lon":-98.29550296294607,"lat":30.74460631875853},
+	{"name":"SLOAN DENNIS WILLIAM &","address":"201 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3522","lon":-98.2511169,"lat":30.7166516},
+	{"name":"HAMMONS DORIS","address":"106 WILCOX","city":"BURNET","state":"TX","zip":"78611-3526","lon":-98.2470792,"lat":30.7209405},
+	{"name":"BALL TOMAS GUILLERMO","address":"113 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.2500616,"lat":30.7262524},
+	{"name":"ARMENTROUT CHRISTOPHER LANCE & JOZIE LOVE","address":"112 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.2501612,"lat":30.7266546},
+	{"name":"HOPKINS JERRY E","address":"117 AVERY SPUR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25003204893996,"lat":30.725518266753426},
+	{"name":"DURAN CHRISTOPHER & AMANDA N","address":"187 TOM KITE DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.246154,"lat":30.724298},
+	{"name":"BIZZAK KAREN A","address":"105 DOUBLE CIR","city":"BURNET","state":"TX","zip":"78611-4547","lon":-98.2467435,"lat":30.7187784},
+	{"name":"WIMBERLY PERRY L","address":"121 AMBER CREEK","city":"BURNET","state":"TX","zip":"78611-5952","lon":-98.28051684773325,"lat":30.6821954683173},
+	{"name":"MURFIN ROBERT A ETUX ANN WAYNENE","address":"113 FOX CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2537597,"lat":30.7169138},
+	{"name":"ROBINETT KEVIN & SUZANNE","address":"870 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611-3586","lon":-98.25003140909091,"lat":30.736456909090908},
+	{"name":"EUBANKS ETHAN EWELL & SONYA JEANNE","address":"250 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.28178323502601,"lat":30.683482081787176},
+	{"name":"TOMERLIN ANDREA H","address":"1006 FM 3509","city":"BURNET","state":"TX","zip":"78611-7403","lon":-98.270072,"lat":30.753422},
+	{"name":"HORTON ROBERT W & NANCY R","address":"112 AVERY SPUR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25013697479099,"lat":30.725666694915216},
+	{"name":"CASAREZ SAMUEL","address":"142 CR 118","city":"BURNET","state":"TX","zip":"78611","lon":-98.383091,"lat":30.714599},
+	{"name":"CONFIDENTIAL","address":"453 CR 143","city":"BURNET","state":"TX","zip":"78611","lon":-98.340824,"lat":30.729971},
+	{"name":"BAILEY ERIC MICHAEL & CRYSTAL","address":"107 BRUCE CV","city":"BURNET","state":"TX","zip":"78611-3546","lon":-98.2528268,"lat":30.7148276},
+	{"name":"BEARDEN STEVEN B & BEARDEN PATRICIA D","address":"147 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.2504496,"lat":30.7247932},
+	{"name":"BRENT PAUL","address":"232 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.251260650382,"lat":30.726465536653286},
+	{"name":"SOLORZANO JOSE & ALDAVA ADRIANA","address":"437 CR 118","city":"BURNET","state":"TX","zip":"78611","lon":-98.381703,"lat":30.714553},
+	{"name":"SPRINGS ROBERT L & KATHERINE M","address":"311 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-0007","lon":-98.2543499,"lat":30.7152181},
+	{"name":"FORTIN HERVE DEREK","address":"115 FOX CIR","city":"BURNET","state":"TX","zip":"78611-0885","lon":-98.2539047,"lat":30.7167687},
+	{"name":"CATLIN KELLEN","address":"202 LAKEVIEW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32096116941584,"lat":30.75167738789212},
+	{"name":"5388 US HWY 281 LLC - SERIES 104 OF PINKY AND THE BRAIN LLC","address":"5376 S HWY 281","city":"BURNET","state":"TX","zip":"78611","lon":-98.255091,"lat":30.691534},
+	{"name":"BALLARD DANIEL LLOYD & LEANN CHRISTINE","address":"129 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.2487737,"lat":30.72654},
+	{"name":"COURTNEY  CORY DON & JANNA KAY","address":"312 DELAWARE SPRINGS BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.2494338,"lat":30.7198414},
+	{"name":"DISEBASTIANO JOE & SHERRY K DISEBASTIANO","address":"5030 CR 120","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.316759,"lat":30.658061},
+	{"name":"SPARKS LARRY & LESLIE","address":"320 DELAWARE SPRINGS","city":"BURNET","state":"TX","zip":"78611-3516","lon":-98.2500452,"lat":30.7188894},
+	{"name":"KIZER GILBERT L & DEBRA K","address":"315 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3542","lon":-98.2547864,"lat":30.7151783},
+	{"name":"ARMSTRONG DONNAL","address":"401 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2550999,"lat":30.7151236},
+	{"name":"MELVIN ERIC & SAMANTHA","address":"4801 PARK RD 4","city":"BURNET","state":"TX","zip":"78611-4529","lon":-98.33004,"lat":30.678074},
+	{"name":"MINTON JEFFREY DEAN & DENISE LYNN","address":"500 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2576473,"lat":30.7154007},
+	{"name":"SHANNON CHRISTINA & GAYLON","address":"104 AVERY SPUR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25025632493033,"lat":30.725640898305073},
+	{"name":"LILLARD GEORGE & DIANE","address":"508 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2583636,"lat":30.71629},
+	{"name":"SWINNEY LINDA","address":"111 FOX CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.253484,"lat":30.7166003},
+	{"name":"TUTTLE TRAVIS","address":"128 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.2488504,"lat":30.7268277},
+	{"name":"PLUMLEY WILLIAM LEE & MARY ANN","address":"116 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.24818435537918,"lat":30.7251368486976},
+	{"name":"TIDWELL JOE R & WANDA S","address":"303 FAWN HILL","city":"BURNET","state":"TX","zip":"78611-9756","lon":-98.26086840475261,"lat":30.75390894478934},
+	{"name":"WHITE JUDY","address":"224 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.25123784914912,"lat":30.726415850384644},
+	{"name":"REYES WILLIAM T & MELISSA A","address":"2140 CR 116B","city":"BURNET","state":"TX","zip":"78611","lon":-98.285026,"lat":30.744167},
+	{"name":"LLS COMMERCIAL LLC","address":"2791 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.265216,"lat":30.760368},
+	{"name":"SHAVER RACHELLE (DEC'D)","address":"307 CARDINAL LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.26158435346555,"lat":30.75734339011864},
+	{"name":"GRIFFIN CRAIG ALAN & JUDITH MISCHELLE","address":"108 AVERY SPUR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25019664986065,"lat":30.725653796610146},
+	{"name":"FORCE RICHARD A & HEIDI K","address":"5525 S PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.341325,"lat":30.682649},
+	{"name":"FRANCIS JULIA","address":"102 JB MCDUFF CV","city":"BURNET","state":"TX","zip":"78611","lon":-98.248396,"lat":30.719241},
+	{"name":"CONFIDENTIAL","address":"105 AVERY SPUR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25021051223499,"lat":30.725480566688354},
+	{"name":"DICKMANN EWALD & JUDY M (DEC'D)","address":"109 DENNY FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25212482991736,"lat":30.719252636180286},
+	{"name":"MERCIER GREGG L & LIZA B","address":"500 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.28113760507902,"lat":30.67961421837557},
+	{"name":"CULLIFER TIFFANY SHAVONNE","address":"312 CARDINAL LN","city":"BURNET","state":"TX","zip":"78611-9734","lon":-98.26147149734824,"lat":30.757536733887573},
+	{"name":"SPARKS ROBERT P & ALISON GAYLE","address":"1147 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.265282,"lat":30.728665},
+	{"name":"SHAFER JAMES WESLEY AND MELISSA R","address":"306 FAWN HILL","city":"BURNET","state":"TX","zip":"78611","lon":-98.26067475218237,"lat":30.754115399881723},
+	{"name":"BOWEN CARSON","address":"128 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.2492679,"lat":30.7251705},
+	{"name":"SCUDDER TRACY GARLAND","address":"405 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2556746,"lat":30.7150494},
+	{"name":"MOORE JOHN WESLEY & RHONDA R","address":"132 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.2496157,"lat":30.7251101},
+	{"name":"DALLO GARRY EDWARD & KATHLEEN A","address":"212 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.250534,"lat":30.725748},
+	{"name":"MCBRIDE HESTON S JR","address":"4557 PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.325021,"lat":30.67959},
+	{"name":"FROMMHOLD SEBASTIAN","address":"200 DELAWARE SPRINGS BLVD DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.251403,"lat":30.716864},
+	{"name":"STAYT KIM A","address":"121 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.2494004,"lat":30.7263659},
+	{"name":"CLAYTON ELIZABETH A","address":"125 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.249035,"lat":30.7263437},
+	{"name":"BLOOM BRENDAN","address":"436 CR 118","city":"BURNET","state":"TX","zip":"78611","lon":-98.381703,"lat":30.714553},
+	{"name":"COX JASON C & MINDY R","address":"710 CR 143","city":"BURNET","state":"TX","zip":"78611-5835","lon":-98.340709,"lat":30.733301},
+	{"name":"STEVENS CHRISTOPHER & DEBRA","address":"109 AVERY SPUR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25015102446999,"lat":30.725493133376713},
+	{"name":"TERWAY BARBARA LYNN","address":"7761 W PARK RD 4","city":"BURNET","state":"TX","zip":"78611-5521","lon":-98.380043,"lat":30.700592},
+	{"name":"ROBERSTON RYAN S","address":"108 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.2504994,"lat":30.7266028},
+	{"name":"EVERETT DON NEAL ETUX SANDRA P","address":"305 SUNSET DR","city":"BURNET","state":"TX","zip":"78611-0666","lon":-98.25817679696313,"lat":30.756260958129648},
+	{"name":"RAVEN ROSS C & CAITLIN E","address":"127 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.24852048792324,"lat":30.72495029366319},
+	{"name":"HAIRE BRENDA G","address":"313 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3542","lon":-98.2545485,"lat":30.7151987},
+	{"name":"PEARSON MITCHELL J & TERESA A","address":"123 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.24839392332237,"lat":30.724973649943994},
+	{"name":"CREAGER LINDA","address":"309 STAGE COACH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.259972,"lat":30.758707},
+	{"name":"TUTTLE ALTON D & RENEE","address":"108 DENNY FOX","city":"BURNET","state":"TX","zip":"78611-5001","lon":-98.2521966,"lat":30.720576},
+	{"name":"WINN JIM R & KATHLEEN C","address":"310 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.292863,"lat":30.743208},
+	{"name":"MITCHEL JEFFREY S SR & DIANNA","address":"109 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.2503944,"lat":30.7261948},
+	{"name":"PLANT CALLIE J","address":"101 AVERY SPUR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25027,"lat":30.725468},
+	{"name":"OTTO JAY P","address":"237 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.24883919987525,"lat":30.717503464612506},
+	{"name":"LBM LEGACY INVESTMENTS LLC","address":"2846 W HWY 29 NORTH SIDE","city":"BURNET","state":"TX","zip":"78611","lon":-98.267423,"lat":30.762233},
+	{"name":"COLBERT MARK JOSEPH","address":"108 VANDEVENTER DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2508219,"lat":30.7172395},
+	{"name":"BOORMAN JAMES A III & BONNIE N (DEC'D)","address":"124 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.2491724,"lat":30.7268867},
+	{"name":"COSTANZO CHRISTOPHER PATRICK & BRITTANY LYNN","address":"219 SHOALS PKWY","city":"BURNET","state":"TX","zip":"78611-3690","lon":-98.39075160930781,"lat":30.718324980673373},
+	{"name":"LANDEROS MICHAEL","address":"113 AVERY SPUR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25009153670497,"lat":30.725505700065067},
+	{"name":"ANDERSON JOY JANE","address":"350 STEFFEY LN","city":"BURNET","state":"TX","zip":"78611-5598","lon":-98.28276388631446,"lat":30.73907586437628},
+	{"name":"LEON SCOTT J ETUX NEESHA","address":"316 DELAWARE SPRINGS BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.2497713,"lat":30.7194346},
+	{"name":"KIMBREL PAMELA SUE & DANE KELLY KIMBREL","address":"707 PAINTED HORSE TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.27377252261056,"lat":30.695632161303475},
+	{"name":"DORAN TERENCE I & MARY S","address":"540 WILLIAMS RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.32224306020066,"lat":30.738679578595317},
+	{"name":"MCKINLAY ELI & LAURA HYDEN","address":"308 CARDINAL LN","city":"BURNET","state":"TX","zip":"78611-9734","lon":-98.2615763315655,"lat":30.757514822591716},
+	{"name":"BONJORNO FAMILY TRUST","address":"121 FOX CIR","city":"BURNET","state":"TX","zip":"78611-3578","lon":-98.2543046,"lat":30.7164552},
+	{"name":"SHIPLEY STEPHEN F & ASHLEY D","address":"412 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.256782,"lat":30.7153537},
+	{"name":"LAWRENCE JASON OLIVER & CHRISTI","address":"311 CARDINAL LN","city":"BURNET","state":"TX","zip":"78611-9735","lon":-98.26147992244258,"lat":30.757364983531062},
+	{"name":"SPARKS ROBERT W","address":"314 DELAWARE SPRINGS","city":"BURNET","state":"TX","zip":"78611-3516","lon":-98.2497122,"lat":30.7197226},
+	{"name":"HUCEY MAUREEN","address":"207 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2514192,"lat":30.7161325},
+	{"name":"AVILES EFRAIN VENCES","address":"428 CR 118","city":"BURNET","state":"TX","zip":"78611-0487","lon":-98.385393,"lat":30.717007},
+	{"name":"CALDWELL ROBERT L ETUX JUDITH A","address":"5370 S HWY 281 ","city":"BURNET","state":"TX","zip":"78611-4516","lon":-98.2547551,"lat":30.692025},
+	{"name":"BAKER FRANCES LOUISE","address":"105 WILCOX","city":"BURNET","state":"TX","zip":"78611-3527","lon":-98.2474662,"lat":30.7210465},
+	{"name":"YORK FRED MICHAEL","address":"305 STAGE COACH RD","city":"BURNET","state":"TX","zip":"78611-9733","lon":-98.260918,"lat":30.758561},
+	{"name":"BRIZENDINE PHILLIP & AMY","address":"106 WALLACE RIDDELL DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.248676,"lat":30.7235483},
+	{"name":"GOWIN EZEKIEL D ","address":"106 VANDEVENTER DR","city":"BURNET","state":"TX","zip":"78611-3521","lon":-98.2505692,"lat":30.7173854},
+	{"name":"WILLS KENNETH L","address":"100 YUCCA","city":"BURNET","state":"TX","zip":"78611-4066","lon":-98.312179,"lat":30.765195},
+	{"name":"MONTGOMERY JILL REITAN","address":"450 CR 143","city":"BURNET","state":"TX","zip":"78611","lon":-98.341472,"lat":30.730654},
+	{"name":"PEARSON KENNETH R ETUX JENNIFER L","address":"4491 PARK RD 4","city":"BURNET","state":"TX","zip":"78611-5806","lon":-98.321513,"lat":30.673438},
+	{"name":"HENNIGH SHERRY","address":"300 CR 119","city":"BURNET","state":"TX","zip":"78611-5301","lon":-98.385346,"lat":30.7067},
+	{"name":"KINMAN MITCHELL B & R MARIE","address":"315 HAPPY HOLLOW RD","city":"MARBLE FALLS","state":"TX","zip":"78654-7811","lon":-98.301525,"lat":30.662143},
+	{"name":"MENSE MICHAEL","address":"414 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3545","lon":-98.2570483,"lat":30.7152848},
+	{"name":"ATER PAT","address":"104 WILCOX","city":"BURNET","state":"TX","zip":"78611","lon":-98.2475636,"lat":30.7204026},
+	{"name":"ROBERIE JOHN E ETUX JENNIFER M","address":"113 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611-2921","lon":-98.279477324088,"lat":30.770121932511362},
+	{"name":"DAVIS JAMES R ETUX JEAN E","address":"5445 PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.337137,"lat":30.681271},
+	{"name":"COATS DONNITA S","address":"133 FOX CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2549909,"lat":30.7157442},
+	{"name":"TULE RIVER HOMEBUYER EARNED EQUITY AGENCY","address":"109 VANDEVENTER DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2496651,"lat":30.7176878},
+	{"name":"HAILE PAMELA G","address":"810 YUCCA DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.29980690377093,"lat":30.769013071387437},
+	{"name":"NOWELL SANDRA K","address":"123 FOX CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2544449,"lat":30.7163581},
+	{"name":"DEINLEIN PAMELA","address":"131 FOX CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2549319,"lat":30.7158945},
+	{"name":"ROMERO LORENZO & SANJUANA G","address":"628 PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.261188,"lat":30.692787},
+	{"name":"HARMON GAIL ARLENE & JANIE ELIZABETH RODDY","address":"104 VANDEVENTER DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.250138,"lat":30.7178131},
+	{"name":"SHELTON CHARLOTTE A","address":"100 VANDEVENTER DR","city":"BURNET","state":"TX","zip":"78611-3521","lon":-98.2502223,"lat":30.7181489},
+	{"name":"HELMS DONNA","address":"120 HELMS CIRCLE","city":"BURNET","state":"TX","zip":"78611-2903","lon":-98.27063951840603,"lat":30.760564370985886},
+	{"name":"BLAYLOCK MELISSA REES & WILSON TRUETT","address":"2440 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.291882,"lat":30.744862},
+	{"name":"STEWART CALLIE & PAUL ESTATE","address":"218 WAYWARD DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.30007283886808,"lat":30.762045586407602},
+	{"name":"SMITH ROBIN W","address":"205 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3522","lon":-98.2512786,"lat":30.7162979},
+	{"name":"NELMS-HARDESTY SIENNA MICHELLE (60%) & BENJAMIN DANIEL HARDESTY (40%)","address":"1202 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.33364758154154,"lat":30.772929794121975},
+	{"name":"ADAIR JUSTIN FOSTER & STACEY DENISE UNDERWOOD","address":"226 WANDERING OAKS CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.23092,"lat":30.754697},
+	{"name":"TOWNSEND CHRISTOPHER & HEATHER","address":"606 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.254126,"lat":30.73598},
+	{"name":"ROWNEY KAY","address":"309 FAWN HILL","city":"BURNET","state":"TX","zip":"78611-9756","lon":-98.26067243990035,"lat":30.753948663447918},
+	{"name":"HINTON JULIANA ALICIA","address":"414 CR 118","city":"BURNET","state":"TX","zip":"78611","lon":-98.385594,"lat":30.715503},
+	{"name":"HARGER CHARLES ET UX HARGER NANCY","address":"106 FOX CIR","city":"BURNET","state":"TX","zip":"78611-3578","lon":-98.2537822,"lat":30.7162068},
+	{"name":"BLANTON LIVING TRUST","address":"108 FOX CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2539927,"lat":30.7161148},
+	{"name":"HAVELKA CHRISTOPHER & CHARLENE","address":"2811 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.266012,"lat":30.760358},
+	{"name":"VOSSMAN ROBERT A ETUX NANCY L","address":"409 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3544","lon":-98.2563023,"lat":30.7149158},
+	{"name":"HOWE JERRY D & SANDRA","address":"309 DELAWARE SPRINGS BLVD","city":"BURNET","state":"TX","zip":"78611-3525","lon":-98.249411,"lat":30.7187995},
+	{"name":"TERRY ROBERT M & DANELLE L","address":"107 DEER LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.38837622035511,"lat":30.729007766469383},
+	{"name":"HATCHER LEO E & KRISTIE A","address":"411 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2568054,"lat":30.7148178},
+	{"name":"DOWNS DOUG & DEBBIE","address":"301 FAWN HILL","city":"BURNET","state":"TX","zip":"78611","lon":-98.26093,"lat":30.75393},
+	{"name":"SPEER BENJAMIN","address":"304 CARDINAL LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.26168116578275,"lat":30.757492911295856},
+	{"name":"WHITTEN LEONARD","address":"3471 HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.27501523643792,"lat":30.760923703739277},
+	{"name":"STATE OF TEXAS","address":"6211 S PARK ROAD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.350454,"lat":30.684638},
+	{"name":"THREADGILL FAMILY 2022 TRUST","address":"8433 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.379083,"lat":30.712788},
+	{"name":"MARTIN MILDRED JANE KELLEY","address":"300 WILLIAMS RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.32225148934522,"lat":30.73362157768654},
+	{"name":"CRAIG LAURA","address":"217 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611-2803","lon":-98.31945289589562,"lat":30.764281494926163},
+	{"name":"ARRINGTON JAROME V & SUSAN GAIL","address":"751 LAS VISTAS RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.26742805050505,"lat":30.695275595959597},
+	{"name":"CARMACK DAVID & REBECCA","address":"5052 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.328024,"lat":30.735358},
+	{"name":"VAUGHAN WALT & IRIS","address":"127 FOX CIR","city":"BURNET","state":"TX","zip":"78611-3578","lon":-98.2546915,"lat":30.7161615},
+	{"name":"GARNER JOSEPH W JR & RACHEL D","address":"306 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3552","lon":-98.2537796,"lat":30.7157949},
+	{"name":"HENDEE JAMES","address":"402 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2552488,"lat":30.7156265},
+	{"name":"BROOKS CLYDE W ETUX BARBARA","address":"304 FAWN HILL","city":"BURNET","state":"TX","zip":"78611-9750","lon":-98.26073771389736,"lat":30.75410232240658},
+	{"name":"TAYLOR NATHANIEL A AND CHRISTINA","address":"6714 PARK RD 4","city":"BURNET","state":"TX","zip":"78611-5408","lon":-98.383158,"lat":30.716344},
+	{"name":"SORRELLS SAMILEE","address":"100 SHOALS PKWY","city":"BURNET","state":"TX","zip":"78611-0633","lon":-98.389917,"lat":30.716626},
+	{"name":"RITCH JESSE","address":"6180 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.319806,"lat":30.766776},
+	{"name":"SCATES STEPEHN & DEBORAH","address":"111 BRUCE CV","city":"BURNET","state":"TX","zip":"78611","lon":-98.2532848,"lat":30.7144782},
+	{"name":"SKINNER SAMUEL & KAYLA","address":"312 SUNSET DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.26082374022994,"lat":30.755889274212826},
+	{"name":"WEBER ADELAIDE C","address":"119 FOX CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2541735,"lat":30.7165572},
+	{"name":"LEA LINDA","address":"105 FOX CIR","city":"BURNET","state":"TX","zip":"78611-3578","lon":-98.2531222,"lat":30.7162767},
+	{"name":"STONE JUDY","address":"121 VANDEVENTER DR","city":"BURNET","state":"TX","zip":"78611-3520","lon":-98.2506356,"lat":30.7168467},
+	{"name":"STEMAC ED (DECSD) & SALLY","address":"104 FOX CIR","city":"BURNET","state":"TX","zip":"78611-3578","lon":-98.2536156,"lat":30.7160845},
+	{"name":"HUGHES JIMMIE KAYE","address":"129 FOX CIR","city":"BURNET","state":"TX","zip":"78611-3578","lon":-98.2548099,"lat":30.7160397},
+	{"name":"LEECH ROBERT CRAIG","address":"305 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3542","lon":-98.2536238,"lat":30.7153215},
+	{"name":"FISCHER JACQUELINE A","address":"115 BRUCE CV","city":"BURNET","state":"TX","zip":"78611-3546","lon":-98.2534268,"lat":30.7147738},
+	{"name":"SAVAGE SHANNON LEA","address":"1200 STONE MOUNTAIN DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.32070668821227,"lat":30.67082414411568},
+	{"name":"HOFFMEISTER GRANT R & INGRID K","address":"125 FOX CIR","city":"BURNET","state":"TX","zip":"78611-3578","lon":-98.254551,"lat":30.7162502},
+	{"name":"GRIFFIN DANIEL H","address":"300 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2532339,"lat":30.715701},
+	{"name":"GUESS SHIRLEY MAE","address":"206 VALLEY VIEW EAST","city":"BURNET","state":"TX","zip":"78611","lon":-98.338425,"lat":30.731066},
+	{"name":"WAYLAND DAVID (DEC'D) & JUDY","address":"309 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3542","lon":-98.2541252,"lat":30.7153386},
+	{"name":"SPANN TRUST","address":"310 CARDINAL LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.26152391445687,"lat":30.757525778239643},
+	{"name":"TERRY CHASE SANFORD & RACHEL K TERRY & HEATH BRIAN TERRY &","address":"300 TERRY LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.3418684759221,"lat":30.733573480480608},
+	{"name":"MONKS LINDA & JEFFREY","address":"510 CR 118","city":"BURNET","state":"TX","zip":"78611-5534","lon":-98.387472,"lat":30.716832},
+	{"name":"KLEIN MARVIN N ETUX SUSAN","address":"124 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611-0264","lon":-98.292871,"lat":30.742689},
+	{"name":"CORNET CHRISTY M","address":"541 WILLIAMS RD","city":"BURNET","state":"TX","zip":"78611-5651","lon":-98.32205329020978,"lat":30.7383021958042},
+	{"name":"KNAPP DANA L","address":"113 BRUCE CV","city":"BURNET","state":"TX","zip":"78611-3546","lon":-98.2533954,"lat":30.7146439},
+	{"name":"CARRELL DON F & BETTY JANE","address":"105 GENERAL JOHNSON CIR","city":"BURNET","state":"TX","zip":"78611-3518","lon":-98.250813,"lat":30.717771},
+	{"name":"UMPHREY BART","address":"312 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2543409,"lat":30.7157576},
+	{"name":"LEIJA ANTONIO JR & ANGELICA ROMERO","address":"215 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.252037,"lat":30.7156241},
+	{"name":"GILMORE VELDA","address":"301 CARDINAL LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.261741,"lat":30.757311},
+	{"name":"GOSS SHEILA","address":"109 MESQUITE LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.32115108230423,"lat":30.75707361165341},
+	{"name":"LOCKLEAR VIVIAN O LIFE ESTATE","address":"122 CR 118","city":"BURNET","state":"TX","zip":"78611-5417","lon":-98.381703,"lat":30.714553},
+	{"name":"JAMAR DAVID AND TANIS FAMILY TRUST","address":"5402 S HWY 281","city":"BURNET","state":"TX","zip":"78611-4517","lon":-98.2519937,"lat":30.6996336},
+	{"name":"HEINATZ BAILEY PIPPENGER & STACY KINSER","address":"134 REED RANCH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.362418,"lat":30.753975},
+	{"name":"LITTLE TIMOTHY O & MAXANNE P","address":"217 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3522","lon":-98.2522012,"lat":30.7155784},
+	{"name":"COLON CALDERON WILLIAM  & ADA INES RAMOS","address":"112 APACHE DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.390253,"lat":30.714531},
+	{"name":"WATSON RYAN W & AMBER N","address":"219 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2523259,"lat":30.7153521},
+	{"name":"EVERETT ROBYN & JAY EVERETT","address":"310 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3552","lon":-98.2541465,"lat":30.7157897},
+	{"name":"LABRANT NANCY B SURVIVOR'S TRUST","address":"113 VANDEVENTER DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2499407,"lat":30.7173446},
+	{"name":"CRAWFORD MARVIN A III ETUX MARCIA E","address":"101 FOX CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2528812,"lat":30.7160491},
+	{"name":"IBARRA ROBERTO S & ESTER J","address":"216 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.31897429323105,"lat":30.762632211016626},
+	{"name":"BUCHHORN ODELL ETUX IVA","address":"203 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3522","lon":-98.2511796,"lat":30.7164651},
+	{"name":"HOOVER VALLEY CEMETERY ASSN","address":"7610 PR 4 W","city":"BURNET","state":"TX","zip":"78611","lon":-98.381927,"lat":30.703862},
+	{"name":"ASBILL JOY","address":"304 SUNSET DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.26115458007665,"lat":30.75582042473761},
+	{"name":"GRAVES PATSY ANN","address":"304 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2535923,"lat":30.7157724},
+	{"name":"SHABRAM JEFFREY PHILIP & JUDITH RICHARDS SHABRAM","address":"111 VANDEVENTER DR","city":"BURNET","state":"TX","zip":"78611-3520","lon":-98.2498158,"lat":30.7174402},
+	{"name":"HAVINS ROSA LEE","address":"314 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.254499,"lat":30.7157439},
+	{"name":"ROBINSON JOHN O JR TRUST","address":"211 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3522","lon":-98.2517204,"lat":30.7159017},
+	{"name":"LANGLEY HOMES INC","address":"119 BRUCE CV","city":"BURNET","state":"TX","zip":"78611-3546","lon":-98.2535204,"lat":30.7151272},
+	{"name":"ALEXANDER SUMMER & BRANDON","address":"2600 CR 120A","city":"MARBLE FALLS","state":"TX","zip":"78654-8004","lon":-98.358555,"lat":30.668926},
+	{"name":"ERKAN HABIB H JR & CAROLINA","address":"115 VANDEVENTER DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.250107,"lat":30.717224},
+	{"name":"HARTWELL LARRY W & BERI W","address":"213 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3522","lon":-98.2518431,"lat":30.7157873},
+	{"name":"WELLMAN DAVID L","address":"403 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3544","lon":-98.2553918,"lat":30.7150303},
+	{"name":"HOWES FAMILY TRUST","address":"102 GENERAL JOHNSON CIR","city":"BURNET","state":"TX","zip":"78611-3519","lon":-98.250473,"lat":30.718063},
+	{"name":"WALDROP  JUDITH","address":"209 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611-3522","lon":-98.2515657,"lat":30.7159596},
+	{"name":"WAPPING RD LLC","address":"222 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2526575,"lat":30.7158567},
+	{"name":"JUNG DONALD A ETUX MARGRET K","address":"2501 CR 120A","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.352294,"lat":30.672075},
+	{"name":"ACUFF ROY GENE & CLAUDIA JOHNSON ACUFF LIFE ESTATES","address":"308 FAWN HILL","city":"BURNET","state":"TX","zip":"78611-9750","lon":-98.26061179046738,"lat":30.75412847735686},
+	{"name":"BYBEE ANN L","address":"135 FOX CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2549503,"lat":30.7155695},
+	{"name":"FOOTIT MICHAEL & AMY","address":"8451 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.379761,"lat":30.715203},
+	{"name":"LANE BILL & JUDI","address":"220 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2525016,"lat":30.7159193},
+	{"name":"STEELE DAVID P","address":"117 FOX CIR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2540342,"lat":30.7166597},
+	{"name":"JENNINGS SIERRA RANDI & DARRYL THOMAS","address":"333 NORTH OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2568987,"lat":30.7405809},
+	{"name":"METHVIN KENNETH R & MARGARITE M","address":"303 SUNSET DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25819725737477,"lat":30.756257175745855},
+	{"name":"KRACKEN ENTERPRISES INC","address":"100 TERRY LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.339808,"lat":30.734127},
+	{"name":"JONES ROBERT LEE JR","address":"103 FOX CIR","city":"BURNET","state":"TX","zip":"78611-3578","lon":-98.2529839,"lat":30.7161459},
+	{"name":"BOWERS GARRETT & SAMANTHA","address":"3224 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.301977,"lat":30.741285},
+	{"name":"ALEXANDER JAMES ROY AND ROSEMARY H","address":"200 CR 118","city":"BURNET","state":"TX","zip":"78611-7566","lon":-98.383901,"lat":30.714657},
+	{"name":"SEGURA JAIME & TERESA SUAREZ","address":"303 CARDINAL LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.26168878448851,"lat":30.757321796706215},
+	{"name":"DANNHEIM LARRY F","address":"109 FOX CIRCLE","city":"BURNET","state":"TX","zip":"78611-3578","lon":-98.2533612,"lat":30.7164979},
+	{"name":"FLORES JOSE","address":"103 MAGGIE LANE","city":"BURNET","state":"TX","zip":"78611-4054","lon":-98.32092394963378,"lat":30.760361738862116},
+	{"name":"LEACH TOMMY","address":"153 CR 118","city":"BURNET","state":"TX","zip":"78611","lon":-98.383519,"lat":30.713384},
+	{"name":"HARBIN CODY W & ALLISON","address":"307 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2538981,"lat":30.7153257},
+	{"name":"GSD HOLDINGS LLC","address":"112 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.3197592428291,"lat":30.764850485003297},
+	{"name":"CARR RICHARD","address":"302 SUNSET DR","city":"BURNET","state":"TX","zip":"78611-9736","lon":-98.26123729003832,"lat":30.755803212368804},
+	{"name":"DUFF ROBERT SANFORD","address":"307 FAWN HILL","city":"BURNET","state":"TX","zip":"78611-9756","lon":-98.26073776151776,"lat":30.753935423895058},
+	{"name":"GINSBERG CARL JAMES & CINDY E","address":"7223 W PARK RD 4","city":"BURNET","state":"TX","zip":"78611-5457","lon":-98.37984,"lat":30.710783},
+	{"name":"KALISEK NICOLE ERIN & BRIAN ANDREW","address":"701 DEER SPRINGS ROAD","city":"BURNET","state":"TX","zip":"78611","lon":-98.3184023,"lat":30.7529263},
+	{"name":"BILLS VICKIE M REVOCABLE LIVING TRUST","address":"101 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.312076,"lat":30.765056},
+	{"name":"WILLIAMSON JEFF & ANGELA","address":"5046 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.2810042,"lat":30.7447453},
+	{"name":"KELLEY C MICHAEL ETUX DEBORAH","address":"201 E VALLEY VIEW","city":"BURNET","state":"TX","zip":"78611-7175","lon":-98.339144,"lat":30.72992},
+	{"name":"BESEDA GEORGE ANTHONY","address":"6246 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.323137,"lat":30.768952},
+	{"name":"CONFIDENTIAL","address":"301 THOMAS RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.29656605839509,"lat":30.74497695197343},
+	{"name":"HARDEN LUE","address":"3220 FM 3509","city":"BURNET","state":"TX","zip":"78611-5947","lon":-98.302088,"lat":30.740578},
+	{"name":"ORMAND JONATHAN","address":"101 BRUCE CV","city":"BURNET","state":"TX","zip":"78611","lon":-98.2524128,"lat":30.715228},
+	{"name":"MILSON KATHY E","address":"125 LIVE OAK RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.29760503200873,"lat":30.764080712923285},
+	{"name":"POTRU SIRISH VENKATA & MANJUSHA MANI TETALA","address":"304 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.275979,"lat":30.768808},
+	{"name":"TORRES ANDREW ROBERTO & NICOLE","address":"101 SHOALS PKWY","city":"BURNET","state":"TX","zip":"78611","lon":-98.389726,"lat":30.716627},
+	{"name":"KOENIG JOSHUA J & AMY E","address":"5074 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.330268,"lat":30.729002},
+	{"name":"FORMAN LORI ANN & JEFFERSON GEORGE","address":"302 CARDINAL LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.26173358289138,"lat":30.75748195564793},
+	{"name":"HARVEY FREDERICK ARNOLD LIVING TRUST","address":"119 VANDEVENTER DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.250414,"lat":30.716914},
+	{"name":"PRINGLE JAMES","address":"117 BRUCE CV","city":"BURNET","state":"TX","zip":"78611-3546","lon":-98.25347,"lat":30.7149751},
+	{"name":"FONTENOT MELISSA & BRIAN","address":"6232 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.323098,"lat":30.767629},
+	{"name":"ROSE DENNIS ETUX LINDA","address":"828 CR 121","city":"MARBLE FALLS","state":"TX","zip":"78654-3836","lon":-98.294016,"lat":30.668229},
+	{"name":"BOLM JAMES S","address":"306 SUNSET DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.26107187011498,"lat":30.755837637106413},
+	{"name":"EVANS LARRY D ETUX CHERYL M","address":"1247 FM 2341","city":"BURNET","state":"TX","zip":"78611-2963","lon":-98.29058932700582,"lat":30.778536888869425},
+	{"name":"RODDY EILEEN","address":"302 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2534131,"lat":30.7157013},
+	{"name":"THURMAN FRANK & DELTA","address":"101 VANDEVENTER","city":"BURNET","state":"TX","zip":"78611","lon":-98.249763,"lat":30.7184572},
+	{"name":"LOWERY DUSTIN GARTH & LETICIA MICHELLE","address":"209 TEJAS TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.3893496710179,"lat":30.715503801660226},
+	{"name":"ROBERTSON JOHN SCOTT","address":"224 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2528183,"lat":30.715743},
+	{"name":"FOLTA JACOB J II","address":"414 WILLIAMS RD","city":"BURNET","state":"TX","zip":"78611-5409","lon":-98.32225197821556,"lat":30.73604979667921},
+	{"name":"DREYLING MICHAEL A & CYNTHIA","address":"108 LIVE OAK RD","city":"BURNET","state":"TX","zip":"78611-0738","lon":-98.29806989844677,"lat":30.76418231088066},
+	{"name":"KIRK JANE E","address":"308 FOX CROSSING","city":"BURNET","state":"TX","zip":"78611","lon":-98.2539769,"lat":30.7157888},
+	{"name":"PORTER TRAVIS J ETUX DENISE","address":"515 LAS VISTAS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.26445623808121,"lat":30.69457175679502},
+	{"name":"WALKER WEBB III","address":"117 VANDEVENTER DR","city":"BURNET","state":"TX","zip":"78611-3520","lon":-98.2502336,"lat":30.7170806},
+	{"name":"REED ANNA & JONATHAN T","address":"103 VANDEVENTER DR","city":"BURNET","state":"TX","zip":"78611-3520","lon":-98.2496514,"lat":30.7182528},
+	{"name":"BENSON RALPH TRUSTEE","address":"103 GEN JOHNSON CIR","city":"BURNET","state":"TX","zip":"78611-3518","lon":-98.2507382,"lat":30.7175259},
+	{"name":"WILSON ANNITA R","address":"105 VANDEVENTER","city":"BURNET","state":"TX","zip":"78611-3520","lon":-98.2495806,"lat":30.7180669},
+	{"name":"CHANDLER CATHY DUNCAN","address":"113 SADDLE ROCK RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.29688021022982,"lat":30.766838411906306},
+	{"name":"LINDLEY MICHAEL J & KATHRYN CLARKSON","address":"242 CR 118","city":"BURNET","state":"TX","zip":"78611-5446","lon":-98.384685,"lat":30.715755},
+	{"name":"TOLBERT DICKY AND VIVIAN","address":"232 WAYWARD DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.30028917548687,"lat":30.762100749846983},
+	{"name":"TABOR JAN HODGES","address":"102 VANDEVENTER DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2501443,"lat":30.7180104},
+	{"name":"M-S LUCK LTD","address":"5221 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.33147,"lat":30.726495},
+	{"name":"HOWINGTON HELEN MAE","address":"327 WILLIAMS RD","city":"BURNET","state":"TX","zip":"78611-5650","lon":-98.32205315795125,"lat":30.733885071402465},
+	{"name":"STRATA TRUST CO CUSTODIAN JAY P OTTO IRA #200801007","address":"114 COBBLESTONE","city":"BURNET","state":"TX","zip":"78611","lon":-98.255994,"lat":30.712618},
+	{"name":"ALVARADO ROBERT & CECILIA","address":"317 SUNSET DR","city":"BURNET","state":"TX","zip":"78611-9737","lon":-98.25805403449324,"lat":30.75628365243239},
+	{"name":"HAGGARD GARY","address":"429 LAS VISTAS","city":"BURNET","state":"TX","zip":"78611","lon":-98.26948043904488,"lat":30.69100316658115},
+	{"name":"RAYNER LAURA JEAN","address":"104 GEN JOHNSON CIR","city":"BURNET","state":"TX","zip":"78611-3519","lon":-98.2507288,"lat":30.7179862},
+	{"name":"ROWLEE KAYLE LYNN & CARLA KIM","address":"420 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.30713586316931,"lat":30.766606218367304},
+	{"name":"BROUSSARD DONNIE ALAN","address":"6210 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.321726,"lat":30.767402},
+	{"name":"PAYNE ROBERT D","address":"302 FAWN HILL DR","city":"BURNET","state":"TX","zip":"78611-9750","lon":-98.26080067561234,"lat":30.754089244931443},
+	{"name":"ZIMMERMAN JASON RAINEY","address":"103 LAS VISTAS WAY","city":"BURNET","state":"TX","zip":"78611-6001","lon":-98.25911988940423,"lat":30.697246259105885},
+	{"name":"ZIMMERMAN KILLIAN & LAUREN BANKS","address":"116 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611-2866","lon":-98.319436,"lat":30.764465},
+	{"name":"PHILLIPS KEITH AND SANDRA PHILLIPS 80% AND","address":"350 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.30680192774535,"lat":30.765455093190916},
+	{"name":"MATLACK KIMBERLY L (DEC'D)","address":"307 SUNSET DR","city":"BURNET","state":"TX","zip":"78611-9737","lon":-98.25815633655148,"lat":30.756264740513437},
+	{"name":"BERMENDER CRAIG & PAMELA","address":"4878 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.264767,"lat":30.759664},
+	{"name":"BAUMAN JALEN","address":"102 FOX CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.2530801059116,"lat":30.71559338202026},
+	{"name":"RIGGEN AMBER D","address":"319 FAWN HILL DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.26034583181323,"lat":30.75401486121222},
+	{"name":"GRIFFITH MELVIN THOMAS & DONNA MARIE","address":"604 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.31840319234806,"lat":30.75549843274565},
+	{"name":"RAMSEY BRANDON LOUIS & CARRIE DANETTE","address":"107 SPANISH OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.2616238,"lat":30.7257821},
+	{"name":"HELMS DONNA","address":"107 HELMS CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27043174396438,"lat":30.760639536213688},
+	{"name":"JIMMY BUILDER LLC","address":"710 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.30044198853147,"lat":30.768605254860454},
+	{"name":"HOLLEY ED P","address":"309 SUNSET DR","city":"BURNET","state":"TX","zip":"78611-0307","lon":-98.25813587613983,"lat":30.756268522897226},
+	{"name":"GARCIA DEMETRIUS A","address":"110 MAGGIE LN","city":"BURNET","state":"TX","zip":"78611-4054","lon":-98.318251,"lat":30.760693},
+	{"name":"CONFIDENTIAL","address":"316 SUNSET DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.26065832030659,"lat":30.755923698950436},
+	{"name":"MCCARN JIM","address":"123 VANDEVENTER DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2508528,"lat":30.716736},
+	{"name":"REDDOCH E.B. III AND JANIE","address":"614 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.31830082926999,"lat":30.755225697020204},
+	{"name":"STEPHENS RONALD L","address":"105 RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.303529,"lat":30.766354},
+	{"name":"CLAWSON DANNIE G & SUZANNE","address":"303 STAGE COACH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.261356,"lat":30.75849},
+	{"name":"ALLEN DONALD L (DEC'D)","address":"749 FM 2341","city":"BURNET","state":"TX","zip":"78611","lon":-98.28696049981104,"lat":30.77031062146683},
+	{"name":"SPARKS ROBERT W & SPARKS TONI M","address":"890 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.24922254545454,"lat":30.736615545454544},
+	{"name":"STANLEY ALEXANDER","address":"106 MESQUITE LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.32121346657003,"lat":30.756915751704145},
+	{"name":"ROBERTS CAROL LIFE ESTATE","address":"151 FM 2341","city":"BURNET","state":"TX","zip":"78611","lon":-98.28522324428374,"lat":30.76424425507754},
+	{"name":"CASA DE HERMOSA VISTA LLC","address":"213 VISTA HERMOSA","city":"BURNET","state":"TX","zip":"78611","lon":-98.34891100831824,"lat":30.72461333150386},
+	{"name":"MARTIN DAVID WAYNE","address":"5658 W HWY 29","city":"BURNET","state":"TX","zip":"78611-2804","lon":-98.310607,"lat":30.764679},
+	{"name":"CROOKS JACK V (DECSD) & BERNADETTE","address":"105 TURKEY LN","city":"BURNET","state":"TX","zip":"78611-4057","lon":-98.32138127255665,"lat":30.759430567577557},
+	{"name":"STRONG JAMES R & SUE ANN BORLAND","address":"804 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.29985705764877,"lat":30.7690027303817},
+	{"name":"HALE JANET S LIFE ESTATE","address":"1033 WILLIAMS RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.32202834615384,"lat":30.74593507692308},
+	{"name":"BROWN SHERRY KAY & WESLEY SEYMOUR BROWN","address":"5310 W HWY 29 ","city":"BURNET","state":"TX","zip":"78611","lon":-98.304418,"lat":30.761881},
+	{"name":"THOMPSON MICHAEL & AMBER DAWN HEADRICK-THOMPSON","address":"979 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32200729306865,"lat":30.75473940429695},
+	{"name":"COTTINGHAM NICHOLAS","address":"289 N OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2577961,"lat":30.7445284},
+	{"name":"RITCHIE JULIA F","address":"528 CR 116","city":"BURNET","state":"TX","zip":"78611-5666","lon":-98.2810042,"lat":30.7447453},
+	{"name":"WARDEN BARBARA E","address":"2673 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.298292,"lat":30.73594},
+	{"name":"FERNANDEZ SENIA LIZZET & ALEJANDRO AGUILAR","address":"301 STAGE COACH","city":"BURNET","state":"TX","zip":"78611-9733","lon":-98.261724,"lat":30.758252},
+	{"name":"METRIE OMA","address":"209 SANDY LANE","city":"BURNET","state":"TX","zip":"78611-4061","lon":-98.310555,"lat":30.767439},
+	{"name":"WASHBURN TODD ROBERT JR","address":"1100 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.2810042,"lat":30.7447453},
+	{"name":"TRAYLOR KRISTINE DIANE","address":"115 OAK LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.32135109362775,"lat":30.75548341277104},
+	{"name":"ENRIQUEZ LUIS ALBERTO","address":"403 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32123407235248,"lat":30.75910781473333},
+	{"name":"FULGHAM KEITH","address":"1693 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.264767,"lat":30.759664},
+	{"name":"VAUGHN TARA","address":"312 FAWN HILL ST","city":"BURNET","state":"TX","zip":"78611-9750","lon":-98.2604858670374,"lat":30.75415463230714},
+	{"name":"KRONFIELD PAUL H ETUX WEI HONG","address":"1500 WILLIAMS RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.317108,"lat":30.748443},
+	{"name":"GALYEAN JAMES OR DONNA","address":"8430 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.379422,"lat":30.715733},
+	{"name":"GOBLE EARL B JR","address":"5424 S  HWY 281","city":"BURNET","state":"TX","zip":"78611-4517","lon":-98.2529645,"lat":30.6970835},
+	{"name":"FAIRLAND INVESTMENTS LLC SERIES 8","address":"5409 S US 281","city":"BURNET","state":"TX","zip":"78611","lon":-98.2522957,"lat":30.6988838},
+	{"name":"ULLMANN RONALD L","address":"309 CARDINAL LN","city":"BURNET","state":"TX","zip":"78611-9735","lon":-98.26153213795406,"lat":30.75735418682485},
+	{"name":"HAWLEY BOBBY ETUX ERIKA","address":"1010 PARK RD SOUTH","city":"BURNET","state":"TX","zip":"78611-5470","lon":-98.269038,"lat":30.690354},
+	{"name":"DIERINGER KEITH","address":"314 FAWN HILL DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.26042290532241,"lat":30.75416770978228},
+	{"name":"PAGE NEVA WILLIAMS","address":"7723 PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.378658,"lat":30.702008},
+	{"name":"HACKLER TERRY C & KAREN LEE","address":"5677 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.339437,"lat":30.725517},
+	{"name":"HAGAN MICHAEL P","address":"300 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611-2896","lon":-98.321834,"lat":30.763586},
+	{"name":"MCDANIEL AMY LYNN","address":"111 PECAN LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.32154663265305,"lat":30.761531285714288},
+	{"name":"HEBDON EVON","address":"307 DEER SPRING DR","city":"BURNET","state":"TX","zip":"78611-2862","lon":-98.321404,"lat":30.759719},
+	{"name":"RHODES MICHAEL B","address":"706 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611-0628","lon":-98.3182597766059,"lat":30.752649354561342},
+	{"name":"CARONE PETER & DONNA","address":"307 YUCCA DR","city":"BURNET","state":"TX","zip":"78611-2829","lon":-98.30760175052892,"lat":30.76486260551015},
+	{"name":"TIEMANN JAMES HENRY","address":"115 MESQUITE LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.32118870576055,"lat":30.75708352913353},
+	{"name":"CATLIN TRACE & LIZ","address":"812 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.323231,"lat":30.752797},
+	{"name":"REGOT HOLDINGS LLC","address":"307 STAGE COACH","city":"BURNET","state":"TX","zip":"78611","lon":-98.26049,"lat":30.758632},
+	{"name":"BALLARD PATRICIA ANN","address":"5220 W HWY 29","city":"BURNET","state":"TX","zip":"78611-4072","lon":-98.302325,"lat":30.76178},
+	{"name":"EBELING FAMILY TRUST","address":"4610 PARK ROAD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.325677,"lat":30.683224},
+	{"name":"VAUGHAN JOYCE ANNEMARIE & GLORIA M VAUGHAN","address":"315 SUNSET DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25807449490489,"lat":30.7562798700486},
+	{"name":"TURNER WILLIAM J","address":"900 STEFFEY LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.288134,"lat":30.724058},
+	{"name":"NICHOLS NOVA - GARY NICHOLS - KAREN D MATKE & TRACI S NICHOLS (50%)","address":"438 CR 118","city":"BURNET","state":"TX","zip":"78611","lon":-98.386611,"lat":30.717171},
+	{"name":"HERNANDEZ STEVEN ANTHONY & ROSALIE FLORES HERNANDEZ","address":"315 LOST MOUNTAIN RANCH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.2969909,"lat":30.691084},
+	{"name":"STEFFEY NEAL RAY","address":"6710 W PARK RD 4","city":"BURNET","state":"TX","zip":"78611-5408","lon":-98.381683,"lat":30.716798},
+	{"name":"GOVEA ADRIANA ARREDONDO","address":"306 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.321112,"lat":30.763827},
+	{"name":"HAKKER LISA & JUSTIN","address":"118 CR 118A","city":"BURNET","state":"TX","zip":"78611","lon":-98.388283,"lat":30.715689},
+	{"name":"MOORE CHARLES R ETUX RITA","address":"108 TURKEY LN","city":"BURNET","state":"TX","zip":"78611-4057","lon":-98.32149511274952,"lat":30.75928465643187},
+	{"name":"BENTON CYNTHIA ANN & ELIZABETH DIANE BENTON &","address":"745 FM 3509 (HOOVER VALLEY)","city":"BURNET","state":"TX","zip":"78611","lon":-98.266481,"lat":30.753621},
+	{"name":"RICHEY CARL EUGENE JR","address":"904 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611-0443","lon":-98.32138658250474,"lat":30.752626943056804},
+	{"name":"HAYNES SHIELA CARPENTER","address":"1070 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.270596,"lat":30.754959},
+	{"name":"RUIZ RAFAEL R","address":"220 YUCCA DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.30928054928577,"lat":30.764983491504207},
+	{"name":"PERKINS TOMMY W ETUX DOROTHY F","address":"408 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611-2852","lon":-98.32022596672265,"lat":30.758393545305953},
+	{"name":"MORALES JOE & ELENA","address":"688 PR 4 S","city":"BURNET","state":"TX","zip":"78611","lon":-98.262779,"lat":30.69398},
+	{"name":"NATIONSTAR MORTGAGE LLC","address":"399 POSSOM TROT","city":"BURNET","state":"TX","zip":"78611","lon":-98.255552,"lat":30.7546},
+	{"name":"POE JAMES K","address":"316 CR 118A","city":"BURNET","state":"TX","zip":"78611","lon":-98.387931,"lat":30.713261},
+	{"name":"WARDEN CHANCE JAMES","address":"544 CR 116A","city":"BURNET","state":"TX","zip":"78611","lon":-98.265198,"lat":30.756492},
+	{"name":"BARDALES LUIS ALFREDO AYUELA & JESSICA CORAIMA HERNANDEZ","address":"105 MESQUITE LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.321126,"lat":30.757067},
+	{"name":"HERNANDEZ ROSA ROJO","address":"625 CR 118","city":"BURNET","state":"TX","zip":"78611","lon":-98.388121,"lat":30.716204},
+	{"name":"LOST MOUNTAIN PROPERTIES LLC","address":"431 PAINTED HORSE TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.27237440724444,"lat":30.693330602790475},
+	{"name":"HEARN KASSSANDRA","address":"102 BIG SKY","city":"BURNET","state":"TX","zip":"78611","lon":-98.27020153061224,"lat":30.769658346938776},
+	{"name":"HALL LERA CAROLYN","address":"4905 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.32682,"lat":30.725954},
+	{"name":"EPPERSON LAUREY","address":"201 CLEAR CREEK RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.37838210415882,"lat":30.755851340498804},
+	{"name":"TIPPS DAWN REINSCH AND TIPPS BOBBY","address":"2551 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.261749,"lat":30.759605},
+	{"name":"HUYNH TRI D & TUYEN T LY","address":"811 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.29979854479129,"lat":30.769014794888395},
+	{"name":"WULLIAMSON GEORGE L & MARY E REVOCABLE LIVING TRUST","address":"6716 W PARK ROAD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.381909,"lat":30.716001},
+	{"name":"MANHART ASHLIE","address":"7719 PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.378712,"lat":30.703551},
+	{"name":"WILLS NICHOLAS M & MEAGAN","address":"101 SANDY","city":"BURNET","state":"TX","zip":"78611","lon":-98.309718,"lat":30.765097},
+	{"name":"ANGLIN LONNIE & ALICE MARIE","address":"646 CR 116A","city":"BURNET","state":"TX","zip":"78611-5665","lon":-98.266484,"lat":30.755304},
+	{"name":"TINDELL JAMES & KARMAN","address":"2655 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.294836,"lat":30.739773},
+	{"name":"HANCOCK HEATHER HAYNES","address":"1054 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.270651,"lat":30.752642},
+	{"name":"ROBERTSON BENJAMIN & JESSICA","address":"1301 STONE MOUNTAIN DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.323892,"lat":30.670948},
+	{"name":"LONG GERALD L","address":"708 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611-2835","lon":-98.31831345997955,"lat":30.752625921950777},
+	{"name":"BIBLE ROBERT W","address":"5018 HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.12855435633611,"lat":30.751260306780583},
+	{"name":"HOLCOMB SHANON M COBLE","address":"114 MESQUITE LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.32126342199673,"lat":30.75692608730967},
+	{"name":"PENNY-LEACH VICKY L","address":"704 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611-7511","lon":-98.31820621853151,"lat":30.75267330599833},
+	{"name":"OGLESBY RUSSELL RICHARD","address":"220 CR 118A (UTE TRAIL)","city":"BURNET","state":"TX","zip":"78611","lon":-98.38823154927547,"lat":30.71528133697854},
+	{"name":"WAXLER HENRY LEE JR (DEC'D)","address":"110 PECAN LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.32155163265305,"lat":30.761366285714285},
+	{"name":"RODRIGUEZ KARINA CRUZ","address":"210 VALLEY DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.29959360115421,"lat":30.76751887493745},
+	{"name":"FOREMAN BARRE JASON","address":"835 N OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.25700602040817,"lat":30.74460106122449},
+	{"name":"WRIGHT THERESA & WRIGHT JOHN","address":"118 LIVE OAK RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.29777227150521,"lat":30.764225199481487},
+	{"name":"ATKISON GREGORY R","address":"300 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.321065,"lat":30.759207},
+	{"name":"VANCE PAUL","address":"308 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32100722075181,"lat":30.759142729969472},
+	{"name":"GREER DIANA JEAN","address":"219 CR 118A","city":"BURNET","state":"TX","zip":"78611","lon":-98.387776,"lat":30.714663},
+	{"name":"PEREZ MELINDA & BOBBY WALPOLE","address":"111 OAK LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.32127556939824,"lat":30.75543104341037},
+	{"name":"SMITH-SKAGGS KYLE","address":"203 LAKEVIEW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32095491983006,"lat":30.752512403590444},
+	{"name":"HOOVER JOHN A & BRANDI","address":"211 VALLEY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.29806157142856,"lat":30.762088428571428},
+	{"name":"BIDDY NADINE","address":"123 CR 118A","city":"BURNET","state":"TX","zip":"78611","lon":-98.38786,"lat":30.715599},
+	{"name":"KING JAMES C","address":"608 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.31835583080863,"lat":30.755391845902967},
+	{"name":"FERRUSQUIA MARIA M","address":"6227 W HWY 29 ","city":"BURNET","state":"TX","zip":"78611-4049","lon":-98.323216,"lat":30.766469},
+	{"name":"HALLEY DICK & LISA HARRINGTON","address":"301 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.322115,"lat":30.763013},
+	{"name":"EDWARDS JAMES L","address":"106 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611-4056","lon":-98.322224,"lat":30.765784},
+	{"name":"SADLER MELANIE R","address":"112 SADDLE ROCK RD","city":"BURNET","state":"TX","zip":"78611-4060","lon":-98.29849081733104,"lat":30.76679328405546},
+	{"name":"SEIFERT MICHAEL W JR","address":"710 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.31837204606568,"lat":30.7526227899902},
+	{"name":"BROWN GENE","address":"224 CR 118A","city":"BURNET","state":"TX","zip":"78611","lon":-98.388026,"lat":30.714111},
+	{"name":"GALLARDO JOE E","address":"711 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.301860108963,"lat":30.767988007327773},
+	{"name":"MEJIA ARISTARRCO GUERRERO & CHRISTINA RAMIREZ SIERRA","address":"200 WAYWARD DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.29979356864219,"lat":30.76198030962935},
+	{"name":"ZASTOUPIL RANDY","address":"822 CR 121","city":"MARBLE FALLS","state":"TX","zip":"78654-0943","lon":-98.288825,"lat":30.666768},
+	{"name":"ROGERS BRANDON  &  PAULA","address":"100 ROGERS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.299843,"lat":30.7682},
+	{"name":"PHILLIPS KEITH & SANDRA","address":"316 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.30742524115782,"lat":30.765150022936638},
+	{"name":"PRINCE ELMA LAVONNE","address":"109 SENECA DR","city":"BURNET","state":"TX","zip":"78611-5969","lon":-98.39012333203634,"lat":30.71569061394254},
+	{"name":"HAYDON TOMMY","address":"501 N OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.258728,"lat":30.7423966},
+	{"name":"GOINS TIMOTHY","address":"1004 DEER SPRINGS DR.","city":"BURNET","state":"TX","zip":"78611","lon":-98.32082769071496,"lat":30.755283956408007},
+	{"name":"HAGAR JAMES L","address":"402 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32026979543511,"lat":30.758441501930395},
+	{"name":"HOLCOMB DAVIS ANTHONY","address":"200 SHADOW RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.30483,"lat":30.762385},
+	{"name":"PARKER BETH ANN","address":"314 SUNSET DR","city":"BURNET","state":"TX","zip":"78611-9736","lon":-98.26074103026826,"lat":30.755906486581633},
+	{"name":"WILKINS LAMOND N & ISELA GUARDADO","address":"119 MESQUITE LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.32121378806477,"lat":30.757090140786943},
+	{"name":"MILLER HELEN CANDLER REVOCABLE TRUST","address":"1005 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.267278,"lat":30.751765},
+	{"name":"SEILEY VICKIE G ETVIR TOMMY S","address":"103 CLEAR CREEK DR","city":"BURNET","state":"TX","zip":"78611-2970","lon":-98.3785424082339,"lat":30.756965970593228},
+	{"name":"LARUE JOHN W","address":"214 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.322264,"lat":30.764149},
+	{"name":"JOHANSON BLAKE","address":"6801 W HWY 29","city":"BURNET","state":"TX","zip":"78611-4047","lon":-98.336411,"lat":30.763983},
+	{"name":"GOVEA HECTOR ARREDONDO","address":"213 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.322741,"lat":30.76447},
+	{"name":"CALHOUN JOHN H & BILLIE","address":"103 MESQUITE LANE","city":"BURNET","state":"TX","zip":"78611-4053","lon":-98.320864,"lat":30.75703},
+	{"name":"CRAIG WAYNE","address":"301 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.321212,"lat":30.760066},
+	{"name":"PERKINS JERRY DEAN - YVONNE CHANTELL WOLFE & BRUCE WAYNE","address":"222 VALLEY DR","city":"BURNET","state":"TX","zip":"78611-4075","lon":-98.29951122300135,"lat":30.767439961286335},
+	{"name":"HATHCOCK SHON D & KATHERINE","address":"110 MESQUITE LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.32123844428338,"lat":30.756920919506907},
+	{"name":"WOODWARD CRAIG & NONA","address":"952 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.2622987,"lat":30.7274453},
+	{"name":"BEACH WAYNE FREEMAN & MALINDA","address":"222 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.30924121464805,"lat":30.76497257459474},
+	{"name":"LIGHTFOOT JUDY","address":"5228 W HWY 29 ","city":"BURNET","state":"TX","zip":"78611-2432","lon":-98.302833,"lat":30.761854},
+	{"name":"VALLEJO JORGE","address":"423 TEJAS TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.3887716955771,"lat":30.714282348439372},
+	{"name":"DAVIS RICHARD LEON","address":"111 LIVE OAK RD","city":"BURNET","state":"TX","zip":"78611-0403","lon":-98.29799701333697,"lat":30.764025463718035},
+	{"name":"GSD HOLDINGS LLC","address":"108 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32009021560503,"lat":30.765326769670658},
+	{"name":"STINE ROBERT C & MOLLY J","address":"4401 PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.322459,"lat":30.677339},
+	{"name":"BRINKLEY MANAGEMENT TRUST","address":"1171 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.264767,"lat":30.759664},
+	{"name":"MURPHY PHILIP SEAN & TERESA JO","address":"321 EAGLE RIDGE","city":"BURNET","state":"TX","zip":"78611","lon":-98.274714,"lat":30.771842},
+	{"name":"POE JAMES K","address":"502 TEJAS TRL","city":"BURNET","state":"TX","zip":"78611-5619","lon":-98.38908848609206,"lat":30.713755972615626},
+	{"name":"HOPKINS LAURIE E","address":"100 SHADOW LN","city":"BURNET","state":"TX","zip":"78611-4070","lon":-98.302791,"lat":30.762997},
+	{"name":"BRINKLEY MANAGEMENT TRUST","address":"881 STEFFEY LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.28770062276354,"lat":30.72611963641243},
+	{"name":"BOX BILLY GAIL","address":"613 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.30330798678088,"lat":30.767492871112985},
+	{"name":"BECKER ROBERT & KATHRYN","address":"104 ROUND UP CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27975875510204,"lat":30.769612285714285},
+	{"name":"YOUNGGREN TRACY & LORI","address":"229 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.30915123540152,"lat":30.764762096995103},
+	{"name":"SANDOWSKY MICHELLE LYNNE & JAMES CLIFFORD FETZNER","address":"207 CR 118A","city":"BURNET","state":"TX","zip":"78611","lon":-98.387845,"lat":30.715062},
+	{"name":"WENDT RICHARD VERNON & VALERIE MARIE","address":"1030 WILLIAMS RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.32221929765886,"lat":30.74595091638796},
+	{"name":"SHELDEN MIKE","address":"223 VALLEY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.29810949534695,"lat":30.76262099994941},
+	{"name":"BRIGNER DAVID","address":"102 SADDLE ROCK","city":"BURNET","state":"TX","zip":"78611","lon":-98.29872940331975,"lat":30.7668212234909},
+	{"name":"SASKO LEVI JOHN","address":"107 MAGGIE LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.32086584890135,"lat":30.760355216586344},
+	{"name":"GSD HOLDINGS LLC","address":"106 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.3203706552731,"lat":30.76539589572511},
+	{"name":"REEVES RICKY D","address":"360 NAVAJO DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.3917895,"lat":30.7137418},
+	{"name":"CRAIG WAYNE & MONICA","address":"106 PECAN LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.32147697959184,"lat":30.76136457142857},
+	{"name":"WAGGONER STEPHANIE","address":"100 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611-2866","lon":-98.321162,"lat":30.765753},
+	{"name":"ROBERTSON B L","address":"5030 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.12801192722685,"lat":30.751166511300973},
+	{"name":"BEAN JEFFREY","address":"802 YUCCA DRIVE","city":"BURNET","state":"TX","zip":"78611-0543","lon":-98.29987377560803,"lat":30.768999283379788},
+	{"name":"CHILDRESS BOBBY L & JUDY DIANE REVOCABLE LIVING TRUST","address":"829 CR 118","city":"BURNET","state":"TX","zip":"78611-5623","lon":-98.390601,"lat":30.71602},
+	{"name":"ODOM RON & JANIE","address":"6214 W HWY 29 ","city":"BURNET","state":"TX","zip":"78611","lon":-98.32197,"lat":30.767793},
+	{"name":"SRS BURNETT PROPERTY LLC","address":"2751 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.26343,"lat":30.760009},
+	{"name":"CRUM CHRIS (DEC'D) ETUX SARA","address":"111 APACHE DR","city":"BURNET","state":"TX","zip":"78611-5481","lon":-98.389909,"lat":30.714241},
+	{"name":"RHEA MARIA ELAINE","address":"801 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611-0411","lon":-98.3218149,"lat":30.7528309},
+	{"name":"CALHOUN JOHN H","address":"404 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.3202551858643,"lat":30.758425516388915},
+	{"name":"CONTINENTAL HOMES OF TEXAS LP","address":"208 DELAWARE SPRINGS BLVD DRIVE","city":"BURNET","state":"TX","zip":"78611","lon":-98.2516841292024,"lat":30.716358224540766},
+	{"name":"CASAS SOSIMO & MARGARITA","address":"107 APACHE DR","city":"BURNET","state":"TX","zip":"78611-5481","lon":-98.389567,"lat":30.7141},
+	{"name":"BROOKS BARBARA","address":"1003 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.320878,"lat":30.752713},
+	{"name":"GONZALEZ AGUILINO FLORES","address":"216 VALLEY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.29955241207777,"lat":30.767479418111893},
+	{"name":"BROWN JAMES & TARA","address":"105 ROUND UP CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27971475510205,"lat":30.769452285714284},
+	{"name":"HIGGINS FANNY MARY (DEC'D)","address":"201 VALLEY DR","city":"BURNET","state":"TX","zip":"78611-4075","lon":-98.298053,"lat":30.761657},
+	{"name":"CORDELL JAMES","address":"4800 HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.284816,"lat":30.762343},
+	{"name":"CARNEY BARBARA","address":"210 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.31895413190223,"lat":30.762707753567266},
+	{"name":"PIRIE JULIA","address":"105 MAGGIE LN","city":"BURNET","state":"TX","zip":"78611-4054","lon":-98.32089489926757,"lat":30.76035847772423},
+	{"name":"GRANITE ANTLER LLC","address":"8701 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.0714534,"lat":30.7475584},
+	{"name":"JACKSON KAY E","address":"313 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.320469,"lat":30.763423},
+	{"name":"SHAW JAMES A SR & DARLA S","address":"617 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.30328131570785,"lat":30.76755216148398},
+	{"name":"BURNET CITY OF","address":"107 BIG SKY","city":"BURNET","state":"TX","zip":"78611","lon":-98.27021159183674,"lat":30.769842040816325},
+	{"name":"CRAIG JESTON","address":"111 TURKEY LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.32148668139163,"lat":30.759461418943893},
+	{"name":"WILLIAMS NATHAN & KELLY TRUST","address":"107 CANYON VIEW","city":"BURNET","state":"TX","zip":"78611","lon":-98.2738743,"lat":30.7694471},
+	{"name":"CRAIG JOHN","address":"107 TURKEY LANE","city":"BURNET","state":"TX","zip":"78611-7084","lon":-98.32141640883498,"lat":30.759440851366335},
+	{"name":"ARREDONDO JACOBO ETUX ESPERANZA","address":"202 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611-4052","lon":-98.32194,"lat":30.765407},
+	{"name":"HOPKINS JERRY & MELISSA","address":"122 ROUND UP CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.27992865306122,"lat":30.76957757142857},
+	{"name":"WILLIAMS JOSEPH & KAYLA","address":"253 WANDERING OAK CIRCLE","city":"BURNET","state":"TX","zip":"78611","lon":-98.25479297545905,"lat":30.73169050602892},
+	{"name":"WILLIAMS JEFFREY WAYNE","address":"128 RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.3026017119938,"lat":30.766502188947726},
+	{"name":"CLENDENNEN CHRISTOPHER","address":"820 CR 121","city":"MARBLE FALLS","state":"TX","zip":"78654-3836","lon":-98.288068,"lat":30.666885},
+	{"name":"WILLIAMS DAVID L & KAREN L","address":"117 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28196197718219,"lat":30.767442156808517},
+	{"name":"CHAVARRIA ADNABET PEREZ & PARISH HARRIS","address":"118 WRANGLERS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.28188307161122,"lat":30.767625024547996},
+	{"name":"CASTELLAW JEFFREY W (DEC'D) & HERMELINDA","address":"100 MAGGIE LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.320929,"lat":30.760528},
+	{"name":"FIALA DAN & JANET","address":"454 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.246994,"lat":30.7307747},
+	{"name":"MCGINTY JOYCE","address":"607 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611-0355","lon":-98.31866982235185,"lat":30.75540391812626},
+	{"name":"BALLARD ROBERT JAMES ETAL","address":"101 VALLEY ","city":"BURNET","state":"TX","zip":"78611","lon":-98.2978,"lat":30.761004},
+	{"name":"DOOLEY SHIRLEY ANN","address":"5618 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.309902,"lat":30.76373},
+	{"name":"CASTILLO EDILA","address":"101 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32036610050929,"lat":30.76521083509337},
+	{"name":"BRAMHALL BRENT G & ANNA L","address":"113 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32024800334257,"lat":30.765189183946138},
+	{"name":"NORWOOD STEPHEN D","address":"209 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611-2803","lon":-98.31948994794782,"lat":30.764300747463082},
+	{"name":"KESARIA CHINTAN CHANDRAKANT & ASHMI CHINTAN KESARIA","address":"109 CANYON VIEW","city":"BURNET","state":"TX","zip":"78611","lon":-98.2738743,"lat":30.7694471},
+	{"name":"MOORE JERRY D & NANCY R","address":"112 TURKEY LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.32155866912427,"lat":30.759300484647806},
+	{"name":"DELAWARE SPRINGS RANCH INVESTMENTS LLC","address":"327 OAK VISTA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.2471045,"lat":30.7283876},
+	{"name":"KONARIK CAROL ANN LIFE ESTATE","address":"8010 CR 116","city":"BURNET","state":"TX","zip":"78611-5486","lon":-98.373769,"lat":30.717623},
+	{"name":"PK 4 SERIES OF RIVENDELL LLC","address":"3251 PARK RD 4 S","city":"BURNET","state":"TX","zip":"78611","lon":-98.308879,"lat":30.680851},
+	{"name":"VAUGHN LOYD","address":"311 HAPPY HOLLOW DR","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.300052,"lat":30.660143},
+	{"name":"GUMBERT BRENDA LYNN","address":"314 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.3206,"lat":30.763878},
+	{"name":"MEADOWS FORREST KAYE","address":"908 FM 3509","city":"BURNET","state":"TX","zip":"78611-5684","lon":-98.268781,"lat":30.754169},
+	{"name":"GARRETT JOHN W & CAROLYN J","address":"189 THRILL HILL TRAIL","city":"BURNET","state":"TX","zip":"78611","lon":-98.295508,"lat":30.693518},
+	{"name":"FITCH MARLENE","address":"430 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.3069853760325,"lat":30.766734343017173},
+	{"name":"SASKO GUENTHER & TANYA","address":"108 DEER LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.38828937751975,"lat":30.728859081350933},
+	{"name":"SMITH EDWARD A & C LAVERNE","address":"208 HONEY ROCK BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.25569204089292,"lat":30.713986998565712},
+	{"name":"COLEMAN RICK AND RHONDA FAMILY TRUST","address":"216 HONEY ROCK BLVD","city":"BURNET","state":"TX","zip":"78611","lon":-98.25591248193768,"lat":30.714015252691613},
+	{"name":"SMITH EDWARD A & C LAVERNE","address":"110 COBBLESTONE","city":"BURNET","state":"TX","zip":"78611","lon":-98.256431,"lat":30.713041},
+	{"name":"SUAREZ JOSE GUADALUPE FLORES","address":"304 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32103784312037,"lat":30.75917325963438},
+	{"name":"WILSON ALMEDA ANNE","address":"316 FAWN HILL ST","city":"BURNET","state":"TX","zip":"78611","lon":-98.26035994360743,"lat":30.754180787257418},
+	{"name":"IBARRA ROBERTO S & ESTER J","address":"212 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611-0984","lon":-98.31895522401611,"lat":30.762681421893905},
+	{"name":"WISE ROLAND","address":"8640 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.359237,"lat":30.76379},
+	{"name":"VEENSTRA KARYN AYLOR","address":"3103 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.300359,"lat":30.739018},
+	{"name":"HEUSS ROY A & NANCY L","address":"2100 CR 100","city":"BURNET","state":"TX","zip":"78611","lon":-98.253305,"lat":30.736031},
+	{"name":"REED CRAIG","address":"120 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.31174925749643,"lat":30.765404986864574},
+	{"name":"CALLAWAY REMINGTON FAMILY TRUST","address":"438 LAS VISTAS WAY","city":"BURNET","state":"TX","zip":"78611","lon":-98.26128023038639,"lat":30.696767878684124},
+	{"name":"VILLEGAS VICTORIANO & MARIA B","address":"104 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32065214169711,"lat":30.765467923506186},
+	{"name":"DEL MIKE ZENDEH ETUX CAROL","address":"5959 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.316647,"lat":30.765178},
+	{"name":"HANCOCK HEATHER HAYNES","address":"1054 FM 3509","city":"BURNET","state":"TX","zip":"78611-5663","lon":-98.270651,"lat":30.752642},
+	{"name":"PORCH RONNIE SR & BARBARA G","address":"313 FAWN HILL ST","city":"BURNET","state":"TX","zip":"78611","lon":-98.26054179666549,"lat":30.75397514255364},
+	{"name":"SMITH EVELYN L (DEC'D)","address":"104 TURKEY LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.32143155637476,"lat":30.759268828215937},
+	{"name":"SEAMAN COLTER","address":"6671 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.332376,"lat":30.763794},
+	{"name":"GRANITE SHOALS CITY OF","address":"309 TEJAS TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.388828,"lat":30.714957},
+	{"name":"TERRY KENNETH N","address":"115 PECAN LN","city":"BURNET","state":"TX","zip":"78611-2805","lon":-98.32162128571429,"lat":30.761533},
+	{"name":"CRAIG WAYNE & MONICA","address":"102 PECAN ST","city":"BURNET","state":"TX","zip":"78611","lon":-98.22625312244898,"lat":30.752889897959186},
+	{"name":"FRY CASEY","address":"121 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.3116728118449,"lat":30.765238350120995},
+	{"name":"LANGLEY HOMES INC","address":"105 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.2507316,"lat":30.726141},
+	{"name":"OGLESBY RUSSELL RICHARD","address":"118 CR 118A","city":"BURNET","state":"TX","zip":"78611","lon":-98.388283,"lat":30.715689},
+	{"name":"FURST EDWARD D & BARI B","address":"309 CLEAR CREEK DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.37784996405757,"lat":30.755557242657403},
+	{"name":"MATHERS PAULA","address":"7066 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.361319,"lat":30.727471},
+	{"name":"WILLIAMS KATHY","address":"7480 PR 4 S","city":"BURNET","state":"TX","zip":"78611","lon":-98.369931,"lat":30.702703},
+	{"name":"LANGLEY HOMES INC","address":"120 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.2495067,"lat":30.726761},
+	{"name":"LANGLEY HOMES INC","address":"116 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.2498394,"lat":30.7267115},
+	{"name":"LANGLEY HOMES INC","address":"100 AIDAN COURT","city":"BURNET","state":"TX","zip":"78611","lon":-98.2511615,"lat":30.7265013},
+	{"name":"SASKO MARTIN H","address":"912 DEER SPRINGS","city":"BURNET","state":"TX","zip":"78611","lon":-98.32176774751424,"lat":30.752680829170412},
+	{"name":"THE RANCH AT DELAWARE CREEK POA","address":"201 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.244354,"lat":30.719731},
+	{"name":"GRANITE SHOALS CITY OF","address":"313 TEJAS TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.388808,"lat":30.714785},
+	{"name":"SMITH EVELYN L (DEC'D)","address":"104 TURKEY LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.32143155637476,"lat":30.759268828215937},
+	{"name":"BARBOSA EDWARDO","address":"1005 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32076874039247,"lat":30.75269259609739},
+	{"name":"SMITH JAMES K SR","address":"1001 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.319587,"lat":30.754506},
+	{"name":"BECVAR ARTHUR & PAULETTE","address":"105 LAKEVIEW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32080280271056,"lat":30.753115338720555},
+	{"name":"SPRENCEL REAL ESTATE LP","address":"525 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.261878,"lat":30.751157},
+	{"name":"BIDDY NADINE","address":"137 CR 118A","city":"BURNET","state":"TX","zip":"78611-5626","lon":-98.387841,"lat":30.715355},
+	{"name":"CONTRERAS NESTOR B & BRIANA N GARCIA","address":"103 DEER LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.3230617,"lat":30.763329},
+	{"name":"CSWR-TEXAS UTILITY OPERATING COMPANY LLC","address":"201 LAKEVIEW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.320958,"lat":30.752529},
+	{"name":"HOPPER MOZELLE","address":"108 PECAN LN","city":"BURNET","state":"TX","zip":"78611-2805","lon":-98.32151430612245,"lat":30.761365428571427},
+	{"name":"MANCIL JAMES ROSS & REANNA DAYTON MANCIL","address":"115 CR 118A","city":"BURNET","state":"TX","zip":"78611","lon":-98.387867,"lat":30.715929},
+	{"name":"BIRK CARLA C","address":"901 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32650903148317,"lat":30.77218954584878},
+	{"name":"WILBURN MICHAEL LEE","address":"118 RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.30310877751171,"lat":30.76663896896375},
+	{"name":"KLOSINSKI JOANNA","address":"107 OAK LN","city":"BURNET","state":"TX","zip":"78611-4004","lon":-98.32120054163894,"lat":30.75537782604622},
+	{"name":"SCOTT HERBERT JR (DEC'D)","address":"210 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611-4052","lon":-98.322101,"lat":30.764396},
+	{"name":"GOLDSMITH GAYLYN SANDY","address":"610 YUCCA DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.30345733581723,"lat":30.767699333877307},
+	{"name":"SAMMONS DONALD L","address":"103 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32034641764817,"lat":30.765207226568833},
+	{"name":"GUMBERT BRENDA LYNN","address":"320 DEER SPRINGS LP","city":"BURNET","state":"TX","zip":"78611","lon":-98.320145,"lat":30.764162},
+	{"name":"MCCLURE CARLENE JOHNSON","address":"120 SANDY LN","city":"BURNET","state":"TX","zip":"78611-4085","lon":-98.310249,"lat":30.766053},
+	{"name":"WINK INC LLC","address":"224 SUNDAY DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.24789441582763,"lat":30.718504529332577},
+	{"name":"BRAMHALL BRENT G & ANNA L","address":"111 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32026768620369,"lat":30.765192792470675},
+	{"name":"SVC INVESTMENTS BURNET TRACT LLC","address":"109 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.2810042,"lat":30.7447453},
+	{"name":"MCGREGORY STEPHEN & HEATHER COLLIER","address":"7320 PARK ROAD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.386686,"lat":30.709332},
+	{"name":"CASAS SOSIMO & MARGARITA","address":"402 APACHE DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.3935152910165,"lat":30.71446794162881},
+	{"name":"HICKMAN WILLIAM & SANDRA","address":"409 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.3211586765611,"lat":30.7590050688011},
+	{"name":"KLOSINSKI WILLIAM SCOTT","address":"100 TURKEY LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.321368,"lat":30.759253},
+	{"name":"CONTRERAS NESTOR B & BRIANA N GARCIA","address":"101 DEER LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.388383,"lat":30.729004},
+	{"name":"ARREDONDO JULIA","address":"317 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.31988,"lat":30.763902},
+	{"name":"HAGEN KENNETH & RENEE","address":"100 LAVONNA FOX DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.265202,"lat":30.733646},
+	{"name":"ARREDONDO HECTOR","address":"109 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32028736906481,"lat":30.765196400995215},
+	{"name":"GSD HOLDINGS LLC","address":"110 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.31990880411234,"lat":30.76510137491422},
+	{"name":"MCCURRY MICHAEL L & AMANDA LYNN LOFTIN MCCURRY","address":"208 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.31895324291771,"lat":30.762734126774443},
+	{"name":"JAZ TRUST","address":"5555 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.31405,"lat":30.763184},
+	{"name":"WEISINGER LARRY ALLEN","address":"116 YUCCA DR","city":"BURNET","state":"TX","zip":"78611-7195","lon":-98.31184103423581,"lat":30.765376153515238},
+	{"name":"OAK ALLEY STORAGE LLC","address":"2435 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.259176,"lat":30.760222},
+	{"name":"LEATHERWOOD PAMELA & EDWARD B ISBELL","address":"3004 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.264767,"lat":30.759664},
+	{"name":"SANDOVAL-CASTENEDA FRANCISCO NOE","address":"407 TEJAS TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.38882771094586,"lat":30.71436611720065},
+	{"name":"ARREDONDO ESPERANZA","address":"221 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.32304,"lat":30.763973},
+	{"name":"LOWRY DEBRA J","address":"108 MESQUITE LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.3212259554267,"lat":30.756918335605526},
+	{"name":"CRAIG WAYNE","address":"303 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32121353049796,"lat":30.760052945752776},
+	{"name":"DALTON OLEN W II","address":"308 HAPPY HOLLOW","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.301525,"lat":30.663582},
+	{"name":"LARUE JOHN","address":"212 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.322025,"lat":30.76423},
+	{"name":"RUBIO GUALBERTO P","address":"2449 HOOVER VALLEY RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.28920577777778,"lat":30.74279588888889},
+	{"name":"VICKERS FRANCES LESH","address":"112 MESQUITE LANE","city":"BURNET","state":"TX","zip":"78611","lon":-98.32125093314006,"lat":30.756923503408288},
+	{"name":"PEARSON LILA","address":"407 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32119157806603,"lat":30.759034750721774},
+	{"name":"PALACIOS JORGE","address":"311 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.320821,"lat":30.763297},
+	{"name":"PEARSON LILA AND JEAN HALL-PEARSON","address":"405 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32122414470498,"lat":30.759064629466664},
+	{"name":"CASTELLANOS CASSANDRA LYANNE","address":"106 DEER LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.38829103313982,"lat":30.7288585610132},
+	{"name":"HOLLEY TERRY S","address":"206 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.32208,"lat":30.765013},
+	{"name":"DAVANZO MATTHEW & RAIGEN JONES","address":"403 TEJAS TRL","city":"BURNET","state":"TX","zip":"78611","lon":-98.38884123698195,"lat":30.714387372400218},
+	{"name":"ARREDONDO JACOBO &","address":"102 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.321684,"lat":30.765461},
+	{"name":"ARREDONDO LETICIA","address":"201 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.319527,"lat":30.76432},
+	{"name":"WILBURN MICHAEL LEE","address":"116 RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.3032017543237,"lat":30.766689418265322},
+	{"name":"ARREDONDO LETICIA","address":"321 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.319622,"lat":30.764151},
+	{"name":"GARRETT BARBARA A & NELSON GENE","address":"2011 CR 116B","city":"BURNET","state":"TX","zip":"78611","lon":-98.279466,"lat":30.744342},
+	{"name":"BILLS VICKIE M","address":"112 MICA RD","city":"BURNET","state":"TX","zip":"78611-4093","lon":-98.31000964525626,"lat":30.766539517150623},
+	{"name":"CATLIN TRACE & LIZ","address":"200 LAKEVIEW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.320952,"lat":30.751661},
+	{"name":"RITCHIE JULIA F","address":"528 CR 116A","city":"BURNET","state":"TX","zip":"78611","lon":-98.264051,"lat":30.757056},
+	{"name":"HAMMOND PEGGY","address":"550 Steffey","city":"BURNET","state":"TX","zip":"78611","lon":-98.28259492761893,"lat":30.736353178095747},
+	{"name":"ARREDONDO JACOBO","address":"107 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32030705192594,"lat":30.765200009519752},
+	{"name":"NEUSCH INNOVATIONS LP","address":"6902 PARK ROAD 4 WEST","city":"BURNET","state":"TX","zip":"78611","lon":-98.381758,"lat":30.712951},
+	{"name":"CASTELLANOS CASSANDRA LYANNE","address":"104 DEER LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.38829268875988,"lat":30.72885804067547},
+	{"name":"VASQUEZ INTERESTS FAMILY PARTNERSHIP","address":"3207 PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.302785,"lat":30.679089},
+	{"name":"INKS LAKE VISTA RANCH LLC","address":"9149 W SH 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.365115,"lat":30.757661},
+	{"name":"ARREDONDO JACOBO &","address":"204 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.322194,"lat":30.765263},
+	{"name":"ARREDONDO JACOBO","address":"105 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32032673478706,"lat":30.765203618044293},
+	{"name":"ARREDONDO RAYMUNDO","address":"315 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.320183,"lat":30.763551},
+	{"name":"CASTILLO MARTHA ALICIA SANDOVAL","address":"309 DEER SPRINGS LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.321041,"lat":30.763262},
+	{"name":"ANDUJO RAUL ALONSO & ZULY ZAMBRANO DE ANDUJO","address":"111 RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.30341837728682,"lat":30.7665722901737},
+	{"name":"ANDUJO RAUL ALONSO & ZULY ZAMBRANO DE ANDUJO","address":"111 RIDGE RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.30341837728682,"lat":30.7665722901737},
+	{"name":"BRADY NANCY PEAK LIFE ESTATE","address":"6550 HOOVER VALLEY RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.35139827344328,"lat":30.725265694999738},
+	{"name":"MAY BILLY F","address":"6600 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.329345,"lat":30.767773},
+	{"name":"DELAWARE SPRINGS PROPERTIES ASSOCIATION INC","address":"147 RACHEL LOOP","city":"BURNET","state":"TX","zip":"78611","lon":-98.2504496,"lat":30.7247932},
+	{"name":"WENDT RICHARD VERNON & VALERIE MARIE","address":"740 WILLIAMS RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.32223336120401,"lat":30.741647471571905},
+	{"name":"BINGHAM DUANE B","address":"2780 CR 120A","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.359716,"lat":30.673695},
+	{"name":"BRINKLEY MANAGEMENT TRUST","address":"1693 CR 116B","city":"BURNET","state":"TX","zip":"78611","lon":-98.278424,"lat":30.745927},
+	{"name":"WIMBERLY PERRY L","address":"121 AMBER CREEK","city":"BURNET","state":"TX","zip":"78611","lon":-98.28051684773325,"lat":30.6821954683173},
+	{"name":"MASON JAMES & MEGAN","address":"6409 CR 116","city":"BURNET","state":"TX","zip":"78611","lon":-98.352129,"lat":30.723165},
+	{"name":"PHAM TOM","address":"103 LAKEVIEW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32080047936398,"lat":30.753122899118864},
+	{"name":"BESSNER BRUCE P & HELEN L","address":"152 REED RANCH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.352636,"lat":30.751415},
+	{"name":"LOIS SUZANNE RAE LAMBERT IRREVOCABLE TRUST","address":"1800 PARK RD 4 S","city":"BURNET","state":"TX","zip":"78611","lon":-98.279557,"lat":30.689494},
+	{"name":"AMIDON BONNIE LIFE ESTATE","address":"552 CR 116A","city":"BURNET","state":"TX","zip":"78611","lon":-98.265887,"lat":30.755786},
+	{"name":"THE JAUNTY RANCHETTE LLC","address":"5677 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.339437,"lat":30.725517},
+	{"name":"PETTY ROBERT B & STACEY ANN","address":"310 VALLEY VIEW EAST","city":"BURNET","state":"TX","zip":"78611","lon":-98.332521,"lat":30.730999},
+	{"name":"CLENDENNEN CHRISTOPHER","address":"815 CR 121","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.28656,"lat":30.666097},
+	{"name":"GARRETT BARBARA A & NELSON GENE","address":"2011 CR 116B","city":"BURNET","state":"TX","zip":"78611","lon":-98.279466,"lat":30.744342},
+	{"name":"ACOSTA FAMILY TRUST","address":"701 CROWN LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.354433,"lat":30.702307},
+	{"name":"SALINAS STEVEN D & SINDRA","address":"2431 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.288785,"lat":30.74112},
+	{"name":"CLASSEN WESTON C & ASHLEY S","address":"1188 CROWN LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.35214288258585,"lat":30.711781193575373},
+	{"name":"MARTIN LEWIS W III","address":"100 BACKBONE CREEK DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.291881,"lat":30.684747},
+	{"name":"GOBLE EARL B JR","address":"5424 S HWY 281","city":"BURNET","state":"TX","zip":"78611","lon":-98.2529645,"lat":30.6970835},
+	{"name":"MCCORD SCOTT RICHARD & JANICE MARIE","address":"194 REED RANCH RD","city":"BURNET","state":"TX","zip":"78611","lon":-98.352636,"lat":30.751415},
+	{"name":"HERNANDEZ DOMINIC D & DEADRA N","address":"750 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.28082403578902,"lat":30.67661661701142},
+	{"name":"GOLLNICK CHRISTOPHER & RACHEL","address":"1681 ROCKY HOLLOW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32844448335513,"lat":30.773516375781867},
+	{"name":"CLENDENNEN WAYNE","address":"824 CR 121","city":"MARBLE FALLS","state":"TX","zip":"78654","lon":-98.292191,"lat":30.662091},
+	{"name":"SEXTON LARRY & KATHY","address":"100 AMBER OAKS","city":"BURNET","state":"TX","zip":"78611","lon":-98.28381,"lat":30.687002},
+	{"name":"AMESCUA MIKE & AMESCUA DIANNA","address":"5700 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.3404,"lat":30.726964},
+	{"name":"GHOLSON JIMMY","address":"300 STEFFEY LN","city":"BURNET","state":"TX","zip":"78611","lon":-98.28293897959816,"lat":30.739755207714364},
+	{"name":"SALINAS STEVEN D & SINDRA","address":"2431 FM 3509","city":"BURNET","state":"TX","zip":"78611","lon":-98.288785,"lat":30.74112},
+	{"name":"OAK ALLEY STORAGE LLC","address":"2435 W HWY 29","city":"BURNET","state":"TX","zip":"78611","lon":-98.259176,"lat":30.760222},
+	{"name":"EBELING FAMILY TRUST","address":"4370 PR 4 S","city":"BURNET","state":"TX","zip":"78611","lon":-98.320735,"lat":30.679857},
+	{"name":"BRYAN ROBERT ALAN & KIMBERLY RENE HODDE","address":"1607 CR 116B","city":"BURNET","state":"TX","zip":"78611","lon":-98.27709,"lat":30.747704},
+	{"name":"LESTER WILLIAM ROBERT","address":"6640 W PARK RD 4","city":"BURNET","state":"TX","zip":"78611","lon":-98.382692,"lat":30.717722},
+	{"name":"MAXWELL STEPHEN & KERRIE","address":"1671 CR 116B","city":"BURNET","state":"TX","zip":"78611","lon":-98.277412,"lat":30.746591},
+	{"name":"PIPPENGER TONY D","address":"1900 CR 116B","city":"BURNET","state":"TX","zip":"78611","lon":-98.280609,"lat":30.745512},
+	{"name":"CATLIN TRACE & LIZ","address":"804 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.3225909,"lat":30.7530017},
+	{"name":"CATLIN TRACE & LIZ","address":"806 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.3226667,"lat":30.7530337},
+	{"name":"CATLIN TRACE & LIZ","address":"204 LAKEVIEW DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.32097033883166,"lat":30.75169377578424},
+	{"name":"JAZ TRUST","address":"600 DEER SPRINGS DR","city":"BURNET","state":"TX","zip":"78611","lon":-98.318474,"lat":30.755592},
 ];
