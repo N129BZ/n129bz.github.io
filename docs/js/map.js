@@ -1,4 +1,4 @@
-import { disclaimerClause } from './disclaimer.js';
+import { disclaimerClause } from './notices.js';
 import { data } from './saveburnet.js';
 //import { fulldata } from './saveburnetx.js';
 
@@ -107,12 +107,8 @@ map.on('singleclick', function (evt) {
         content.innerHTML = `<pre><code>` +
                             `<div class='popup-box'>` +
                                 `<div class='popup-title'>` +
-                                    `Save Burnet Affected Address\n` +
+                                    `Rock Crushing Facility Affected Address\n` +
                                 `</div>\n` +
-                                    /* `NOTE: Location may be that of the\n` +
-                                    `registered property owner as listed\n`+
-                                    `in Burnet County public records, and\n` +
-                                    `not the physical property location.\n\n` + */
                                     `To request a marker be removed from this\n` +  
                                     `map click the email link below:\n\n<div class="email-word" id="email-word">n129bz@outlook.com</div>\n` +
                                 `</div>\n\n` +
