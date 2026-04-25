@@ -1,4 +1,5 @@
 import { data } from './saveburnet.js';
+//import { fulldata } from './fulldata.js';
 
 // Get the popup elements from the dom
 const container = document.getElementById('popup');
